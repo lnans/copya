@@ -1,0 +1,12 @@
+{
+  "name": "shallow-cnv-viewer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Browser viewer for shallow whole-genome sequencing CNVs (BAM/BAI/BED)",
+  "scripts": {
+    "verify": "node test/compare-with-original.cjs"
+  },
+  "devDependencies": {
+    "pako": "2.1.0"
+  }
+}

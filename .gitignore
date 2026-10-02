@@ -1,0 +1,4 @@
+node_modules/
+*.bam
+*.bai
+*.bed
