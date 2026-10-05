@@ -1,102 +1,84 @@
-# Shallow genome CNV viewer
+# viewer-cnv
 
-Browser app to review CNVs (copy number variants) called on shallow whole-genome sequencing
-(e.g. by WisecondorX). It reads a BAM, its BAI index and an optional BED of CNVs, computes a
-log2 copy-number ratio per bin, and displays it with [igv.js](https://github.com/igvteam/igv.js).
+CNV viewer for shallow WGS (GRCh38), built from [`Requirements.md`](Requirements.md).
+Production build is a static site under `dist/` (`index.html`, hashed assets, and `annotations/` from `public/`).
 
-Everything runs locally in the browser: files are never uploaded.
+Stack: React + TypeScript, Vite, Tailwind CSS,
+[shadcn/ui](https://ui.shadcn.com) (Base UI), [shadcn charts](https://ui.shadcn.com/docs/components/chart) (Recharts), Vitest.
 
-## Usage
+## Commands
 
-1. Open `index.html` in a recent browser (double-click works; an internet connection is needed
-   for igv.js, pako, the reference genome and the gene annotation).
-2. Drop the `.bam`, `.bam.bai` and optionally the CNV `.bed` on the drop zone.
-3. Choose the genome (hg38 / hg19) and bin size, then click **Visualiser**.
-4. Click a CNV in the list to zoom on it; use the chromosome selector for the whole-chromosome view.
-
-Requirements: coordinate-sorted BAM with its BAI index.
-
-## Views
-
-- **Chromosome entier**: log2 ratio per bin (points) over the whole chromosome, optionally with a
-  moving average line, to spot mosaic CNVs.
-- **Région du CNV**: RefSeq genes, log2 ratio (bars, fixed scale) and the reads, around the selected CNV.
-
-## Calculations
-
-1. **Read counting** – for each chromosome (chr1–22, X, Y), reads are counted in fixed bins
-   (default 15 kb) by their leftmost position. Only the chromosome's byte range is read from the
-   BAM, located with the BAI index; BGZF blocks are decompressed in parallel in Web Workers.
-   Reads are skipped if:
-   - mapping quality < 10 (configurable);
-   - unmapped (0x4, always), or secondary (0x100), QC fail (0x200), duplicate (0x400),
-     supplementary (0x800) (each configurable).
-2. **Normalisation** – reference value = median of the non-empty bins of the autosomes
-   counted so far (assumed diploid).
-3. **log2 ratio** – per bin: `log2(count / median)`; empty bins are left out.
-   0 = 2 copies, −1 = 1 copy, +0.58 = 3 copies.
-4. **Smoothing (optional)**
-   - rolling median over *n* bins on the region track ("Lissage", 1 = none);
-   - rolling mean over *n* bins drawn over the chromosome track ("Moyenne mobile", 0 = none).
-
-   Windows are centred, truncated at chromosome ends, and ignore empty bins.
-
-The chromosome of the first CNV is counted first; the others are counted in the background
-(tracks are marked *provisoire* until all chromosomes are done, since the median may still move).
-Selecting a CNV or chromosome moves it to the front of the queue.
-
-## CNV BED file
-
-Columns: `chrom start end [log2 ratio] [z-score] [type]`. `track`/`browser`/`#` lines and
-header lines are ignored, `7` and `chr7` are both accepted.
-
-- **Coordinates** – WisecondorX writes 1-based starts, standard BED is 0-based. The convention
-  is detected (WisecondorX header, or starts ending in …001 and ends in …000) or can be forced
-  in *Paramètres avancés*. Positions are displayed 1-based.
-- **Type** – `gain`/`loss` (or `dup`/`amp`/`del`) from column 6, otherwise from the sign of the
-  ratio. A warning is shown when both disagree.
-
-## Settings
-
-Main panel: genome, bin size, median smoothing, moving average.
-*Paramètres avancés*: BED coordinates, read filters (applied at the next **Visualiser**),
-and display (log2 scale, colours, track heights, read display window, margin around CNVs),
-applied immediately. Defaults are the `value` attributes in `index.html`.
-
-## Project layout
-
-```
-index.html               page layout and settings inputs
-css/viewer.css           styles
-js/app.js                UI and IGV integration (the only IGV-dependent file)
-js/lib/bgzf.js           BGZF decompression, Web Worker pool
-js/lib/bai.js            BAI index: byte range of each chromosome
-js/lib/bam.js            BAM header, per-bin read counting
-js/lib/bed.js            CNV BED parsing
-js/lib/coverage.js       median, log2 ratio, smoothing, bedGraph export
-js/lib/coverage-job.js   background counting queue
-js/lib/chromosomes.js    chromosome naming
-test/compare-with-original.cjs
-shallow-cnv-viewer V7.html   original single-file version (reference)
+```bash
+yarn install
+yarn dev          # dev server (no CSP, hot reload)
+yarn test         # unit tests (parsers, conversions, demo data)
+yarn build        # type-check + vite build → dist/ (includes public/annotations/)
+yarn preview      # serve dist/ locally
 ```
 
-`js/lib` has no DOM or IGV dependency (only `pako`) and also runs in Node.js.
-`coverage.computeBinValues()` returns plain `{chrom, start, end, value}` rows, usable with any
-charting library.
+### Deploy (static host, e.g. Azure Static Web Apps)
 
-## Verification
+1. Place annotation files in `public/annotations/` (see `public/annotations/README.md`).
+2. `yarn build`
+3. Publish the **`dist/`** folder (includes `index.html`, `assets/`, and `annotations/`).
+
+`staticwebapp.config.json` at the repo root is picked up by Azure SWA (SPA fallback, annotations excluded from rewrite).
+
+Patient sample files (bins, BAM, segments) are still loaded only via the browser file picker; they are not uploaded by the static host.
+
+### Bins file from a BAM
+
+```bash
+yarn bam-to-bins -- files/sample.bam              # → files/sample.bins.15kb.bed
+yarn bam-to-bins -- files/sample.bam --bin 100000 --mapq 20 --out /tmp/sample.bed
+yarn bam-to-bins -- --help
+```
+
+Reads a coordinate-sorted BAM and its BAI (`sample.bam.bai` or `sample.bai`) without loading the
+BAM in memory, and writes the file to load in **Fichier de bins**: `##` metadata lines, then
+`chrom start end log2 reads` (0-based starts, empty bins omitted). Reads are counted by leftmost
+position on chr1-22, X, Y, skipping MAPQ < 10 and flags `0xf04` (unmapped, secondary, QC fail,
+duplicate, supplementary); log2 = log2(reads / median of non-empty autosome bins). The output is
+in `src/lib/bam/`, browser-compatible
+for phase 2 (the CLI passes `node:zlib` as the DEFLATE decoder).
+
+## Production build
+
+- Bundled JS/CSS/fonts/workers under `dist/assets/`.
+- Bundled annotation BED/gzip files under `dist/annotations/` (from `public/annotations/`).
+- CSP `<meta>` on `index.html` (see `vite.config.ts`): same-origin scripts, styles, and `fetch` to `/annotations/*`.
+- Patient data stays in memory; only the theme preference is stored (`localStorage`).
+  **Effacer toutes les données** resets everything and terminates the worker.
+
+## Rendering
+
+The bin scatter plot (`GenomePlot`) is drawn on a Canvas 2D: 30 000 to 300 000 points are too many
+for SVG. shadcn charts (Recharts, SVG) are used for aggregated views, e.g. the median log2 per
+chromosome. Both read the same CSS variables (`--cnv-gain`, `--cnv-loss`, `--cnv-neutral`).
+
+## Layout
 
 ```
-npm install
-npm run verify                               # all chromosomes, 15 kb bins
-npm run verify -- --chromosomes chr7,chrX --bin 10000
+src/
+  App.tsx                         page: sample, files, genome view, summary, segments
+  i18n/fr.ts                      all UI strings (add en.ts with the same shape)
+  components/cnv/                 GenomePlot (canvas), ChromosomeSummaryChart, SegmentsTable
+  components/ui/                  shadcn components (generated, `npx shadcn@latest add …`)
+  lib/genome/hg38.ts              GRCh38 chromosome sizes, chr name normalisation
+  lib/parse/table.ts              delimiter/header/column detection, bins and segments parsers
+  lib/cnv/scale.ts                log2/ratio/copy number, mosaic theoretical lines, presets
+  lib/demo.ts                     seeded synthetic sample (T21 30 % mosaic, 1p36 del, 22q11 dup…)
+  workers/                        parsing Web Worker and its promise client
+public/annotations/               served as static files (ClinGen, RefSeq, DGV, …)
 ```
 
-Runs the original V7 functions and the new modules on the BAM/BAI/BED of the project folder
-and checks that BED parsing, BAI/BAM parsing, read counts, median and bedGraph output are identical.
+## Not done yet (MVP, see requirements)
 
-## Known limitations
-
-- Unsorted BAMs and BAMs over 128 GiB are not supported.
-- No GC-content or mappability correction; no reference panel (the sample is its own reference).
-- Settings are not saved between sessions.
+- Column mapper screen (10-line preview, manual mapping, JSON format profiles). `sniff()` already
+  returns the preview and guessed mapping.
+- VCF segments, gzip input.
+- Zoom/pan, coordinate or gene search, navigation history.
+- Ideogram and annotations (cytoBand, RefSeq/MANE, ClinGen, DGV, local OMIM import).
+- Table filters/sort, segment sheet, PNG/SVG/TSV export, printable report with SHA-256.
+- Python synthetic data generator (`make_test_data.py`).
+- Threshold presets are placeholders until the laboratory provides validated values.

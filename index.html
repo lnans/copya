@@ -1,82 +1,14 @@
 <!doctype html>
-<html lang="fr">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Visionneuse shallow genome</title>
-<link rel="stylesheet" href="css/viewer.css">
-<script src="https://cdn.jsdelivr.net/npm/igv@3/dist/igv.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>
-</head>
-<body>
-<header><h1>Visionneuse shallow genome</h1><span>Tout reste sur votre machine : les fichiers ne sont pas envoyés.</span></header>
-<main>
-<aside>
-  <div id="dz" tabindex="0">Déposez ici le BAM, son BAI et le BED des CNV<br><small>ou cliquez pour parcourir</small></div>
-  <input id="inp" type="file" multiple hidden>
-  <div id="files"></div>
-  <label>Génome <select id="genome"><option value="hg38">hg38</option><option value="hg19">hg19</option></select></label>
-  <label>Taille des bins (kb) <input id="bin" type="number" min="1" step="1" value="15" style="width:80px"></label>
-  <label>Lissage : médiane glissante (nb de bins, 1 = aucun) <input id="sm" type="number" min="1" step="2" value="1" style="width:80px"></label>
-  <label>Moyenne mobile sur la piste mosaïque (nb de bins, 0 = aucune) <input id="ma" type="number" min="0" step="1" value="21" style="width:80px"></label>
-  <details id="advanced">
-    <summary>Paramètres avancés</summary>
-    <fieldset id="bed-settings">
-      <legend>Fichier BED</legend>
-      <label>Coordonnées <select id="bed-coordinates">
-        <option value="auto" selected>Détection automatique</option>
-        <option value="0-based">0-based (BED standard)</option>
-        <option value="1-based">1-based (WisecondorX)</option>
-      </select></label>
-    </fieldset>
-    <fieldset id="count-settings">
-      <legend>Filtrage des reads</legend>
-      <p class="hint">Appliqué au prochain « Visualiser » (nécessite un nouveau comptage).</p>
-      <label>Qualité de mapping minimale (MAPQ) <input id="mapq" type="number" min="0" max="255" step="1" value="10"></label>
-      <label class="check"><input id="flag-dup" type="checkbox" value="1024" checked> Exclure les duplicats (0x400)</label>
-      <label class="check"><input id="flag-secondary" type="checkbox" value="256" checked> Exclure les alignements secondaires (0x100)</label>
-      <label class="check"><input id="flag-supplementary" type="checkbox" value="2048" checked> Exclure les alignements supplémentaires (0x800)</label>
-      <label class="check"><input id="flag-qcfail" type="checkbox" value="512" checked> Exclure les reads QC fail (0x200)</label>
-    </fieldset>
-    <fieldset id="display-settings">
-      <legend>Affichage</legend>
-      <label>Échelle log2 minimale <input id="ratio-min" data-refresh="tracks" type="number" step="0.1" value="-1.5"></label>
-      <label>Échelle log2 maximale <input id="ratio-max" data-refresh="tracks" type="number" step="0.1" value="1.5"></label>
-      <label>Couleur des gains <input id="color-gain" data-refresh="tracks" type="color" value="#2563eb"></label>
-      <label>Couleur des pertes <input id="color-loss" data-refresh="tracks" type="color" value="#dc2626"></label>
-      <label>Couleur de la moyenne mobile <input id="color-ma" data-refresh="tracks" type="color" value="#000000"></label>
-      <label>Épaisseur de la moyenne mobile (px) <input id="width-ma" data-refresh="tracks" type="number" min="1" max="20" step="1" value="3"></label>
-      <label>Hauteur piste région (px) <input id="height-region" data-refresh="tracks" type="number" min="50" max="2000" step="10" value="350"></label>
-      <label>Hauteur piste chromosome (px) <input id="height-chromosome" data-refresh="tracks" type="number" min="50" max="2000" step="10" value="150"></label>
-      <label>Reads affichés sous une fenêtre de (kb) <input id="alignment-window" data-refresh="tracks" type="number" min="1" step="100" value="1000"></label>
-      <label>Marge autour du CNV (% de sa taille) <input id="padding-fraction" data-refresh="cnv" type="number" min="0" max="500" step="5" value="25"></label>
-      <label>Marge minimale (kb) <input id="padding-min" data-refresh="cnv" type="number" min="0" step="1" value="10"></label>
-    </fieldset>
-  </details>
-  <button id="go" disabled>Visualiser</button>
-  <div id="st"></div>
-  <div id="bed-info"></div>
-  <div id="tbl"></div>
-</aside>
-<section>
-  <div class="card">
-    <h2>Chromosome entier <small>ratio log2 par bin, pour repérer les mosaïques</small></h2>
-    <div style="padding:8px 14px"><label>Chromosome <select id="chr"></select></label></div>
-    <div id="igv1" class="igv"></div>
-  </div>
-  <div class="card">
-    <h2>Région du CNV <small>gènes, couverture et reads</small></h2>
-    <div id="igv2" class="igv"></div>
-  </div>
-</section>
-</main>
-<script src="js/lib/chromosomes.js"></script>
-<script src="js/lib/bgzf.js"></script>
-<script src="js/lib/bai.js"></script>
-<script src="js/lib/bam.js"></script>
-<script src="js/lib/bed.js"></script>
-<script src="js/lib/coverage.js"></script>
-<script src="js/lib/coverage-job.js"></script>
-<script src="js/app.js"></script>
-</body>
+<html lang="fr" class="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="no-referrer" />
+    <link rel="icon" href="data:," />
+    <title>Visualiseur CNV</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>

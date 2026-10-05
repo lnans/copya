@@ -12,10 +12,10 @@ Le laboratoire de cytogénétique (diagnostic prénatal et postnatal) remplace s
 
 ## 2. Contraintes non négociables
 
-1. **Aucune donnée patient ne quitte la machine.** Zéro requête réseau : pas de CDN, pas de police web distante, pas de télémétrie, pas d'analytics, pas d'API externe.
-2. **Aucun droit administrateur** à l'hôpital : pas d'installation, pas de serveur. Livrable principal = **un seul fichier `.html`** (JS, CSS, annotations inclus ou chargeables) qui s'ouvre par double-clic dans Chrome, Edge ou Firefox (versions récentes, y compris en environnement hospitalier verrouillé).
+1. **Aucune donnée patient ne quitte le navigateur** (fichiers lus via l'API File, pas d'upload vers un serveur). Pas de CDN externe, pas de télémétrie, pas d'analytics, pas d'API tierce.
+2. **Déploiement** : site statique (HTML, JS/CSS bundlés, dossier `annotations/` sur le même hôte, p.ex. Azure Static Web Apps). Pas d'installation sur le poste utilisateur au-delà d'un navigateur récent (Chrome, Edge, Firefox).
 3. **Génome de référence : GRCh38 (hg38)** uniquement dans la v1.
-4. **Fonctionnement hors ligne** complet.
+4. Les **échantillons** peuvent être ouverts hors ligne une fois l'application chargée ; le chargement initial de l'app et des annotations intégrées suppose l'hôte statique (requêtes same-origin uniquement).
 5. **Interface en français** (textes facilement externalisables pour une version anglaise).
 6. **Les données patient ne sont jamais persistées** (pas de localStorage/IndexedDB avec des données d'échantillon). Seules les annotations (non nominatives) peuvent être mises en cache.
 
@@ -122,20 +122,19 @@ Génération d'une **proposition** de formule `arr[GRCh38] ...` à partir des se
 
 ## 6. Architecture technique recommandée
 
-- **TypeScript**, build avec **Vite + `vite-plugin-singlefile`** pour produire un unique HTML.
+- **TypeScript**, build **Vite** → dossier `dist/` (`index.html`, assets, `annotations/` copié depuis `public/`).
 - Rendu : **Canvas 2D** (suffisant en général) ou WebGL si besoin ; éviter un DOM/SVG par point.
 - **Web Workers** pour le parsing et les calculs de chevauchement ; fichiers lus en flux via l'API File, sans envoi nulle part.
 - Structures en mémoire typées (`Float32Array`, `Uint32Array`) ; index par intervalles (arbre d'intervalles ou tri + recherche binaire) pour les chevauchements.
-- Annotations : soit compressées (gzip) et embarquées en base64 dans le HTML, décompressées avec `DecompressionStream`, soit **pack annexe** (`annotations.json.gz`) chargé une fois via sélecteur de fichier. Préférer le pack annexe si le HTML dépasse environ 50 Mo.
+- Annotations intégrées : fichiers BED/gzip servis sous `/annotations/`, chargés au démarrage (`fetch` same-origin, gros fichiers parsés en flux). Import manuel complémentaire via sélecteur de fichier (OMIM, gnomAD, etc.).
 - **Aucun CDN** : toutes les dépendances sont bundlées.
 - État de l'application sérialisable (paramètres, statuts de revue) sans données patient brutes.
 - Code testé (Vitest) : parseurs, mappeur de colonnes, conversions, chevauchements.
 
 ## 7. Sécurité et confidentialité
 
-- Balise `<meta http-equiv="Content-Security-Policy">` restrictive : pas de `connect-src` externe, pas de ressources distantes.
-- Aucun appel `fetch`/`XMLHttpRequest`/`WebSocket`/`sendBeacon` vers l'extérieur ; un test automatisé vérifie leur absence dans le bundle.
-- **Test de recette** : ouvrir l'onglet Réseau des outils développeur pendant tout un scénario d'usage → aucune requête, hormis le chargement local du fichier.
+- Balise `<meta http-equiv="Content-Security-Policy">` restrictive : ressources et `connect-src` limités au **même origine** que l'application (pas de domaines externes).
+- **Test de recette** : onglet Réseau pendant un scénario → uniquement l'hôte de l'app (HTML, assets, `/annotations/*`) ; aucune requête vers un domaine tiers ; les fichiers patient restent en local (File API).
 - Pas de stockage navigateur de données patient ; les noms de fichiers sont affichables ou masquables (option d'anonymisation à l'affichage et à l'export).
 - Conserver la liste et les licences des dépendances.
 
@@ -155,14 +154,14 @@ Il n'y a pas d'exemple réel pour l'instant, donc le développeur prévoit :
 
 ## 9. Critères d'acceptation (MVP)
 
-- Ouverture par double-clic sur un poste sans droits admin, sans connexion internet.
+- Accès via l'URL du site statique ; chargement des annotations intégrées depuis le même hôte.
 - Chargement d'un fichier de bins de 100 000 lignes + segments en moins de 3 secondes, interaction fluide ensuite.
 - Le mappeur de colonnes charge correctement les 3 formats synthétiques de test.
 - Les anomalies injectées sont visibles aux bonnes coordonnées, avec bonnes bandes, gènes et annotations.
 - La mosaïque à 30 % est visiblement distincte d'un gain entier, et les lignes théoriques correspondent.
 - Filtre/tri du tableau et liaison tableau ↔️ graphique opérationnels.
 - Export PNG/SVG, TSV et rapport imprimable avec traçabilité.
-- Test réseau : zéro requête sortante pendant tout le scénario.
+- Test réseau : aucune requête vers un domaine autre que celui du site statique ; pas d'upload de données patient.
 - Import OMIM local fonctionnel, et aucune donnée OMIM dans le fichier distribué.
 
 ## 10. Livrables et phases
@@ -171,7 +170,7 @@ Il n'y a pas d'exemple réel pour l'instant, donc le développeur prévoit :
 2. **Phase 2** : lecture BAM/CRAM, ISCN, rapport complet, pistes d'annotation additionnelles.
 3. **Phase 3** : comparaison d'échantillons, confort.
 
-Livrables : code source versionné (Git), `viewer-cnv.html` construit, documentation utilisateur courte en français, documentation de la construction des annotations (sources, versions, scripts de conversion), jeux de données de test.
+Livrables : code source versionné (Git), artefact `dist/` prêt à publier sur un hébergeur statique, documentation utilisateur courte en français, documentation de la construction des annotations (sources, versions, scripts de conversion), jeux de données de test.
 
 ## 11. Cadre réglementaire et qualité (à clarifier avec le laboratoire)
 

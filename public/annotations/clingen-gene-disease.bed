@@ -1,0 +1,2334 @@
+# clinGenGeneDisease	UCSC hg38 clinGenGeneDisease.bb
+chr1	1211339	1214153	combined immunodeficiency due to OX40 deficiency	Limited	TNFRSF4
+chr1	1921956	2003786	primary ciliary dyskinesia	Limited	CFAP74
+chr1	2019344	2030758	complex neurodevelopmental disorder	Moderate	GABRD
+chr1	2019344	2030758	epilepsy	Limited	GABRD
+chr1	2228318	2310213	Shprintzen-Goldberg syndrome	Definitive	SKI
+chr1	2403973	2413827	peroxisome biogenesis disorder	Definitive	PEX10
+chr1	3069202	3438621	dilated cardiomyopathy	Limited	PRDM16
+chr1	3652515	3736201	ciliary dyskinesia, primary, 47, and lissencephaly	Strong	TP73
+chr1	5862810	5992425	nephronophthisis 4	Definitive	NPHP4
+chr1	6424775	6460944	nonsyndromic genetic hearing loss	Definitive	ESPN
+chr1	6467121	6520092	neuromuscular disease	Definitive	PLEKHG5
+chr1	6785453	7769706	cerebellar dysfunction with variable cognitive and behavioral abnormalities	Definitive	CAMTA1
+chr1	7961710	7985505	Parkinson disease	Definitive	PARK7
+chr1	8352403	8817640	complex neurodevelopmental disorder with or without congenital anomalies	Definitive	RERE
+chr1	9651730	9729114	immunodeficiency 14	Definitive	PIK3CD
+chr1	9651730	9729114	immunodeficiency 14b, autosomal recessive	Definitive	PIK3CD
+chr1	9942922	9985498	NMNAT1-related retinopathy	Definitive	NMNAT1
+chr1	10210569	10381603	Charcot-Marie-Tooth disease type 2A1	No Known Disease Relationship	KIF1B
+chr1	10474949	10630758	peroxisome biogenesis disorder	Definitive	PEX14
+chr1	11012653	11025492	amyotrophic lateral sclerosis type 10	Definitive	TARDBP
+chr1	11106534	11262551	overgrowth syndrome and/or cerebral malformations due to abnormalities in MTOR pathway genes	Definitive	MTOR
+chr1	11785722	11805964	homocystinuria due to methylene tetrahydrofolate reductase deficiency	Definitive	MTHFR
+chr1	11845708	11847783	dilated cardiomyopathy	No Known Disease Relationship	NPPA
+chr1	11980443	12013508	axonal hereditary motor and sensory neuropathy	Definitive	MFN2
+chr1	12230029	12512047	Leigh syndrome	Limited	VPS13D
+chr1	15684319	15734769	dilated cardiomyopathy	Limited	PLEKHM2
+chr1	15847706	15940456	Radio-Tartaglia syndrome	Definitive	SPEN
+chr1	16985957	17011928	Kufor-Rakeb syndrome	Definitive	ATP13A2
+chr1	17018721	17054032	hereditary pheochromocytoma-paraganglioma	Definitive	SDHB
+chr1	17018721	17054032	mitochondrial disease	Definitive	SDHB
+chr1	18630845	18748866	congenital myopathy with myasthenic-like onset	Moderate	PAX7
+chr1	18871429	18902555	hyperprolinemia type 2	Definitive	ALDH4A1
+chr1	19215659	19251524	complex neurodevelopmental disorder with motor features	Moderate	EMC1
+chr1	20633457	20651511	Parkinson disease	Definitive	PINK1
+chr1	21508983	21578410	obsolete adult hypophosphatasia	Definitive	ALPL
+chr1	21508983	21578410	obsolete childhood hypophosphatasia	Definitive	ALPL
+chr1	21508983	21578410	obsolete infantile hypophosphatasia	Definitive	ALPL
+chr1	21822243	21937310	Schwartz-Jampel syndrome type 1	Definitive	HSPG2
+chr1	21822243	21937310	Silverman-Handmaker type dyssegmental dysplasia	Definitive	HSPG2
+chr1	22052708	22101360	macrothrombocytopenia-lymphedema-developmental delay-facial dysmorphism-camptodactyly syndrome	Definitive	CDC42
+chr1	22653235	22661637	C1Q deficiency	Definitive	C1QB
+chr1	23304687	23344284	syndromic intellectual disability	Definitive	HNRNPR
+chr1	23795598	23800754	galactose epimerase deficiency	Definitive	GALE
+chr1	23801884	23825429	3-hydroxy-3-methylglutaric aciduria	Definitive	HMGCL
+chr1	23845076	23868290	fucosidosis	Definitive	FUCA1
+chr1	25543605	25568886	hypercholesterolemia, familial, 4	Definitive	LDLRAP1
+chr1	25800192	25818221	SELENON-related myopathy	Definitive	SELENON
+chr1	26051300	26067630	hypertrophic cardiomyopathy	Moderate	TRIM63
+chr1	26696014	26782104	Coffin-Siris syndrome	Definitive	ARID1A
+chr1	27534244	27604144	AHDC1-related intellectual disability - obstructive sleep apnea - mild dysmorphism syndrome	Definitive	AHDC1
+chr1	29192656	29230934	Leigh syndrome	Moderate	MECR
+chr1	32251264	32286165	severe combined immunodeficiency due to LCK deficiency	Moderate	LCK
+chr1	32775238	32817358	Charcot-Marie-Tooth disease	Definitive	YARS1
+chr1	33007939	33036883	reticular dysgenesis	Definitive	AK2
+chr1	34781213	34786364	erythrokeratodermia variabilis	Strong	GJB3
+chr1	34781213	34786364	nonsyndromic genetic hearing loss	Disputed	GJB3
+chr1	39084166	39487138	lissencephaly spectrum disorder with complex brainstem malformation	Moderate	MACF1
+chr1	39838109	39883504	mitochondrial disease	Definitive	TRIT1
+chr1	40071460	40097252	neuronal ceroid lipofuscinosis	Definitive	PPT1
+chr1	40071460	40097252	neuronal ceroid lipofuscinosis 1	Definitive	PPT1
+chr1	40258235	40294180	mandibuloacral dysplasia with type B lipodystrophy	Definitive	ZMPSTE24
+chr1	40258235	40294180	obsolete lethal restrictive dermopathy	Definitive	ZMPSTE24
+chr1	40300488	40317286	Stickler syndrome	Limited	COL9A2
+chr1	40783786	40840452	nonsyndromic genetic hearing loss	Definitive	KCNQ4
+chr1	42925352	42958868	GLUT1 deficiency syndrome	Definitive	SLC2A1
+chr1	43172329	43254358	primary ciliary dyskinesia	Limited	CFAP57
+chr1	43337817	43354466	congenital amegakaryocytic thrombocytopenia	Definitive	MPL
+chr1	43337817	43354466	thrombocythemia 2	Definitive	MPL
+chr1	43389898	43454247	developmental and epileptic encephalopathy	Definitive	SZT2
+chr1	43707535	43931159	complex neurodevelopmental disorder	Moderate	ST3GAL3
+chr1	44819844	44843253	nevoid basal cell carcinoma syndrome	Limited	PTCH2
+chr1	45012253	45015575	UROD-related inherited porphyria	Definitive	UROD
+chr1	45326894	45328710	Leigh syndrome	Moderate	HPDL
+chr1	45329241	45340440	familial adenomatous polyposis 2	Definitive	MUTYH
+chr1	45329241	45340440	familial ovarian cancer	Disputed	MUTYH
+chr1	45329241	45340440	hereditary breast carcinoma	Disputed	MUTYH
+chr1	45500299	45513382	methylmalonic aciduria and homocystinuria type cblC	Definitive	MMACHC
+chr1	46188682	46220305	myopathy caused by variation in POMGNT1	Strong	POMGNT1
+chr1	47250138	47314896	autosomal recessive primary microcephaly	Definitive	STIL
+chr1	47416284	47418052	familial thoracic aortic aneurysm and aortic dissection	Moderate	FOXE3
+chr1	52927275	53051698	sterol carrier protein 2 deficiency	Moderate	SCP2
+chr1	53196823	53214197	carnitine palmitoyltransferase II deficiency	Definitive	CPT2
+chr1	54756897	54764523	mitochondrial disease	Moderate	PARS2
+chr1	54998932	55017172	Bartter disease type 4A	Definitive	BSND
+chr1	55039547	55064852	hypercholesterolemia, autosomal dominant, 3	Definitive	PCSK9
+chr1	61077226	61462788	brain malformations with or without urinary tract defects	Definitive	NFIA
+chr1	62454725	62688386	developmental and epileptic encephalopathy	Definitive	DOCK7
+chr1	62597519	62606313	familial hypobetalipoproteinemia 2	Definitive	ANGPTL3
+chr1	63322566	63325128	aniridia	Disputed	FOXD3
+chr1	63367626	63438553	ALG6-congenital disorder of glycosylation 1C	Definitive	ALG6
+chr1	63774016	64181498	nonsyndromic genetic hearing loss	Limited	ROR1
+chr1	68428821	68449954	RPE65-related dominant retinopathy	Strong	RPE65
+chr1	68428821	68449954	RPE65-related recessive retinopathy	Definitive	RPE65
+chr1	70411267	70439851	cystathioninuria	Definitive	CTH
+chr1	74235386	74544428	dilated cardiomyopathy	Limited	TNNI3K
+chr1	75724708	75763679	medium chain acyl-CoA dehydrogenase deficiency	Definitive	ACADM
+chr1	77888623	77943895	dilated cardiomyopathy	Moderate	NEXN
+chr1	77888623	77943895	hypertrophic cardiomyopathy	Limited	NEXN
+chr1	85265775	85276632	immunodeficiency 37	Definitive	BCL10
+chr1	92831985	92841924	Diamond-Blackfan anemia 6	Definitive	RPL5
+chr1	93992833	94121148	ABCA4-related retinopathy	Definitive	ABCA4
+chr1	94418388	94518663	congenital bile acid synthesis defect 5	Limited	ABCD3
+chr1	99850360	99924020	glycogen storage disease III	Definitive	AGL
+chr1	100186918	100249834	maple syrup urine disease	Definitive	DBT
+chr1	100352505	100520277	hearing impairment and infertile male syndrome	Strong	CDC14A
+chr1	100352505	100520277	nonsyndromic genetic hearing loss	Limited	CDC14A
+chr1	107140087	107484923	complex neurodevelopmental disorder	Limited	NTNG1
+chr1	108876984	108934545	Chudley-McCullough syndrome	Definitive	GPSM2
+chr1	109213892	109238182	neurodevelopmental disorder with microcephaly, ataxia, and seizures	Limited	SARS1
+chr1	109603090	109619616	GNAT2-related retinopathy	Definitive	GNAT2
+chr1	110059869	110070672	frontorhiny	Definitive	ALX3
+chr1	110593579	110631440	developmental and epileptic encephalopathy	Definitive	KCNA2
+chr1	110593579	110631440	undetermined early-onset epileptic encephalopathy	Strong	KCNA2
+chr1	111770661	111989668	Brugada syndrome 1	Disputed	KCND3
+chr1	113894193	113905028	AP-4 deficiency syndrome	Definitive	AP4B1
+chr1	114704468	114716771	cardiofaciocutaneous syndrome	Limited	NRAS
+chr1	114704468	114716771	Costello syndrome	Limited	NRAS
+chr1	114704468	114716771	Noonan syndrome	Definitive	NRAS
+chr1	114704468	114716771	Noonan syndrome with multiple lentigines	Limited	NRAS
+chr1	114716915	114757984	complex neurodevelopmental disorder	Definitive	CSDE1
+chr1	115285916	115338249	hereditary sensory and autonomic neuropathy	Strong	NGF
+chr1	115700020	115768714	catecholaminergic polymorphic ventricular tachycardia	Definitive	CASQ2
+chr1	115700020	115768714	hypertrophic cardiomyopathy	Disputed	CASQ2
+chr1	116373243	116404774	charcot-marie-tooth disease, axonal, type 2DD	Moderate	ATP1A1
+chr1	119031215	119140672	mitochondrial disease	Definitive	WARS2
+chr1	119711933	119744215	neurometabolic disorder due to serine deficiency	Definitive	PHGDH
+chr1	119747995	119768932	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	Definitive	HMGCS2
+chr1	145911349	145918717	peroxisome biogenesis disorder	Definitive	PEX11B
+chr1	145921555	145927484	thrombocytopenia-absent radius syndrome	Definitive	RBM8A
+chr1	147172746	147295762	congenital anomaly of kidney and urinary tract	Limited	CHD1L
+chr1	147541500	147626216	congenital heart disease	Limited	BCL9
+chr1	150487418	150507602	Leigh syndrome	Limited	TARS2
+chr1	150796207	150808260	pycnodysostosis	Definitive	CTSK
+chr1	151340639	151347252	MHC class II deficiency	Definitive	RFX5
+chr1	151364303	151372705	extraoral halitosis due to methanethiol oxidase deficiency	Moderate	SELENBP1
+chr1	151402723	151459494	intellectual disability-microcephaly-strabismus-behavioral abnormalities syndrome	Definitive	POGZ
+chr1	153804724	153922972	severe intellectual disability-poor language-strabismus-grimacing face-long fingers syndrome	Definitive	GATAD2B
+chr1	154155307	154192100	TPM3-related myopathy	Definitive	TPM3
+chr1	154567777	154580013	sleep-related hypermotor epilepsy	Definitive	CHRNB2
+chr1	154582056	154627997	Aicardi-Goutieres syndrome	Definitive	ADAR
+chr1	154582056	154627997	Leigh syndrome	Limited	ADAR
+chr1	154983343	154993111	myopathy with abnormal lipid metabolism	Definitive	FLAD1
+chr1	155139890	155140531	DPM3-congenital disorder of glycosylation	Moderate	DPM3
+chr1	155185823	155192915	tubulointerstitial kidney disease, autosomal dominant, 2	Definitive	MUC1
+chr1	155234451	155244627	Gaucher disease	Definitive	GBA1
+chr1	155234451	155244627	Parkinson disease	Definitive	GBA1
+chr1	155335267	155562803	syndromic complex neurodevelopmental disorder	Definitive	ASH1L
+chr1	155610169	155614967	mitochondrial disease	Definitive	MSTO1
+chr1	155897807	155911349	Noonan syndrome	Definitive	RIT1
+chr1	156082572	156140081	arrhythmogenic right ventricular cardiomyopathy	Limited	LMNA
+chr1	156082572	156140081	dilated cardiomyopathy	Definitive	LMNA
+chr1	156149943	156177744	hereditary nonpolyposis colon cancer	Limited	SEMA4A
+chr1	156591775	156594299	Leigh syndrome	Limited	NAXE
+chr1	156815749	156881850	hereditary sensory and autonomic neuropathy type 4	Definitive	NTRK1
+chr1	160037466	160070160	EAST syndrome	Definitive	KCNJ10
+chr1	160037466	160070160	enlarged vestibular aqueduct syndrome	Disputed	KCNJ10
+chr1	160115758	160143591	familial or sporadic hemiplegic migraine	Definitive	ATP1A2
+chr1	160276808	160285151	peroxisome biogenesis disorder	Definitive	PEX19
+chr1	161197416	161214395	Leigh syndrome	Definitive	NDUFS2
+chr1	161304734	161309968	Charcot-Marie-Tooth disease	Definitive	MPZ
+chr1	161314380	161363206	hereditary pheochromocytoma-paraganglioma	Definitive	SDHC
+chr1	161314380	161363206	mitochondrial disease	No Known Disease Relationship	SDHC
+chr1	161766319	161964070	achromatopsia	Strong	ATF6
+chr1	161766319	161964070	ATF6-related retinopathy	Definitive	ATF6
+chr1	162630862	162787405	spondyloepimetaphyseal dysplasia-short limb-abnormal calcification syndrome	Definitive	DDR2
+chr1	162630862	162787405	warburg-cinotti syndrome	Moderate	DDR2
+chr1	164559183	164886047	congenital anomalies of kidney and urinary tract syndrome with or without hearing loss, abnormal ears, or developmental delay	Definitive	PBX1
+chr1	167430639	167518529	immunodeficiency 25	Definitive	CD247
+chr1	169511950	169586481	congenital factor V deficiency	Definitive	F5
+chr1	169511950	169586481	thrombophilia due to activated protein C resistance	Definitive	F5
+chr1	171090904	171117819	trimethylaminuria	Definitive	FMO3
+chr1	171635416	171652688	open-angle glaucoma	Definitive	MYOC
+chr1	173824672	173858546	mitochondrial disease	Definitive	DARS2
+chr1	173903799	173917327	hereditary antithrombin deficiency	Definitive	SERPINC1
+chr1	182378097	182391790	congenital brain dysgenesis due to glutamine synthetase deficiency	Moderate	GLUL
+chr1	186296272	186314567	camptodactyly-arthropathy-coxa vara-pericarditis syndrome	Definitive	PRG4
+chr1	186828948	186988981	cytosolic phospholipase-A2 alpha deficiency associated bleeding disorder	Moderate	PLA2G4A
+chr1	193122030	193254815	hyperparathyroidism 2 with jaw tumors	Definitive	CDC73
+chr1	196652042	196747504	atypical hemolytic-uremic syndrome	Definitive	CFH
+chr1	197038740	197067260	factor XIII, b subunit, deficiency of	Definitive	F13B
+chr1	198639039	198757476	immunodeficiency 104	Definitive	PTPRC
+chr1	201359013	201377680	arrhythmogenic right ventricular cardiomyopathy	No Known Disease Relationship	TNNT2
+chr1	201359013	201377680	dilated cardiomyopathy	Definitive	TNNT2
+chr1	201359013	201377680	hypertrophic cardiomyopathy	Definitive	TNNT2
+chr1	202590595	202710454	congenital myasthenic syndrome 7	Moderate	SYT2
+chr1	202724494	202808421	intellectual disability	Moderate	KDM5B
+chr1	204154818	204166337	familial juvenile hyperuricemic nephropathy type 2	Definitive	REN
+chr1	204154818	204166337	renal tubular dysgenesis of genetic origin	Definitive	REN
+chr1	205142504	205211702	complex hereditary spastic paraplegia	Moderate	DSTYK
+chr1	205789094	205813198	kidney disorder	Limited	SLC41A1
+chr1	207454327	207489892	immunodeficiency, common variable, 7	Definitive	CR2
+chr1	210678313	211134148	KCNH1 associated disorder	Definitive	KCNH1
+chr1	212858274	212899363	FLVCR1-related retinopathy with or without ataxia	Definitive	FLVCR1
+chr1	215622890	216423448	Usher syndrome type 2	Definitive	USH2A
+chr1	218345335	218444619	familial thoracic aortic aneurysm and aortic dissection	Definitive	TGFB2
+chr1	220094131	220148041	Leigh syndrome	Limited	IARS2
+chr1	220148292	220272453	Warburg micro syndrome	Definitive	RAB3GAP2
+chr1	222815038	223005995	holoprosencephaly	Limited	DISP1
+chr1	225401501	225428821	regressive spondylometaphyseal dysplasia	Moderate	LBR
+chr1	225810123	225845563	hereditary nonpolyposis colon cancer	Limited	EPHX1
+chr1	226870615	226896098	dilated cardiomyopathy	Limited	PSEN2
+chr1	228208043	228378876	dilated cardiomyopathy	Limited	OBSCN
+chr1	228208043	228378876	hypertrophic cardiomyopathy	Limited	OBSCN
+chr1	229431244	229434094	alpha-actinopathy	Definitive	ACTA1
+chr1	231241211	231277973	glyceronephosphate O-acyltransferase deficiency	Definitive	GNPAT
+chr1	234604268	234610178	immunodeficiency, common variable, 14	Limited	IRF2BP2
+chr1	235661030	235883708	Chediak-Higashi syndrome	Definitive	LYST
+chr1	236686498	236764631	intrinsic cardiomyopathy	Definitive	ACTN2
+chr1	236795280	236903981	methylcobalamin deficiency type cblG	Definitive	MTR
+chr1	237042183	237833988	arrhythmogenic right ventricular cardiomyopathy	Refuted	RYR2
+chr1	237042183	237833988	catecholaminergic polymorphic ventricular tachycardia	Definitive	RYR2
+chr1	237042183	237833988	hypertrophic cardiomyopathy	Limited	RYR2
+chr1	241497602	241519755	hereditary leiomyomatosis and renal cell cancer	Definitive	FH
+chr1	241532377	241595642	pellagra	No Known Disease Relationship	KMO
+chr1	241848203	241889939	Lynch syndrome	Refuted	EXO1
+chr1	243488232	243843282	microcephaly	Limited	AKT3
+chr1	243488232	243843282	overgrowth syndrome and/or cerebral malformations due to abnormalities in MTOR pathway genes	Definitive	AKT3
+chr1	244835305	244845063	mitochondrial disease	Definitive	COX20
+chr1	244850296	244864543	complex neurodevelopmental disorder	Definitive	HNRNPU
+chr10	8054687	8075198	hypoparathyroidism-deafness-renal disease syndrome	Definitive	GATA3
+chr10	12068953	12123221	2-aminoadipic 2-oxoadipic aciduria	Definitive	DHTKD1
+chr10	13100081	13138276	amyotrophic lateral sclerosis type 12	Definitive	OPTN
+chr10	13100081	13138276	glaucoma, normal tension, susceptibility to	Definitive	OPTN
+chr10	13277798	13300064	phytanoyl-CoA hydroxylase deficiency	Definitive	PHYH
+chr10	14897563	14954432	severe combined immunodeficiency due to DCLRE1C deficiency	Definitive	DCLRE1C
+chr10	17589031	17617374	congenital myopathy	Definitive	HACD1
+chr10	18140423	18543557	Brugada syndrome 1	Disputed	CACNB2
+chr10	18140423	18543557	hypertrophic cardiomyopathy	Disputed	CACNB2
+chr10	18140423	18543557	short QT syndrome	Disputed	CACNB2
+chr10	20779972	21293050	dilated cardiomyopathy	Limited	NEBL
+chr10	25934228	26212532	nonsyndromic genetic hearing loss	Strong	MYO3A
+chr10	27004115	27100494	thrombocytopenia 2	Definitive	ANKRD26
+chr10	27182837	27240879	acyl-CoA binding domain containing protein 5 deficiency	Moderate	ACBD5
+chr10	27504303	27542239	Warburg micro syndrome	Moderate	RAB18
+chr10	27812167	27999079	primary ciliary dyskinesia 23	Definitive	ODAD2
+chr10	28532778	28623112	DeSanto-Shinawi syndrome	Definitive	WAC
+chr10	30309800	30349278	mitochondrial disease	Definitive	MTPAP
+chr10	43077068	43130351	multiple endocrine neoplasia type 2A	Definitive	RET
+chr10	43077068	43130351	multiple endocrine neoplasia type 2B	Definitive	RET
+chr10	47322453	47327588	pulmonary arterial hypertension	Definitive	GDF2
+chr10	47322453	47327588	telangiectasia, hereditary hemorrhagic, type 5	Moderate	GDF2
+chr10	49434880	49539121	Cockayne spectrum with or without cerebrooculofacioskeletal syndrome	Definitive	ERCC6
+chr10	50990887	52298350	familial thoracic aortic aneurysm and aortic dissection	Strong	PRKG1
+chr10	53821098	55627942	nonsyndromic genetic hearing loss	Limited	PCDH15
+chr10	53821098	55627942	Usher syndrome type 1	Definitive	PCDH15
+chr10	60026297	60733528	intellectual disability	Moderate	ANK3
+chr10	62811995	62819167	Charcot-Marie-Tooth disease	Definitive	EGR2
+chr10	65912522	67696195	arrhythmogenic right ventricular cardiomyopathy	Limited	CTNNA3
+chr10	65912522	67696195	congenital heart disease	Disputed	CTNNA3
+chr10	67796668	67838188	hyperphenylalaninemia due to DNAJC12 deficiency	Definitive	DNAJC12
+chr10	68106006	68212017	dilated cardiomyopathy	Limited	MYPN
+chr10	68106006	68212017	hypertrophic cardiomyopathy	Disputed	MYPN
+chr10	68106006	68212017	MYPN-related myopathy	Definitive	MYPN
+chr10	70597347	70602741	familial hemophagocytic lymphohistiocytosis 2	Definitive	PRF1
+chr10	70882279	70888565	pterin-4 alpha-carbinolamine dehydratase 1 deficiency	Definitive	PCBD1
+chr10	71396919	71815947	nonsyndromic genetic hearing loss	Definitive	CDH23
+chr10	71396919	71815947	Usher syndrome type 1	Definitive	CDH23
+chr10	71816297	71851251	combined PSAP deficiency	Definitive	PSAP
+chr10	71816297	71851251	Gaucher disease due to saposin C deficiency	Definitive	PSAP
+chr10	71816297	71851251	Krabbe disease due to saposin A deficiency	Moderate	PSAP
+chr10	71816297	71851251	metachromatic leukodystrophy due to saposin B deficiency	Definitive	PSAP
+chr10	73248848	73252644	mitochondrial disease	Limited	MRPS16
+chr10	73812500	73874555	intellectual developmental disorder 59	Limited	CAMK2G
+chr10	73911131	73917494	Quebec platelet disorder	Moderate	PLAU
+chr10	73998115	74121363	dilated cardiomyopathy	Moderate	VCL
+chr10	73998115	74121363	hypertrophic cardiomyopathy	Disputed	VCL
+chr10	74151220	74709290	adenosine kinase deficiency	Definitive	ADK
+chr10	74825254	75032624	KAT6B-related multiple congenital anomalies syndrome	Definitive	KAT6B
+chr10	74825254	75032624	RASopathy	Disputed	KAT6B
+chr10	76869601	77637808	generalized epilepsy-paroxysmal dyskinesia syndrome	Definitive	KCNMA1
+chr10	78033862	78056806	Diamond-Blackfan anemia	Definitive	RPS24
+chr10	79068965	79316519	complex neurodevelopmental disorder	Definitive	ZMIZ1
+chr10	79555851	79560407	interstitial lung disease 2	Definitive	SFTPA2
+chr10	80150888	80205808	amyotrophic lateral sclerosis type 23	Definitive	ANXA11
+chr10	80271819	80289658	methionine adenosyltransferase deficiency	Definitive	MAT1A
+chr10	86666787	86736072	arrhythmogenic right ventricular cardiomyopathy	Disputed	LDB3
+chr10	86666787	86736072	dilated cardiomyopathy	Limited	LDB3
+chr10	86756618	86932844	juvenile polyposis syndrome	Definitive	BMPR1A
+chr10	86756618	86932844	pulmonary arterial hypertension	Disputed	BMPR1A
+chr10	87050201	87094843	hyperinsulinism-hyperammonemia syndrome	Definitive	GLUD1
+chr10	87863624	87971930	PTEN hamartoma tumor syndrome	Definitive	PTEN
+chr10	88935073	88991337	familial thoracic aortic aneurysm and aortic dissection	Definitive	ACTA2
+chr10	89213571	89251775	lysosomal acid lipase deficiency	Definitive	LIPA
+chr10	90912095	90921087	dilated cardiomyopathy	Limited	ANKRD1
+chr10	90912095	90921087	hypertrophic cardiomyopathy	Disputed	ANKRD1
+chr10	92593129	92655395	microcephaly with or without chorioretinopathy, lymphedema, or intellectual disability	Definitive	KIF11
+chr10	93612536	93666010	inherited retinal dystrophy	Definitive	PDE6C
+chr10	93757935	93798159	autosomal dominant epilepsy with auditory features	Definitive	LGI1
+chr10	94545787	94602099	immunodeficiency-centromeric instability-facial anomalies syndrome 4	Moderate	HELLS
+chr10	95605940	95656711	P5CS deficiency	Definitive	ALDH18A1
+chr10	95663400	95693927	ciliopathy	Definitive	TCTN3
+chr10	95711763	95877266	complex hereditary spastic paraplegia	Definitive	ENTPD1
+chr10	96189170	96271569	agammaglobulinemia 4, autosomal recessive	Definitive	BLNK
+chr10	97737127	97760895	hereditary spastic paraplegia 33	Disputed	ZFYVE27
+chr10	98416197	98446935	Hermansky-Pudlak syndrome 1	Definitive	HPS1
+chr10	99694292	99732127	Leigh syndrome	Limited	COX15
+chr10	100150093	100186029	amyotrophic lateral sclerosis	Limited	ERLIN1
+chr10	100523728	100529923	Leigh syndrome	Moderate	NDUFB8
+chr10	100735395	100829944	focal segmental glomerulosclerosis 7	Definitive	PAX2
+chr10	101007678	101031129	hearing loss, autosomal recessive	Definitive	PDZD7
+chr10	102065348	102068036	Hermansky-Pudlak syndrome 6	Definitive	HPS6
+chr10	102394109	102402529	immunodeficiency, common variable, 10	Definitive	NFKB2
+chr10	102503971	102633535	ciliopathy	Limited	SUFU
+chr10	102503971	102633535	medulloblastoma	Definitive	SUFU
+chr10	102644478	102658318	focal segmental glomerulosclerosis and neurodevelopmental syndrome	Definitive	TRIM8
+chr10	103389049	103396475	Leigh syndrome	Moderate	ATP5MK
+chr10	104129887	104232364	normal pressure hydrocephalus	Limited	CFAP43
+chr10	104129887	104232364	primary ciliary dyskinesia	Disputed	CFAP43
+chr10	104129887	104232364	spermatogenic failure 19	Definitive	CFAP43
+chr10	109996372	110135565	complex neurodevelopmental disorder with motor features	Moderate	ADD3
+chr10	110567694	110606048	Cornelia de Lange syndrome	Definitive	SMC3
+chr10	110644335	110839468	dilated cardiomyopathy	Definitive	RBM20
+chr10	110644335	110839468	hypertrophic cardiomyopathy	Limited	RBM20
+chr10	110919369	111013665	cardiofaciocutaneous syndrome	Disputed	SHOC2
+chr10	110919369	111013665	Costello syndrome	Disputed	SHOC2
+chr10	110919369	111013665	Noonan syndrome	Disputed	SHOC2
+chr10	110919369	111013665	Noonan syndrome-like disorder with loose anagen hair	Definitive	SHOC2
+chr10	112950246	113167678	complex neurodevelopmental disorder	Definitive	TCF7L2
+chr10	119651379	119677819	dilated cardiomyopathy	Definitive	BAG3
+chr10	119651379	119677819	myofibrillar myopathy	Definitive	BAG3
+chr10	121478331	121598444	Apert syndrome	Definitive	FGFR2
+chr10	121478331	121598444	Beare-Stevenson cutis gyrata syndrome	Definitive	FGFR2
+chr10	121478331	121598444	Crouzon syndrome	Definitive	FGFR2
+chr10	121478331	121598444	Pfeiffer syndrome	Definitive	FGFR2
+chr10	121740423	121928463	congenital heart disease	Disputed	ATE1
+chr10	122990806	123008795	thrombocytopenia 7	Moderate	IKZF5
+chr10	123009005	123058290	2-methylbutyryl-CoA dehydrogenase deficiency	Definitive	ACADSB
+chr10	124397302	124418923	ornithine aminotransferase deficiency	Definitive	OAT
+chr10	129835232	129964274	hypotonia, ataxia, and delayed development syndrome	Definitive	EBF3
+chr10	133362484	133373354	Leigh syndrome	Definitive	ECHS1
+chr10	133362484	133373354	mitochondrial short-chain Enoyl-Coa hydratase 1 deficiency	Definitive	ECHS1
+chr11	532241	535576	Costello syndrome	Definitive	HRAS
+chr11	532241	535576	Noonan syndrome-like disorder with loose anagen hair	Disputed	HRAS
+chr11	706230	727727	nonsyndromic genetic hearing loss	Moderate	EPS8L2
+chr11	790474	798281	developmental and epileptic encephalopathy	Definitive	SLC25A22
+chr11	818913	825573	neutral lipid storage myopathy	Definitive	PNPLA2
+chr11	1389933	1462689	complex neurodevelopmental disorder	Definitive	BRSK2
+chr11	1752754	1763927	neuronal ceroid lipofuscinosis	Definitive	CTSD
+chr11	1919702	1938702	nemaline myopathy	Limited	TNNT3
+chr11	2129116	2149566	Silver-Russell syndrome 3	Definitive	IGF2
+chr11	2159778	2161209	monogenic diabetes	Definitive	INS
+chr11	2163928	2171815	tyrosine hydroxylase deficiency	Definitive	TH
+chr11	2376179	2397397	immunodeficiency, common variable, 6	Limited	CD81
+chr11	2445007	2849105	hypertrophic cardiomyopathy	Disputed	KCNQ1
+chr11	2445007	2849105	Jervell and Lange-Nielsen syndrome	Definitive	KCNQ1
+chr11	2445007	2849105	long QT syndrome	Definitive	KCNQ1
+chr11	2445007	2849105	short QT syndrome	Strong	KCNQ1
+chr11	3854603	4093208	tubular aggregate myopathy	Definitive	STIM1
+chr11	5225463	5227071	beta-thalassemia HBB/LCRB	Definitive	HBB
+chr11	5225463	5227071	dominant beta-thalassemia	Definitive	HBB
+chr11	5225463	5227071	sickle cell disease and related diseases	Definitive	HBB
+chr11	6390473	6394996	acid sphingomyelinase deficiency	Definitive	SMPD1
+chr11	6603773	6610870	dilated cardiomyopathy	Limited	ILK
+chr11	6612767	6619422	neuronal ceroid lipofuscinosis	Definitive	TPP1
+chr11	9778667	10303837	Charcot-Marie-Tooth disease type 4B2	Definitive	SBF2
+chr11	13668667	13732346	fatty acyl-CoA reductase 1 deficiency	Moderate	FAR1
+chr11	13668667	13732346	fatty acyl-CoA reductase 1 dysregulation	Moderate	FAR1
+chr11	14277921	14364506	Noonan syndrome	Definitive	RRAS2
+chr11	17385247	17389346	monogenic diabetes	Definitive	KCNJ11
+chr11	17392497	17476845	monogenic diabetes	Definitive	ABCC8
+chr11	17392497	17476845	pulmonary arterial hypertension	Moderate	ABCC8
+chr11	17493899	17544416	nonsyndromic genetic hearing loss	Limited	USH1C
+chr11	17493899	17544416	Usher syndrome type 1	Definitive	USH1C
+chr11	17547258	17646044	nonsyndromic genetic hearing loss	Definitive	OTOG
+chr11	17734780	17783057	complex neurodevelopmental disorder	Definitive	KCNC1
+chr11	17734780	17783057	progressive myoclonus epilepsy	Definitive	KCNC1
+chr11	18278669	18322174	Hermansky-Pudlak syndrome 5	Definitive	HPS5
+chr11	19182029	19201983	dilated cardiomyopathy	Limited	CSRP3
+chr11	19182029	19201983	hypertrophic cardiomyopathy	Definitive	CSRP3
+chr11	22193084	22283357	autosomal recessive limb-girdle muscular dystrophy	Definitive	ANO5
+chr11	22622532	22625823	Fanconi anemia complementation group F	Definitive	FANCF
+chr11	31789025	31817961	PAX6-related ocular dysgenesis	Definitive	PAX6
+chr11	32387774	32435539	Denys-Drash syndrome	Definitive	WT1
+chr11	32387774	32435539	Wilms tumor 1	Definitive	WT1
+chr11	34438933	34472060	acatalasia	Moderate	CAT
+chr11	34916437	34996128	Leigh syndrome	Definitive	PDHX
+chr11	35251204	35420058	developmental and epileptic encephalopathy, 41	Definitive	SLC1A2
+chr11	36510352	36579762	recombinase activating gene 1 deficiency	Definitive	RAG1
+chr11	36591942	36598236	recombinase activating gene 2 deficiency	Definitive	RAG2
+chr11	44095677	44251962	exostoses, multiple, type 2	Definitive	EXT2
+chr11	45909662	45917877	peroxisome biogenesis disorder	Definitive	PEX16
+chr11	45929318	46121454	complex neurodevelopmental disorder	Definitive	PHF21A
+chr11	46719212	46739506	congenital prothrombin deficiency	Definitive	F2
+chr11	46719212	46739506	thrombophilia due to thrombin defect	Definitive	F2
+chr11	46856716	46918550	Cenani-Lenz syndactyly syndrome	Limited	LRP4
+chr11	46856716	46918550	congenital myasthenic syndrome 17	Limited	LRP4
+chr11	47214453	47239217	xeroderma pigmentosum group E	Definitive	DDB2
+chr11	47331405	47352702	arrhythmogenic right ventricular cardiomyopathy	Limited	MYBPC3
+chr11	47331405	47352702	dilated cardiomyopathy	Limited	MYBPC3
+chr11	47331405	47352702	hypertrophic cardiomyopathy	Definitive	MYBPC3
+chr11	47354859	47378547	agammaglobulinemia 10, autosomal dominant	Strong	SPI1
+chr11	47579073	47584562	Leigh syndrome	Moderate	NDUFS3
+chr11	47980558	48170839	hereditary nonpolyposis colon cancer	Limited	PTPRJ
+chr11	57597684	57614848	hereditary angioedema with C1Inh deficiency	Definitive	SERPING1
+chr11	60455846	60470752	immunodeficiency, common variable, 5	Limited	MS4A1
+chr11	61362373	61376870	ciliopathy	Moderate	TMEM138
+chr11	61430123	61446733	hereditary pheochromocytoma-paraganglioma	Definitive	SDHAF2
+chr11	61950350	61965515	inherited retinal dystrophy	Definitive	BEST1
+chr11	62624828	62646613	polycystic kidney disease 3 with or without polycystic liver disease	Definitive	GANAB
+chr11	62690274	62709537	distal hereditary motor neuropathy	Definitive	BSCL2
+chr11	63624086	63671974	neuropathy, hereditary sensory, type 1F	Moderate	ATL3
+chr11	63974619	63976543	Leigh syndrome	Limited	COX8A
+chr11	64205919	64223891	leukocyte adhesion deficiency 3	Definitive	FERMT3
+chr11	64726910	64745456	platelet-type bleeding disorder 18	Definitive	RASGRP2
+chr11	64803515	64811294	multiple endocrine neoplasia type 1	Definitive	MEN1
+chr11	65653600	65663857	combined immunodeficiency due to RELA haploinsufficiency	Definitive	RELA
+chr11	65866440	65872800	familial thoracic aortic aneurysm and aortic dissection	Moderate	EFEMP2
+chr11	66070271	66244744	Schuurs-Hoeijmakers syndrome	Definitive	PACS1
+chr11	66345373	66347629	muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A13	Moderate	B4GAT1
+chr11	66510634	66533598	ciliopathy	Definitive	BBS1
+chr11	66563463	66568606	adult neuronal ceroid lipofuscinosis	Definitive	CTSF
+chr11	67518911	67523446	nonsyndromic genetic hearing loss	Definitive	CABP2
+chr11	67606935	67612554	Leigh syndrome	Definitive	NDUFV1
+chr11	68030680	68036644	Leigh syndrome	Moderate	NDUFS8
+chr11	68039024	68050895	autosomal recessive osteopetrosis 1	Definitive	TCIRG1
+chr11	68154862	68213648	complex neurodevelopmental disorder	Definitive	KMT5B
+chr11	68312590	68449275	inherited retinal dystrophy	Definitive	LRP5
+chr11	68754619	68841916	carnitine palmitoyl transferase 1A deficiency	Definitive	CPT1A
+chr11	68903890	68940601	hereditary peripheral neuropathy	Definitive	IGHMBP2
+chr11	69809967	69819416	deafness with labyrinthine aplasia, microtia, and microdontia	Definitive	FGF3
+chr11	70467853	71252577	complex neurodevelopmental disorder	Definitive	SHANK2
+chr11	71434410	71448393	Smith-Lemli-Opitz syndrome	Definitive	DHCR7
+chr11	72080849	72110782	autosomal recessive nonsyndromic hearing loss 63	Definitive	LRTOMT
+chr11	72189708	72196299	neurodegenerative syndrome due to cerebral folate transport deficiency	Definitive	FOLR1
+chr11	72285494	72434531	Leigh syndrome	Limited	CLPB
+chr11	74012717	74171002	orofaciodigital syndrome type 14	Definitive	C2CD3
+chr11	74454840	74467549	Brugada syndrome	Disputed	KCNE3
+chr11	77066970	77126155	CAPN5-related vitreoretinopathy	Definitive	CAPN5
+chr11	77128245	77215241	nonsyndromic genetic hearing loss	Definitive	MYO7A
+chr11	77128245	77215241	Usher syndrome type 1	Definitive	MYO7A
+chr11	78068296	78079862	Leigh syndrome	Moderate	NDUFC2
+chr11	78100945	78139626	polycystic liver disease 3 with or without kidney cysts	Limited	ALG8
+chr11	78435967	78574864	Leigh syndrome	Limited	NARS2
+chr11	78435967	78574864	nonsyndromic genetic hearing loss	Limited	NARS2
+chr11	85628572	85636540	mitochondrial disease	Definitive	TMEM126B
+chr11	86244752	86278810	Cohen-Gibson syndrome	Moderate	EED
+chr11	89177874	89295759	oculocutaneous albinism type 1	Definitive	TYR
+chr11	94415569	94493844	familial ovarian cancer	Disputed	MRE11
+chr11	94415569	94493844	hereditary breast carcinoma	Refuted	MRE11
+chr11	95790497	95832693	mosaic variegated aneuploidy syndrome 2	Definitive	CEP57
+chr11	95832879	95924107	demyelinating hereditary motor and sensory neuropathy	Definitive	MTMR2
+chr11	102047436	102084554	ciliary dyskinesia, primary, 38	Definitive	CFAP300
+chr11	103907188	104164147	pulmonary arterial hypertension	Limited	PDGFD
+chr11	108116704	108147603	beta-ketothiolase deficiency	Definitive	ACAT1
+chr11	108223066	108369102	ataxia telangiectasia	Definitive	ATM
+chr11	108223066	108369102	familial ovarian cancer	Limited	ATM
+chr11	108223066	108369102	hereditary breast carcinoma	Definitive	ATM
+chr11	108223066	108369102	hereditary nonpolyposis colon cancer	Moderate	ATM
+chr11	110174921	110296614	nonsyndromic genetic hearing loss	Definitive	RDX
+chr11	111352254	111379275	agammaglobulinemia	Limited	POU2AF1
+chr11	111782194	111871581	ALG9-associated autosomal dominant polycystic kidney disease	Definitive	ALG9
+chr11	112025407	112064404	Leigh syndrome	Moderate	DLAT
+chr11	112086872	112095794	hereditary pheochromocytoma-paraganglioma	Definitive	SDHD
+chr11	112086872	112095794	mitochondrial disease	Limited	SDHD
+chr11	112226427	112233973	BH4-deficient hyperphenylalaninemia A	Definitive	PTS
+chr11	117321777	117413266	ciliopathy	Definitive	CEP164
+chr11	117820056	117828089	renal hypomagnesemia 2	Moderate	FXYD2
+chr11	118133376	118152823	long QT syndrome	Disputed	SCN4B
+chr11	118162805	118176639	Brugada syndrome 1	Disputed	SCN2B
+chr11	118253415	118264297	nonsyndromic genetic hearing loss	Strong	MPZL2
+chr11	118304729	118316173	immunodeficiency 18	Definitive	CD3E
+chr11	118338953	118342705	immunodeficiency 19	Definitive	CD3D
+chr11	118344343	118355161	combined immunodeficiency due to CD3gamma deficiency	Definitive	CD3G
+chr11	118436491	118526832	Wiedemann-Steiner syndrome	Definitive	KMT2A
+chr11	119018765	119024134	neurodevelopmental disorder with epilepsy, spasticity, and brain atrophy	Definitive	TRAPPC4
+chr11	119084880	119093549	acute intermittent porphyria	Definitive	HMBS
+chr11	119206338	119308149	CBL-related disorder	Definitive	CBL
+chr11	121101242	121191490	nonsyndromic genetic hearing loss	Definitive	TECTA
+chr11	123629187	123654624	Brugada syndrome 1	Disputed	SCN3B
+chr11	124865431	124881471	gaze palsy, familial horizontal, with progressive scoliosis 1	Definitive	ROBO3
+chr11	124919204	124936047	megalencephalic leukoencephalopathy with subcortical cysts 2A	Definitive	HEPACAM
+chr11	124919204	124936047	megalencephalic leukoencephalopathy with subcortical cysts 2B, remitting, with or without intellectual disability	Definitive	HEPACAM
+chr11	125625135	125676255	familial ovarian cancer	No Known Disease Relationship	CHEK1
+chr11	125625135	125676255	hereditary breast carcinoma	No Known Disease Relationship	CHEK1
+chr11	126269153	126278126	Leigh syndrome	Moderate	FOXRED1
+chr11	128686534	128813267	bleeding disorder, platelet-type, 21	Moderate	FLI1
+chr11	128891355	128921163	long QT syndrome	Disputed	KCNJ5
+chr11	134253567	134265855	isobutyryl-CoA dehydrogenase deficiency	Definitive	ACAD8
+chr12	752578	911452	neuropathy, hereditary sensory and autonomic, type 2A	Definitive	WNK1
+chr12	1791962	1918652	inherited retinal dystrophy	Definitive	CACNA2D4
+chr12	2052986	2697950	Brugada syndrome	Disputed	CACNA1C
+chr12	2052986	2697950	long QT syndrome	Moderate	CACNA1C
+chr12	2052986	2697950	short QT syndrome	Disputed	CACNA1C
+chr12	2890890	2941138	ciliopathy	Strong	TULP3
+chr12	4649113	4694317	Leigh syndrome	Moderate	NDUFA9
+chr12	4909904	4918256	episodic ataxia type 1	Definitive	KCNA1
+chr12	5948876	6124670	hereditary von Willebrand disease	Definitive	VWF
+chr12	5948876	6124670	von Willebrand disease type 2B	Definitive	VWF
+chr12	6346846	6377359	autosomal recessive pseudohypoaldosteronism type 1	Strong	SCNN1A
+chr12	7189212	7218574	peroxisome biogenesis disorder	Definitive	PEX5
+chr12	8082273	8097881	developmental and epileptic encephalopathy	Moderate	NECAP1
+chr12	8602169	8612859	hyper-IgM syndrome type 2	Definitive	AICDA
+chr12	8645942	8662826	familial thoracic aortic aneurysm and aortic dissection	Moderate	MFAP5
+chr12	8822620	8876787	Noonan syndrome	Disputed	A2ML1
+chr12	11649673	11895377	thrombocytopenia 5	Definitive	ETV6
+chr12	12717367	12722369	hereditary nonpolyposis colon cancer	Limited	CDKN1B
+chr12	12717367	12722369	multiple endocrine neoplasia type 4	Definitive	CDKN1B
+chr12	13537336	13982134	complex neurodevelopmental disorder	Definitive	GRIN2B
+chr12	15620133	15789388	autosomal recessive nonsyndromic hearing loss 102	Moderate	EPS8
+chr12	21437654	21471250	myofibrillar myopathy 8	Definitive	PYROXD1
+chr12	21468909	21501635	familial ovarian cancer	No Known Disease Relationship	RECQL
+chr12	21468909	21501635	hereditary breast carcinoma	Disputed	RECQL
+chr12	21764954	21774706	Brugada syndrome 1	Disputed	KCNJ8
+chr12	21797388	21941426	dilated cardiomyopathy	Limited	ABCC9
+chr12	23529503	24562491	Lamb-Shaffer syndrome	Definitive	SOX5
+chr12	25205245	25250929	cardiofaciocutaneous syndrome	Strong	KRAS
+chr12	25205245	25250929	Costello syndrome	Disputed	KRAS
+chr12	25205245	25250929	Noonan syndrome	Definitive	KRAS
+chr12	32399557	32646050	Charcot-Marie-Tooth disease	Definitive	FGD4
+chr12	32679300	32745650	encephalopathy due to mitochondrial and peroxisomal fission defect	Definitive	DNM1L
+chr12	32679300	32745650	Leigh syndrome	Limited	DNM1L
+chr12	32790754	32896777	arrhythmogenic right ventricular cardiomyopathy	Definitive	PKP2
+chr12	32790754	32896777	Brugada syndrome 1	Disputed	PKP2
+chr12	32790754	32896777	catecholaminergic polymorphic ventricular tachycardia	Disputed	PKP2
+chr12	32790754	32896777	dilated cardiomyopathy	Disputed	PKP2
+chr12	39293227	39443120	congenital fibrosis of extraocular muscles	Definitive	KIF21A
+chr12	40224996	40369285	Parkinson disease	Definitive	LRRK2
+chr12	42456756	42589746	epilepsy	Disputed	PRICKLE1
+chr12	42456756	42589746	progressive myoclonus epilepsy	Limited	PRICKLE1
+chr12	45216094	45440404	Scott syndrome	Moderate	ANO6
+chr12	45729705	45908037	Coffin-Siris syndrome	Definitive	ARID2
+chr12	47972966	48004476	achondrogenesis type II	Definitive	COL2A1
+chr12	47972966	48004476	Czech dysplasia, metatarsal type	Moderate	COL2A1
+chr12	47972966	48004476	Kniest dysplasia	Definitive	COL2A1
+chr12	47972966	48004476	platyspondylic dysplasia, Torrance type	Definitive	COL2A1
+chr12	47972966	48004476	spondyloepiphyseal dysplasia congenita	Definitive	COL2A1
+chr12	47972966	48004476	spondyloepiphyseal dysplasia, Stanescu type	Moderate	COL2A1
+chr12	47972966	48004476	spondylometaphyseal dysplasia	Definitive	COL2A1
+chr12	47972966	48004476	spondyloperipheral dysplasia	Definitive	COL2A1
+chr12	47972966	48004476	Stickler syndrome type 1	Definitive	COL2A1
+chr12	49018977	49060794	Kabuki syndrome 1	Definitive	KMT2D
+chr12	49295146	49298686	amyotrophic lateral sclerosis	Limited	PRPH
+chr12	49961871	49965682	palmoplantar keratoderma, Bothnian type	Moderate	AQP5
+chr12	50112235	50120453	mitochondrial disease	Limited	COX14
+chr12	51591232	51812864	complex neurodevelopmental disorder	Definitive	SCN8A
+chr12	51906943	51923361	telangiectasia, hereditary hemorrhagic, type 2	Definitive	ACVRL1
+chr12	55720392	55724705	RDH5-related retinopathy	Definitive	RDH5
+chr12	55997275	56005525	isolated sulfite oxidase deficiency	Definitive	SUOX
+chr12	56162358	56189483	Coffin-Siris syndrome	Definitive	SMARCC2
+chr12	57028516	57051198	nonsyndromic genetic hearing loss	Refuted	MYO1A
+chr12	57229710	57234935	neurodevelopmental disorder with cardiomyopathy, spasticity, and brain abnormalities	Moderate	SHMT2
+chr12	57243457	57251187	Bailey-Bloch congenital myopathy	Definitive	STAC3
+chr12	57488067	57516652	Charcot-Marie-Tooth disease	Limited	MARS1
+chr12	57550043	57586633	amyotrophic lateral sclerosis, susceptibility to, 25	Definitive	KIF5A
+chr12	57550043	57586633	inherited neurodegenerative disorder	Definitive	KIF5A
+chr12	57623408	57633201	complex hereditary spastic paraplegia	Definitive	B4GALNT1
+chr12	57747726	57752310	melanoma, cutaneous malignant, susceptibility to, 3	Definitive	CDK4
+chr12	57782786	57802856	Leigh syndrome	Moderate	TSFM
+chr12	63142758	63151201	autism spectrum disorder	Disputed	AVPR1A
+chr12	63779908	63809562	muscle-eye-brain disease	Definitive	RXYLT1
+chr12	64452119	64502114	frontotemporal dementia and/or amyotrophic lateral sclerosis 4	Definitive	TBK1
+chr12	64713448	64759406	mucopolysaccharidosis type 3D	Definitive	GNS
+chr12	65278682	65466907	nonsyndromic genetic hearing loss	Definitive	MSRB3
+chr12	66347430	67069338	Fraser syndrome 3	Definitive	GRIP1
+chr12	68610898	68671901	syndromic constitutional thrombocytopenia	Limited	RAP1B
+chr12	69608563	69610907	dilated cardiomyopathy	No Known Disease Relationship	LRRC10
+chr12	76344473	76348415	ciliopathy	Definitive	BBS10
+chr12	79773567	79935460	genitourinary and/or brain malformation syndrome	Strong	PPP1R12A
+chr12	80099536	80380880	nonsyndromic genetic hearing loss	Definitive	OTOGL
+chr12	80444234	80680273	hearing loss, autosomal recessive	Definitive	PTPRQ
+chr12	82686905	83134866	nonsyndromic genetic hearing loss	Disputed	TMTC2
+chr12	85280219	85301784	frontonasal dysplasia - severe microphthalmia - severe facial clefting syndrome	Definitive	ALX1
+chr12	88049015	88142088	CEP290-related ciliopathy	Definitive	CEP290
+chr12	88492792	88580471	nonsyndromic genetic hearing loss	Limited	KITLG
+chr12	93677374	93894840	syndromic intellectual disability	Definitive	CRADD
+chr12	94971332	95003697	Leigh syndrome	Limited	NDUFA12
+chr12	95972661	95996344	histidinemia	Limited	HAL
+chr12	98515589	98550351	familial isolated dilated cardiomyopathy	Refuted	TMPO
+chr12	98515589	98550351	hypertrophic cardiomyopathy	No Known Disease Relationship	TMPO
+chr12	100357073	100422055	nonsyndromic genetic hearing loss	Strong	SLC17A8
+chr12	101745498	101830959	GNPTAB-mucolipidosis	Definitive	GNPTAB
+chr12	102836888	102958441	phenylketonuria	Definitive	PAH
+chr12	108880091	108901043	amyotrophic lateral sclerosis	Refuted	DAO
+chr12	109097596	109110992	hyper-IgM syndrome type 5	Moderate	UNG
+chr12	109477633	109536702	oculocerebrofacial syndrome, Kaufman type	Definitive	UBE3B
+chr12	109553714	109573504	methylmalonic aciduria, cblB type	Definitive	MMAB
+chr12	109783088	109833398	neuromuscular disease	Definitive	TRPV4
+chr12	109783088	109833398	TRPV4-related bone disorder	Definitive	TRPV4
+chr12	110910844	110921449	arrhythmogenic right ventricular cardiomyopathy	No Known Disease Relationship	MYL2
+chr12	110910844	110921449	dilated cardiomyopathy	Limited	MYL2
+chr12	110910844	110921449	hypertrophic cardiomyopathy	Definitive	MYL2
+chr12	110910844	110921449	hypertrophic cardiomyopathy 10	Definitive	MYL2
+chr12	111034164	111350554	developmental and epileptic encephalopathy	Moderate	CUX2
+chr12	112418946	112509918	cardiofaciocutaneous syndrome	Disputed	PTPN11
+chr12	112418946	112509918	Costello syndrome	Disputed	PTPN11
+chr12	112418946	112509918	Noonan syndrome	Definitive	PTPN11
+chr12	112418946	112509918	Noonan syndrome with multiple lentigines	Definitive	PTPN11
+chr12	114353929	114408442	Holt-Oram syndrome	Definitive	TBX5
+chr12	115958575	116277693	syndromic intellectual disability	Definitive	MED13L
+chr12	119178930	119194746	autosomal dominant distal hereditary motor neuropathy	Definitive	HSPB8
+chr12	120725825	120740008	short chain acyl-CoA dehydrogenase deficiency	Definitive	ACADS
+chr12	120978542	121002512	monogenic diabetes	Definitive	HNF1A
+chr12	121626529	121643109	tubular aggregate myopathy	Definitive	ORAI1
+chr12	121839526	121888611	hawkinsinuria	Limited	HPD
+chr12	121839526	121888611	tyrosinemia type III	Definitive	HPD
+chr12	122207667	122227456	nonsyndromic genetic hearing loss	Limited	DIABLO
+chr12	123233435	123257960	Leigh syndrome	Definitive	MTRFR
+chr12	123671112	123708399	Joubert syndrome 24	Definitive	TCTN2
+chr12	131929275	131945896	mitochondrial disease	Definitive	PUS1
+chr12	132618775	132622388	nonsyndromic genetic hearing loss	Moderate	P2RX2
+chr12	132623761	132687342	POLE-related polyposis and colorectal cancer syndrome	Definitive	POLE
+chr13	20187469	20192938	hearing loss, autosomal recessive	Definitive	GJB2
+chr13	20221961	20232319	Clouston syndrome	Definitive	GJB6
+chr13	20221961	20232319	nonsyndromic genetic hearing loss	Refuted	GJB6
+chr13	23160507	23325162	autosomal recessive limb-girdle muscular dystrophy	Definitive	SGCG
+chr13	23979801	24307069	primary angle-closure glaucoma	Limited	SPATA13
+chr13	24882278	24922861	microcephaly 6 with or without short stature	Definitive	CENPJ
+chr13	27919999	27926313	monogenic diabetes	Moderate	PDX1
+chr13	27919999	27926313	pancreatic agenesis 1	Definitive	PDX1
+chr13	32315507	32400268	breast-ovarian cancer, familial, susceptibility to, 2	Definitive	BRCA2
+chr13	32315507	32400268	Fanconi anemia complementation group D1	Definitive	BRCA2
+chr13	34942269	35672736	complex neurodevelopmental disorder	Definitive	NBEA
+chr13	36301637	36370180	Troyer syndrome	Definitive	SPART
+chr13	36819221	36829104	MHC class II deficiency	Definitive	RFXAP
+chr13	36844830	36920238	pulmonary arterial hypertension	Definitive	SMAD9
+chr13	40789610	40812460	ornithine translocase deficiency	Definitive	SLC25A15
+chr13	47942655	48001273	Leigh syndrome	Definitive	SUCLA2
+chr13	48303750	48481890	retinoblastoma	Definitive	RB1
+chr13	49531945	49585558	RCBTB1-related retinopathy	Definitive	RCBTB1
+chr13	51932668	52012132	Wilson disease	Definitive	ATP7B
+chr13	52012397	52033600	ALG11-congenital disorder of glycosylation	Moderate	ALG11
+chr13	59665582	60163928	auditory neuropathy	Limited	DIAPH3
+chr13	76992080	77005117	neuronal ceroid lipofuscinosis	Definitive	CLN5
+chr13	77895486	77975527	Waardenburg syndrome type 4A	Moderate	EDNRB
+chr13	85792789	85799419	high myopia-sensorineural deafness syndrome	Definitive	SLITRK6
+chr13	95019834	95301451	qualitative platelet defect	Moderate	ABCC4
+chr13	100089092	100530435	propionic acidemia	Definitive	PCCA
+chr13	102846031	102875995	xeroderma pigmentosum group G	Definitive	ERCC5
+chr13	108207441	108218349	DNA ligase IV deficiency	Definitive	LIG4
+chr13	110641409	110706515	mitochondrial disease	Moderate	CARS2
+chr13	113105790	113120685	factor VII deficiency	Definitive	F7
+chr13	113122798	113149529	congenital factor X deficiency	Definitive	F10
+chr13	113667218	113737736	Oguchi disease	Definitive	GRK1
+chr14	20684176	20694186	amyotrophic lateral sclerosis type 9	Limited	ANG
+chr14	21385198	21456123	complex neurodevelopmental disorder	Definitive	CHD8
+chr14	22773221	22819791	lysinuric protein intolerance	Definitive	SLC7A7
+chr14	23381986	23408273	dilated cardiomyopathy	Limited	MYH6
+chr14	23381986	23408273	hypertrophic cardiomyopathy	Limited	MYH6
+chr14	23412739	23435660	arrhythmogenic right ventricular cardiomyopathy	Limited	MYH7
+chr14	23412739	23435660	dilated cardiomyopathy	Definitive	MYH7
+chr14	23412739	23435660	hypertrophic cardiomyopathy	Definitive	MYH7
+chr14	23412739	23435660	MYH7-related skeletal myopathy	Definitive	MYH7
+chr14	28766786	28770277	FOXG1 disorder	Definitive	FOXG1
+chr14	30874558	30890618	nonsyndromic genetic hearing loss	Definitive	COCH
+chr14	31025105	31096450	AP-4 deficiency syndrome	Definitive	AP4S1
+chr14	31561403	31861224	Leigh syndrome	Moderate	NUBPL
+chr14	34709112	34714593	nemaline myopathy 7	Definitive	CFL2
+chr14	36516396	36520232	NKX2-1 related choreoathetosis and congenital hypothyroidism with or without pulmonary dysfunction	Definitive	NKX2-1
+chr14	49782082	49852788	intellectual developmental disorder with speech delay and axonal peripheral neuropathy	Strong	NEMF
+chr14	50117129	50231578	Noonan syndrome	Definitive	SOS2
+chr14	50533081	50633068	neuropathy, hereditary sensory, type 1D	Definitive	ATL1
+chr14	53036754	53153323	hereditary spastic paraplegia	Definitive	DDHD1
+chr14	54842016	54902826	GTP cyclohydrolase I deficiency	Definitive	GCH1
+chr14	60643420	60649477	branchio-oto-renal syndrome	Definitive	SIX1
+chr14	60971440	60981690	mitochondrial disease	Definitive	TRMT5
+chr14	62699463	63045458	infantile-onset epilepsy	Definitive	KCNH5
+chr14	65006100	65102517	hereditary pheochromocytoma-paraganglioma	Definitive	MAX
+chr14	66508146	67181803	sulfite oxidase deficiency due to molybdenum cofactor deficiency type C	Moderate	GPHN
+chr14	67701885	67734451	RDH12-related recessive retinopathy	Definitive	RDH12
+chr14	68874127	68979302	platelet-type bleeding disorder 15	Definitive	ACTN1
+chr14	73136506	73223691	dilated cardiomyopathy	Disputed	PSEN1
+chr14	74056846	74084453	methylmalonate semialdehyde dehydrogenase deficiency	Limited	ALDH6A1
+chr14	74285268	74302934	methylmalonic acidemia with homocystinuria, type cblJ	Moderate	ABCD4
+chr14	74479934	74493512	Niemann-Pick disease, type C2	Definitive	NPC2
+chr14	74498182	74612237	glaucoma 3, primary congenital, D	Definitive	LTBP2
+chr14	75013774	75051467	colorectal cancer, hereditary nonpolyposis, type 7	Moderate	MLH3
+chr14	75661245	75955079	inherited retinal dystrophy	Definitive	TTLL5
+chr14	75958096	75983011	arrhythmogenic right ventricular cardiomyopathy	Limited	TGFB3
+chr14	75958096	75983011	familial thoracic aortic aneurysm and aortic dissection	Limited	TGFB3
+chr14	76310776	76501837	nonsyndromic genetic hearing loss	Definitive	ESRRB
+chr14	77274955	77320883	myopathy caused by variation in POMT2	Definitive	POMT2
+chr14	77321035	77331597	maleylacetoacetate isomerase deficiency	Moderate	GSTZ1
+chr14	77426674	77457601	arthrogryposis, renal dysfunction, and cholestasis 2	Definitive	VIPAS39
+chr14	77505996	77616637	neuropathy, hereditary sensory and autonomic, type 1C	Definitive	SPTLC2
+chr14	87933013	87993667	Krabbe disease	Definitive	GALC
+chr14	88563036	88627596	intellectual disability	Limited	ZC3H14
+chr14	90396501	90408268	catecholaminergic polymorphic ventricular tachycardia	Moderate	CALM1
+chr14	90396501	90408268	long QT syndrome	Definitive	CALM1
+chr14	91869410	91947694	demyelinating hereditary motor and sensory neuropathy	Moderate	FBLN5
+chr14	95086227	95158010	DICER1-related tumor predisposition	Definitive	DICER1
+chr14	96392127	96489427	primary ciliary dyskinesia	Disputed	AK7
+chr14	96392127	96489427	spermatogenic failure 27	Limited	AK7
+chr14	100333789	100376327	distal hereditary motor neuropathy	Limited	WARS1
+chr14	101964572	102056443	neuronopathy, distal hereditary motor	Definitive	DYNC1H1
+chr14	102777448	102911500	TRAF3 haploinsufficiency	Moderate	TRAF3
+chr14	104689617	104722535	Charcot-Marie-Tooth disease dominant intermediate E	Definitive	INF2
+chr15	23643548	23647867	Schaaf-Yang syndrome	Definitive	MAGEL2
+chr15	25333727	25439024	Angelman syndrome	Definitive	UBE3A
+chr15	26543551	26773763	developmental and epileptic encephalopathy	Definitive	GABRB3
+chr15	27754874	28099315	oculocutaneous albinism type 2	Definitive	OCA2
+chr15	29699366	29969049	arrhythmogenic right ventricular cardiomyopathy	Limited	TJP1
+chr15	30903914	30943108	hereditary nonpolyposis colon cancer	Limited	FAN1
+chr15	31001064	31161160	TRPM1-related retinopathy	Definitive	TRPM1
+chr15	31475397	31870673	complex neurodevelopmental disorder	Limited	OTUD7A
+chr15	32030514	32173018	epilepsy	Refuted	CHRNA7
+chr15	32718003	32745106	hereditary mixed polyposis syndrome	Definitive	GREM1
+chr15	33310966	33866102	congenital myopathy	Disputed	RYR3
+chr15	33310966	33866102	developmental and epileptic encephalopathy	Limited	RYR3
+chr15	34790229	34795549	arrhythmogenic right ventricular cardiomyopathy	No Known Disease Relationship	ACTC1
+chr15	34790229	34795549	dilated cardiomyopathy	Moderate	ACTC1
+chr15	34790229	34795549	hypertrophic cardiomyopathy	Definitive	ACTC1
+chr15	36889203	37101311	syndromic intellectual disability	Definitive	MEIS2
+chr15	38252835	38357249	Legius syndrome	Definitive	SPRED1
+chr15	39934114	40035591	pulmonary veno-occlusive disease and/or pulmonary capillary haemangiomatosis	Definitive	EIF2AK4
+chr15	40161068	40221123	mosaic variegated aneuploidy syndrome 1	Definitive	BUB1B
+chr15	40405794	40435947	isovaleric acidemia	Definitive	IVD
+chr15	40978879	41116280	immunodeficiency, common variable, 1	Disputed	INO80
+chr15	41387352	41402496	mitochondrial disease	Moderate	NDUFAF1
+chr15	41774483	41827855	nephronophthisis 20	Strong	MAPKBP1
+chr15	42359500	42412317	autosomal recessive limb-girdle muscular dystrophy	Definitive	CAPN3
+chr15	42359500	42412317	muscular dystrophy, limb-girdle, autosomal dominant	Limited	CAPN3
+chr15	43599562	43618800	nonsyndromic genetic hearing loss	Definitive	STRC
+chr15	44562695	44663662	hereditary spastic paraplegia 11	Definitive	SPG11
+chr15	45023194	45077185	Charcot-Marie-Tooth disease	Definitive	SORD
+chr15	45361123	45402227	AGAT deficiency	Definitive	GATM
+chr15	45587122	45609716	Hermansky-Pudlak syndrome 9	Definitive	BLOC1S6
+chr15	45631147	45691281	Leigh syndrome	Limited	SQOR
+chr15	48408312	48645709	familial thoracic aortic aneurysm and aortic dissection	Definitive	FBN1
+chr15	48408312	48645709	Marfan syndrome	Definitive	FBN1
+chr15	48408312	48645709	Shprintzen-Goldberg syndrome	Disputed	FBN1
+chr15	48737937	48811069	microcephaly with or without short stature	Definitive	CEP152
+chr15	50908682	51005895	AP-4 deficiency syndrome	Definitive	AP4E1
+chr15	51447790	51622771	nonsyndromic genetic hearing loss	Limited	DMXL2
+chr15	52307282	52529050	Griscelli syndrome type 1	Definitive	MYO5A
+chr15	53513740	53762878	amelogenesis imperfecta	Definitive	WDR72
+chr15	55202965	55289813	Griscelli syndrome type 2	Definitive	RAB27A
+chr15	56428723	56465137	primary ciliary dyskinesia	Disputed	MNS1
+chr15	56918643	57291310	TCF12-related craniosynostosis	Definitive	TCF12
+chr15	63042746	63071915	arrhythmogenic right ventricular cardiomyopathy	No Known Disease Relationship	TPM1
+chr15	63042746	63071915	dilated cardiomyopathy	Moderate	TPM1
+chr15	63042746	63071915	hypertrophic cardiomyopathy	Definitive	TPM1
+chr15	65001511	65029639	Leigh syndrome	Definitive	MTFMT
+chr15	65076745	65079948	nemaline myopathy 6	Moderate	KBTBD13
+chr15	66386911	66491544	cardiofaciocutaneous syndrome	Definitive	MAP2K1
+chr15	66386911	66491544	Costello syndrome	Disputed	MAP2K1
+chr15	66386911	66491544	Noonan syndrome	Limited	MAP2K1
+chr15	66386911	66491544	Noonan syndrome with multiple lentigines	Limited	MAP2K1
+chr15	67065601	67195169	aneurysm-osteoarthritis syndrome	Definitive	SMAD3
+chr15	67065601	67195169	familial thoracic aortic aneurysm and aortic dissection	Definitive	SMAD3
+chr15	68206991	68257211	neuronal ceroid lipofuscinosis	Definitive	CLN6
+chr15	71822290	72118150	arthrogryposis syndrome	Limited	MYO9A
+chr15	72340923	72376014	Tay-Sachs disease	Definitive	HEXA
+chr15	73319858	73368958	Brugada syndrome 1	Disputed	HCN4
+chr15	73319858	73368958	familial thoracic aortic aneurysm and aortic dissection	Limited	HCN4
+chr15	74890041	74902219	MPI-congenital disorder of glycosylation	Definitive	MPI
+chr15	75369378	75455815	SIN3A-related intellectual disability syndrome	Definitive	SIN3A
+chr15	76215352	76311469	multiple acyl-CoA dehydrogenase deficiency	Definitive	ETFA
+chr15	78104605	78131535	nonsyndromic genetic hearing loss	Definitive	CIB2
+chr15	78104605	78131535	Usher syndrome type 1	Refuted	CIB2
+chr15	78507576	78537373	inborn disorder of lysine and hydroxylysine metabolism	No Known Disease Relationship	HYKK
+chr15	80152788	80186949	tyrosinemia type I	Definitive	FAH
+chr15	80779369	80951771	nonsyndromic genetic hearing loss	Disputed	CEMIP
+chr15	82848982	82952720	nonsyndromic genetic hearing loss	Moderate	HOMER2
+chr15	84817355	84873479	hypertrophic cardiomyopathy	Definitive	ALPK3
+chr15	89209868	89221579	RLBP1-related retinopathy	Definitive	RLBP1
+chr15	89243978	89317259	Fanconi anemia complementation group I	Definitive	FANCI
+chr15	89316319	89334824	Leigh syndrome	Limited	POLG
+chr15	89681534	89690754	peroxisome biogenesis disorder	No Known Disease Relationship	PEX11A
+chr15	90083044	90102468	mitochondrial disease	Definitive	IDH2
+chr15	90717345	90816166	Bloom syndrome	Definitive	BLM
+chr15	90998415	91022621	arthrogryposis, renal dysfunction, and cholestasis 1	Definitive	VPS33B
+chr15	92900323	93027996	complex neurodevelopmental disorder	Definitive	CHD2
+chr15	100566923	100602184	complex neurodevelopmental disorder	Definitive	LINS1
+chr16	85385	138673	focal epilepsy	Definitive	NPRL3
+chr16	172875	173710	alpha thalassemia	Definitive	HBA2
+chr16	722581	726880	centronuclear myopathy	Limited	CCDC78
+chr16	1153105	1221768	epilepsy	Disputed	CACNA1H
+chr16	1351930	1364113	GNPTG-mucolipidosis	Definitive	GNPTG
+chr16	1444934	1475028	autosomal recessive osteopetrosis 4	Definitive	CLCN7
+chr16	1444934	1475028	hypopigmentation, organomegaly, and delayed myelination and development	Moderate	CLCN7
+chr16	1493359	1510454	TELO2-related intellectual disability-neurodevelopmental disorder	Definitive	TELO2
+chr16	1510426	1612072	autosomal dominant polycystic kidney disease	Strong	IFT140
+chr16	1510426	1612072	IFT140-related recessive ciliopathy	Definitive	IFT140
+chr16	1706194	1770351	neurodevelopmental disorder with or without variable brain abnormalities; NEDBA	Definitive	MAPK8IP3
+chr16	1771894	1773134	Leigh syndrome	Moderate	MRPS34
+chr16	1959537	1961975	mitochondrial disease	Moderate	NDUFB10
+chr16	2039819	2047834	NTHL1-deficiency tumor predisposition syndrome	Definitive	NTHL1
+chr16	2047984	2089491	tuberous sclerosis	Definitive	TSC2
+chr16	2088707	2135898	autosomal dominant polycystic kidney disease	Definitive	PKD1
+chr16	2088707	2135898	autosomal recessive polycystic kidney disease	Definitive	PKD1
+chr16	2429446	2458854	frontotemporal dementia and/or amyotrophic lateral sclerosis 5	Limited	CCNF
+chr16	2475126	2505730	DOORS syndrome	Definitive	TBC1D24
+chr16	2475126	2505730	nonsyndromic genetic hearing loss	Limited	TBC1D24
+chr16	3242026	3256633	familial Mediterranean fever	Definitive	MEFV
+chr16	3581180	3611606	familial ovarian cancer	No Known Disease Relationship	SLX4
+chr16	3581180	3611606	hereditary breast carcinoma	Refuted	SLX4
+chr16	3725053	3880713	Rubinstein-Taybi syndrome	Definitive	CREBBP
+chr16	4314760	4339595	nephronophthisis 7	Limited	GLIS2
+chr16	4796967	4802633	amelocerebrohypohidrotic syndrome	Definitive	ROGDI
+chr16	8674616	8784570	developmental and epileptic encephalopathy	Moderate	ABAT
+chr16	8797838	8849325	PMM2-congenital disorder of glycosylation	Definitive	PMM2
+chr16	8892096	8963906	Hao-Fountain syndrome	Definitive	USP7
+chr16	9753407	10182908	complex neurodevelopmental disorder	Definitive	GRIN2A
+chr16	10877201	10936394	MHC class II deficiency	Definitive	CIITA
+chr16	11547721	11587466	Charcot-Marie-Tooth disease	Moderate	LITAF
+chr16	13920153	13952348	xeroderma pigmentosum group F	Definitive	ERCC4
+chr16	15703134	15857028	familial thoracic aortic aneurysm and aortic dissection	Definitive	MYH11
+chr16	18791668	18801549	hereditary spastic paraplegia	Definitive	ARL6IP1
+chr16	20333050	20352715	autosomal dominant medullary cystic kidney disease with or without hyperuricemia	Definitive	UMOD
+chr16	21258520	21303062	nonsyndromic genetic hearing loss	Limited	CRYM
+chr16	21663967	21760729	nonsyndromic genetic hearing loss	Definitive	OTOA
+chr16	21953360	21983660	mitochondrial disease	Moderate	UQCRC2
+chr16	23182744	23216883	Liddle syndrome	Definitive	SCNN1G
+chr16	23520753	23557350	Leigh syndrome	Definitive	EARS2
+chr16	23603164	23641310	familial ovarian cancer	Moderate	PALB2
+chr16	23603164	23641310	Fanconi anemia complementation group N	Definitive	PALB2
+chr16	23603164	23641310	hereditary breast carcinoma	Definitive	PALB2
+chr16	23603164	23641310	hereditary nonpolyposis colon cancer	Limited	PALB2
+chr16	27402173	27452042	immunodeficiency disease	Definitive	IL21R
+chr16	27550143	27780344	ciliopathy	Definitive	KATNIP
+chr16	28466652	28492074	neuronal ceroid lipofuscinosis	Definitive	CLN3
+chr16	28931970	28939342	immunodeficiency, common variable, 3	Definitive	CD19
+chr16	28984802	28990784	severe combined immunodeficiency due to LAT deficiency	Strong	LAT
+chr16	29812192	29815881	infantile convulsions and choreoathetosis	Definitive	PRRT2
+chr16	30183601	30189076	severe combined immunodeficiency due to CORO1A deficiency	Definitive	CORO1A
+chr16	30699170	30741409	Floating-Harbor syndrome	Definitive	SRCAP
+chr16	30896613	30903560	dilated cardiomyopathy	Limited	CTF1
+chr16	30985206	30989147	congenital bile acid synthesis defect 1	Definitive	HSD3B7
+chr16	30989255	31010638	generalized epilepsy with febrile seizures plus	Definitive	STX1B
+chr16	31090853	31094797	vitamin K-dependent clotting factors, combined deficiency of, type 2	Moderate	VKORC1
+chr16	31108385	31112838	branched-chain keto acid dehydrogenase kinase deficiency	Definitive	BCKDK
+chr16	31180109	31194871	amyotrophic lateral sclerosis type 6	Definitive	FUS
+chr16	46656131	46689178	Parkinson disease	Definitive	VPS35
+chr16	46689658	46698394	Meier-Gorlin syndrome 3	Definitive	ORC6
+chr16	46884361	46931289	glutamate pyruvate transaminase 2 deficiency	Definitive	GPT2
+chr16	49487530	49857919	nephronophthisis	Limited	ZNF423
+chr16	50693605	50733075	Blau syndrome	Definitive	NOD2
+chr16	50742085	50801935	Brooke-Spiegler syndrome	Definitive	CYLD
+chr16	50742085	50801935	frontotemporal dementia and/or amyotrophic lateral sclerosis 8	Limited	CYLD
+chr16	56191488	56357444	developmental and epileptic encephalopathy	Definitive	GNAO1
+chr16	56191488	56357444	movement disorder	Definitive	GNAO1
+chr16	57245258	57253635	retinitis pigmentosa with or without situs inversus	Limited	ARL2BP
+chr16	57447478	57461270	Leigh syndrome	Limited	COQ9
+chr16	57619737	57665567	bilateral frontoparietal polymicrogyria	Strong	ADGRG1
+chr16	57882339	57971128	CNGB1-related retinopathy	Definitive	CNGB1
+chr16	58519950	58629826	complex neurodevelopmental disorder	Definitive	CNOT1
+chr16	58519950	58629826	holoprosencephaly 12 with or without pancreatic agenesis	Limited	CNOT1
+chr16	67562525	67639177	syndromic intellectual disability	Definitive	CTCF
+chr16	68645309	68700292	EEM syndrome	Definitive	CDH3
+chr16	68737291	68835537	CDH1-related diffuse gastric and lobular breast cancer syndrome	Definitive	CDH1
+chr16	68737291	68835537	familial ovarian cancer	No Known Disease Relationship	CDH1
+chr16	68737291	68835537	hereditary nonpolyposis colon cancer	Limited	CDH1
+chr16	70480566	70523554	COG4-congenital disorder of glycosylation	Moderate	COG4
+chr16	70802083	71230722	primary ciliary dyskinesia 5	Definitive	HYDIN
+chr16	71565659	71577092	tyrosinemia type II	Definitive	TAT
+chr16	75536740	75556252	ciliopathy	Definitive	TMEM231
+chr16	75627723	75647665	nonsyndromic genetic hearing loss	Limited	KARS1
+chr16	77282127	77435034	microcornea-myopic chorioretinal atrophy	Definitive	ADAMTS18
+chr16	78099653	79212667	developmental and epileptic encephalopathy	Definitive	WWOX
+chr16	81081944	81096395	glycine encephalopathy	Strong	GCSH
+chr16	81314961	81390809	giant axonal neuropathy 1	Definitive	GAN
+chr16	83899114	83927031	malonic aciduria	Definitive	MLYCD
+chr16	84009666	84042795	foveal hypoplasia - optic nerve decussation defect - anterior segment dysgenesis syndrome	Definitive	SLC38A8
+chr16	84145307	84177918	primary ciliary dyskinesia 13	Definitive	DNAAF1
+chr16	85799694	85807068	Leigh syndrome	Limited	COX4I1
+chr16	87881548	87936529	hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency	Definitive	CA5A
+chr16	88715337	88785220	dehydrated hereditary stomatocytosis with or without pseudohyperkalemia and/or perinatal edema	Strong	PIEZO1
+chr16	88715337	88785220	PIEZO1-related generalized lymphatic dysplasia with non-immune hydrops fetalis	Definitive	PIEZO1
+chr16	88803788	88809258	Meier-Gorlin syndrome 4	Definitive	CDT1
+chr16	88813733	88856947	mucopolysaccharidosis type 4A	Definitive	GALNS
+chr16	89093851	89156233	combined malonic and methylmalonic acidemia	Definitive	ACSF3
+chr16	89171747	89195492	intellectual disability	Disputed	CDH15
+chr16	89267629	89490561	KBG syndrome	Definitive	ANKRD11
+chr16	89737548	89816647	Fanconi anemia complementation group A	Definitive	FANCA
+chr17	1464185	1492686	autosomal dominant nonsyndromic hearing loss	Disputed	MYO1C
+chr17	1650628	1684867	inherited retinal dystrophy	Definitive	PRPF8
+chr17	1742870	1755265	alpha-2-plasmin inhibitor deficiency	Definitive	SERPINF2
+chr17	3475996	3503405	Canavan disease	Definitive	ASPA
+chr17	4932276	4935023	Bernard-Soulier syndrome	Definitive	GP1BA
+chr17	4932276	4935023	platelet-type von Willebrand disease	Definitive	GP1BA
+chr17	4945651	4948530	amyotrophic lateral sclerosis type 18	Definitive	PFN1
+chr17	5032601	5035426	maternal riboflavin deficiency	Limited	SLC52A1
+chr17	5432776	5439155	mitochondrial disease	Definitive	C1QBP
+chr17	6423737	6435121	AIPL1-related retinopathy	Definitive	AIPL1
+chr17	7187186	7219836	complex neurodevelopmental disorder	Definitive	DLG4
+chr17	7217124	7225266	very long chain acyl-CoA dehydrogenase deficiency	Definitive	ACADVL
+chr17	7484365	7514616	neurodevelopmental disorder with hypotonia and variable intellectual and behavioral abnormalities	Moderate	POLR2A
+chr17	7549057	7557881	common variable immunodeficiency	Limited	TNFSF12
+chr17	7558281	7561601	common variable immunodeficiency	Limited	TNFSF13
+chr17	7668420	7687490	familial ovarian cancer	Limited	TP53
+chr17	7668420	7687490	Li-Fraumeni syndrome 1	Definitive	TP53
+chr17	7686070	7703502	dyskeratosis congenita	Moderate	WRAP53
+chr17	7834216	7854796	syndromic intellectual disability	Definitive	KDM6B
+chr17	7884795	7912755	Snijders Blok-Campeau syndrome	Definitive	CHD3
+chr17	8002614	8020342	GUCY2D-related dominant retinopathy	Definitive	GUCY2D
+chr17	8002614	8020342	GUCY2D-related recessive retinopathy	Definitive	GUCY2D
+chr17	8288669	8290087	Brugada syndrome	Disputed	RANGRF
+chr17	10521147	10549658	myopathy, proximal, and ophthalmoplegia	Definitive	MYH2
+chr17	10672473	10697533	mitochondrial disease	Definitive	SCO1
+chr17	14069503	14208677	Leigh syndrome	Moderate	COX10
+chr17	15229778	15265326	Charcot-Marie-Tooth disease type 1A	Definitive	PMP22
+chr17	15999823	16029404	Leigh syndrome	Definitive	TTC19
+chr17	16217209	16326411	syndromic intellectual disability	Definitive	PIGL
+chr17	16939080	16972118	immunodeficiency, common variable, 2	Definitive	TNFRSF13B
+chr17	17212211	17237168	Birt-Hogg-Dube syndrome	Definitive	FLCN
+chr17	17681457	17811453	Smith-Magenis syndrome	Definitive	RAI1
+chr17	18108755	18179800	nonsyndromic genetic hearing loss	Definitive	MYO15A
+chr17	19334694	19377913	ciliopathy	Definitive	B9D1
+chr17	28506347	28538900	T-cell immunodeficiency, congenital alopecia, and nail dystrophy	Definitive	FOXN1
+chr17	28728787	28743455	renal-hepatic-pancreatic dysplasia 2	Definitive	NEK8
+chr17	29390362	29551903	syndromic intellectual disability	Definitive	TAOK1
+chr17	30194318	30235697	autism spectrum disorder	Disputed	SLC6A4
+chr17	31094926	31377677	familial ovarian cancer	No Known Disease Relationship	NF1
+chr17	31094926	31377677	neurofibromatosis type 1	Definitive	NF1
+chr17	34579581	34639318	hearing loss, autosomal recessive	Limited	TMEM132E
+chr17	35092220	35119860	familial ovarian cancer	Definitive	RAD51D
+chr17	35092220	35119860	hereditary breast carcinoma	Limited	RAD51D
+chr17	35543984	35560819	platelet-type bleeding disorder 20	Moderate	SLFN14
+chr17	35574794	35578571	peroxisome biogenesis disorder	Definitive	PEX12
+chr17	35744510	35753239	ciliary dyskinesia, primary, 41	Moderate	GAS2L2
+chr17	35809483	35847242	amyotrophic lateral sclerosis	Limited	TAF15
+chr17	37686430	37745059	renal cysts and diabetes syndrome	Definitive	HNF1B
+chr17	38324570	38343956	GPR179-related retinopathy	Definitive	GPR179
+chr17	38733897	38748336	turnpenny-fry syndrome	Strong	PCGF2
+chr17	39665348	39666554	autosomal recessive limb-girdle muscular dystrophy	Definitive	TCAP
+chr17	39665348	39666554	dilated cardiomyopathy	Limited	TCAP
+chr17	39665348	39666554	hypertrophic cardiomyopathy	Disputed	TCAP
+chr17	39671121	39688057	hyperphosphatasia with intellectual disability syndrome 4	Strong	PGAP3
+chr17	39757717	39864312	immunodeficiency 84	Moderate	IKZF3
+chr17	40624961	40647818	familial meningioma	Definitive	SMARCE1
+chr17	41930616	41966503	primary ciliary dyskinesia 35	Definitive	ODAD4
+chr17	41976434	42017439	amyotrophic lateral sclerosis	Limited	DNAJC7
+chr17	42313323	42388442	hyper-IgE recurrent infection syndrome 1, autosomal dominant	Definitive	STAT3
+chr17	42313323	42388442	STAT3-related early-onset multisystem autoimmune disease	Definitive	STAT3
+chr17	42536240	42544449	mucopolysaccharidosis type 3	Definitive	NAGLU
+chr17	42609682	42615238	lissencephaly spectrum disorders	Definitive	TUBG1
+chr17	42797624	42798704	mitochondrial disease	Limited	COA3
+chr17	43044294	43170327	breast-ovarian cancer, familial, susceptibility to, 1	Definitive	BRCA1
+chr17	43044294	43170327	Fanconi anemia, complementation group S	Definitive	BRCA1
+chr17	44004621	44009068	hyperammonemia due to N-acetylglutamate synthase deficiency	Definitive	NAGS
+chr17	44205039	44221304	childhood-onset motor and cognitive regression syndrome with extrapyramidal movement disorder	Definitive	UBTF
+chr17	44345301	44353106	frontotemporal dementia and/or amyotrophic lateral sclerosis	Definitive	GRN
+chr17	44345301	44353106	neuronal ceroid lipofuscinosis	Definitive	GRN
+chr17	44372180	44389649	Glanzmann thrombasthenia	Definitive	ITGA2B
+chr17	44372180	44389649	platelet-type bleeding disorder 16	Definitive	ITGA2B
+chr17	44849947	44899445	mandibulofacial dysostosis-microcephaly syndrome	Definitive	EFTUD2
+chr17	44899728	44905390	primary ciliary dyskinesia 17	Definitive	CCDC103
+chr17	46029915	46225367	Koolen-de Vries syndrome	Definitive	KANSL1
+chr17	47253826	47313743	Glanzmann thrombasthenia	Definitive	ITGB3
+chr17	47253826	47313743	platelet-type bleeding disorder 16	Moderate	ITGB3
+chr17	47941570	47949308	pyridoxal phosphate-responsive seizures	Definitive	PNPO
+chr17	50166004	50175928	autosomal recessive limb-girdle muscular dystrophy	Definitive	SGCA
+chr17	50184100	50201631	Caffey disease	Definitive	COL1A1
+chr17	50184100	50201631	combined osteogenesis imperfecta and Ehlers-Danlos syndrome 1	Definitive	COL1A1
+chr17	50184100	50201631	Ehlers-Danlos syndrome, arthrochalasis type	Definitive	COL1A1
+chr17	50184100	50201631	Ehlers-Danlos syndrome, classic type, 1	Moderate	COL1A1
+chr17	50184100	50201631	osteogenesis imperfecta type 1	Definitive	COL1A1
+chr17	50184100	50201631	osteogenesis imperfecta type 2	Definitive	COL1A1
+chr17	50184100	50201631	osteogenesis imperfecta type 3	Definitive	COL1A1
+chr17	50184100	50201631	osteogenesis imperfecta type 4	Definitive	COL1A1
+chr17	56593698	56595611	NOG-related symphalangism spectrum disorder	Definitive	NOG
+chr17	58352499	58417534	sessile serrated polyposis cancer syndrome	Definitive	RNF43
+chr17	58692601	58735611	familial ovarian cancer	Definitive	RAD51C
+chr17	58692601	58735611	Fanconi anemia complementation group O	Limited	RAD51C
+chr17	58692601	58735611	hereditary breast carcinoma	Disputed	RAD51C
+chr17	58982648	59106880	mulibrey nanism	Definitive	TRIM37
+chr17	59210034	59215230	Alzahrani-Kuwahara syndrome	Definitive	SMG8
+chr17	59893120	59950574	hypertrophic cardiomyopathy	Limited	RPS6KB1
+chr17	60600192	60666280	syndromic intellectual disability	Definitive	PPM1D
+chr17	61452421	61485110	pulmonary arterial hypertension	Definitive	TBX4
+chr17	61679138	61863528	familial ovarian cancer	Definitive	BRIP1
+chr17	61679138	61863528	Fanconi anemia complementation group J	Definitive	BRIP1
+chr17	61679138	61863528	hereditary breast carcinoma	Refuted	BRIP1
+chr17	61942604	62065278	complex neurodevelopmental disorder	Definitive	MED13
+chr17	62966234	63427703	intellectual developmental disorder with autistic features and language delay, with or without seizures	Definitive	TANC2
+chr17	63600894	63608365	Leigh syndrome	Moderate	TACO1
+chr17	63928739	63932331	agammaglobulinemia 6, autosomal recessive	Definitive	CD79B
+chr17	63938553	63972918	SCN4A-related myopathy, autosomal recessive	Definitive	SCN4A
+chr17	65137369	65227703	bradyopsia	Moderate	RGS9
+chr17	65528562	65561648	oligodontia-cancer predisposition syndrome	Definitive	AXIN2
+chr17	67825502	67984378	syndromic intellectual disability	Definitive	BPTF
+chr17	68413622	68533431	Carney complex, type 1	Definitive	PRKAR1A
+chr17	70075224	70135608	hypokalemic alkalosis, familial, with specific renal tubulopathy	Strong	KCNJ16
+chr17	70169531	70180044	catecholaminergic polymorphic ventricular tachycardia	Disputed	KCNJ2
+chr17	70169531	70180044	long QT syndrome	Limited	KCNJ2
+chr17	70169531	70180044	short QT syndrome	Moderate	KCNJ2
+chr17	72121019	72126416	campomelic dysplasia	Definitive	SOX9
+chr17	72121019	72126416	Cooks syndrome	Limited	SOX9
+chr17	72121019	72126416	isolated Pierre-Robin syndrome	Limited	SOX9
+chr17	74274233	74314884	primary ciliary dyskinesia 9	Definitive	DNAI2
+chr17	74916082	74923255	nonsyndromic genetic hearing loss	Disputed	USH1G
+chr17	74916082	74923255	Usher syndrome type 1	Definitive	USH1G
+chr17	75272991	75289433	Leigh syndrome	Limited	SLC25A19
+chr17	75751468	75765192	galactokinase deficiency	Definitive	GALK1
+chr17	75827224	75844404	familial hemophagocytic lymphohistiocytosis 3	Definitive	UNC13D
+chr17	75845698	75856436	hearing loss, autosomal recessive	Limited	WBP2
+chr17	75941506	75979166	Mitchell syndrome	Strong	ACOX1
+chr17	75941506	75979166	peroxisomal acyl-CoA oxidase deficiency	Definitive	ACOX1
+chr17	76081015	76103787	complex neurodevelopmental disorder	Moderate	EXOC7
+chr17	76136332	76141245	ciliary dyskinesia, primary, 43	Strong	FOXJ1
+chr17	76470892	76501427	palmoplantar keratoderma-esophageal carcinoma syndrome	Definitive	RHBDF2
+chr17	77281498	77500593	neuralgic amyotrophy	Moderate	SEPTIN9
+chr17	78423696	78577396	spermatogenic failure 39	Definitive	DNAH17
+chr17	80036641	80100613	primary ciliary dyskinesia 15	Definitive	CCDC40
+chr17	80101580	80119881	glycogen storage disease II	Definitive	GAA
+chr17	80209275	80220333	mucopolysaccharidosis type 3A	Definitive	SGSH
+chr17	81239317	81241310	Leigh syndrome	Moderate	NDUFAF8
+chr17	81509970	81512799	Baraitser-winter syndrome 2	Definitive	ACTG1
+chr17	81509970	81512799	nonsyndromic genetic hearing loss	Definitive	ACTG1
+chr17	81932390	81937300	autosomal recessive cutis laxa type 2B	Definitive	PYCR1
+chr18	2655725	2805017	arhinia, choanal atresia, and microphthalmia	Definitive	SMCHD1
+chr18	3066806	3219968	hypertrophic cardiomyopathy	Disputed	MYOM1
+chr18	9102698	9134341	Leigh syndrome	Limited	NDUFV2
+chr18	21740791	21870953	dilated cardiomyopathy	No Known Disease Relationship	MIB1
+chr18	23531441	23586506	Niemann-Pick disease, type C1	Definitive	NPC1
+chr18	27950965	28177130	arrhythmogenic right ventricular cardiomyopathy	Limited	CDH2
+chr18	31058839	31102421	familial isolated arrhythmogenic right ventricular dysplasia	Definitive	DSC2
+chr18	31498176	31549008	arrhythmogenic right ventricular cardiomyopathy	Definitive	DSG2
+chr18	31498176	31549008	dilated cardiomyopathy	Limited	DSG2
+chr18	31591876	31598821	hereditary ATTR amyloidosis	Definitive	TTR
+chr18	33578218	33751195	syndromic intellectual disability	Definitive	ASXL3
+chr18	34493311	34891844	dilated cardiomyopathy	Limited	DTNA
+chr18	36187496	36272157	xanthinuria type II	Definitive	MOCOS
+chr18	44680072	45068510	complex neurodevelopmental disorder	Definitive	SETBP1
+chr18	44680072	45068510	Schinzel-Giedion syndrome	Definitive	SETBP1
+chr18	46477272	46657220	nonsyndromic genetic hearing loss	Definitive	LOXHD1
+chr18	46917593	47102243	complex neurodevelopmental disorder	Disputed	KATNAL2
+chr18	47808956	47930872	familial thoracic aortic aneurysm and aortic dissection	Moderate	SMAD2
+chr18	51030212	51085042	juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome	Definitive	SMAD4
+chr18	51030212	51085042	Myhre syndrome	Definitive	SMAD4
+chr18	51030212	51085042	pulmonary arterial hypertension	Disputed	SMAD4
+chr18	52340196	53535899	mirror movements 1 and/or agenesis of the corpus callosum	Definitive	DCC
+chr18	55222184	55635957	Pitt-Hopkins syndrome	Definitive	TCF4
+chr18	57544376	57586702	protoporphyria, erythropoietic, 1	Definitive	FECH
+chr18	58044225	58401539	periventricular nodular heterotopia 7	Definitive	NEDD4L
+chr18	58671464	58754477	combined immunodeficiency due to MALT1 deficiency	Definitive	MALT1
+chr18	59327822	59359265	factor V and factor VIII, combined deficiency of, type 1	Definitive	LMAN1
+chr18	62041163	62187056	multiple congenital anomalies-hypotonia-seizures syndrome 1	Definitive	PIGN
+chr18	63327725	63367206	erythrokeratodermia variabilis et progressiva 4	Definitive	KDSR
+chr18	63970080	64019779	exfoliative ichthyosis	Limited	SERPINB8
+chr18	75210796	75289944	aural atresia, congenital	Limited	TSHZ1
+chr18	79395929	79529323	congenital heart disease	Disputed	NFATC1
+chr19	852302	856243	neutropenia	Definitive	ELANE
+chr19	1205777	1228431	familial ovarian cancer	No Known Disease Relationship	STK11
+chr19	1205777	1228431	Peutz-Jeghers syndrome	Definitive	STK11
+chr19	1383906	1395584	Leigh syndrome	Moderate	NDUFS7
+chr19	1397025	1401542	guanidinoacetate methyltransferase deficiency	Definitive	GAMT
+chr19	1450120	1473244	lissencephaly spectrum disorders	Strong	APC2
+chr19	1609291	1652615	autosomal agammaglobulinemia	Definitive	TCF3
+chr19	2100987	2151566	Hermansky-Pudlak syndrome 10	Moderate	AP3D1
+chr19	3585477	3593541	nonsyndromic genetic hearing loss	Definitive	GIPC3
+chr19	3594506	3606875	qualitative platelet defect	Moderate	TBXA2R
+chr19	3880684	3928082	cerebellar ataxia	Definitive	ATCAY
+chr19	4090320	4124122	cardiofaciocutaneous syndrome	Definitive	MAP2K2
+chr19	4090320	4124122	Noonan syndrome	Limited	MAP2K2
+chr19	5691833	5720452	Leigh syndrome	Limited	LONP1
+chr19	5891228	5903790	mitochondrial disease	Limited	NDUFA11
+chr19	6361530	6370242	Perrault syndrome 3	Definitive	CLPP
+chr19	6677703	6720650	atypical hemolytic-uremic syndrome with C3 anomaly	Definitive	C3
+chr19	7476874	7489400	peroxisome biogenesis disorder	No Known Disease Relationship	PEX11G
+chr19	7522623	7534009	mucolipidosis type IV	Definitive	MCOLN1
+chr19	7534163	7561764	PNPLA6-related spastic paraplegia with or without ataxia	Definitive	PNPLA6
+chr19	7534163	7561764	retinal dystrophy-ataxia-pituitary hormone abnormality-hypogonadism syndrome	Definitive	PNPLA6
+chr19	7629792	7647873	familial hemophagocytic lymphohistiocytosis 5	Definitive	STXBP2
+chr19	7629792	7631956	Leigh syndrome	Moderate	PET100
+chr19	8302126	8308358	methylmalonic acidemia due to transcobalamin receptor defect	Definitive	CD320
+chr19	8520777	8577442	nonsyndromic genetic hearing loss	Disputed	MYO1F
+chr19	10133345	10194953	autosomal dominant cerebellar ataxia, deafness and narcolepsy	Definitive	DNMT1
+chr19	10221432	10231331	nonsyndromic genetic hearing loss	Strong	S1PR2
+chr19	10718078	10831903	autosomal dominant centronuclear myopathy	Definitive	DNM2
+chr19	10718078	10831903	Charcot-Marie-Tooth disease	Definitive	DNM2
+chr19	10961029	11062273	Coffin-Siris syndrome	Definitive	SMARCA4
+chr19	10961029	11062273	hereditary nonpolyposis colon cancer	Limited	SMARCA4
+chr19	10961029	11062273	rhabdoid tumor predisposition syndrome 2	Definitive	SMARCA4
+chr19	11089462	11133820	hypercholesterolemia, familial, 1	Definitive	LDLR
+chr19	11199294	11262524	Adams-Oliver syndrome	Definitive	DOCK6
+chr19	11420604	11435782	primary ciliary dyskinesia 30	Definitive	ODAD3
+chr19	11435634	11450968	polycystic liver disease 1	Definitive	PRKCSH
+chr19	12646511	12666742	alpha-mannosidosis	Definitive	MAN2B1
+chr19	12891128	12899999	glutaryl-CoA dehydrogenase deficiency	Definitive	GCDH
+chr19	12995474	13098796	Malan overgrowth syndrome	Definitive	NFIX
+chr19	12995474	13098796	Marshall-Smith syndrome	Definitive	NFIX
+chr19	13906200	13930879	complex neurodevelopmental disorder	Definitive	CC2D1A
+chr19	14529559	14565980	intellectual disability	Limited	TECR
+chr19	15159037	15200995	pulmonary arterial hypertension	Disputed	NOTCH3
+chr19	15235518	15332539	syndromic intellectual disability	Definitive	BRD4
+chr19	16067537	16103002	TPM4-related platelet disorder	Moderate	TPM4
+chr19	16324825	16328685	pulmonary arterial hypertension	Limited	KLF2
+chr19	16479060	16496167	hypertrophic cardiomyopathy	Disputed	CALR3
+chr19	16892950	17026810	anterior segment dysgenesis 8	Definitive	CPAMD8
+chr19	17334981	17342731	Leigh syndrome	Moderate	GTPBP3
+chr19	17747743	17788561	immunodeficiency 76	Definitive	FCHO1
+chr19	17824781	17847982	T-B+ severe combined immunodeficiency due to JAK3 deficiency	Definitive	JAK3
+chr19	18153162	18170532	overgrowth syndrome and/or cerebral malformations due to abnormalities in MTOR pathway genes	Definitive	PIK3R2
+chr19	18782772	18791305	multiple epiphyseal dysplasia	Definitive	COMP
+chr19	18782772	18791305	pseudoachondroplasia	Definitive	COMP
+chr19	19192257	19201866	MHC class II deficiency	Definitive	RFXANK
+chr19	19516224	19528198	Leigh syndrome	Moderate	NDUFA13
+chr19	32830510	32869767	cystinuria	Definitive	SLC7A9
+chr19	33299933	33302534	acute myeloid leukemia	Definitive	CEBPA
+chr19	35030469	35040449	Brugada syndrome 1	Disputed	SCN1B
+chr19	35030469	35040449	developmental and epileptic encephalopathy	Definitive	SCN1B
+chr19	35030469	35040449	generalized epilepsy with febrile seizures plus	Definitive	SCN1B
+chr19	35292160	35313807	complex hereditary spastic paraplegia	Definitive	MAG
+chr19	35648322	35658782	mitochondrial disease	Definitive	COX6B1
+chr19	35718002	35738878	complex neurodevelopmental disorder with motor features	Definitive	KMT2B
+chr19	35799987	35812845	hydroxyprolinemia	Limited	PRODH2
+chr19	35995187	35996312	Leigh syndrome	Limited	SDHAF1
+chr19	36003306	36008813	nonsyndromic genetic hearing loss	Moderate	SYNE4
+chr19	36054896	36105108	microcephaly 2, primary, autosomal recessive, with or without cortical malformations	Definitive	WDR62
+chr19	38433690	38587564	malignant hyperthermia, susceptibility to, 1	Definitive	RYR1
+chr19	38433690	38587564	RYR1-related myopathy	Definitive	RYR1
+chr19	38915265	38930763	mitochondrial disease	Moderate	SARS2
+chr19	39480837	39493779	3-methylglutaconic aciduria type 9	Definitive	TIMM50
+chr19	40393767	40414789	Charcot-Marie-Tooth disease type 4	Definitive	PRX
+chr19	40467000	40576464	neurodevelopmental disorder with hypotonia, neuropathy, and deafness	Definitive	SPTBN4
+chr19	41354416	41364149	ciliopathy	Moderate	B9D2
+chr19	41397817	41425002	maple syrup urine disease type 1A	Definitive	BCKDHA
+chr19	41860254	41872925	Diamond-Blackfan anemia	Definitive	RPS19
+chr19	41877278	41881372	agammaglobulinemia 3, autosomal recessive	Definitive	CD79A
+chr19	41883183	41930141	immunodeficiency 62	Limited	ARHGEF1
+chr19	41966581	41994230	ATP1A3-associated neurological disorder	Definitive	ATP1A3
+chr19	42247568	42255128	craniosynostosis 4	Definitive	ERF
+chr19	42325634	42378765	MEGF8-related Carpenter syndrome	Moderate	MEGF8
+chr19	43506718	43527201	Leigh syndrome	Definitive	ETHE1
+chr19	44699150	44710718	nonsyndromic genetic hearing loss	Strong	CEACAM16
+chr19	45001463	45038192	immunodeficiency 53	Limited	RELB
+chr19	45178783	45181800	Hermansky-Pudlak syndrome 8	Moderate	BLOC1S3
+chr19	45349836	45370573	xeroderma pigmentosum group D	Definitive	ERCC2
+chr19	45764784	45769252	branchio-oto-renal syndrome	Disputed	SIX5
+chr19	46601073	46610782	catecholaminergic polymorphic ventricular tachycardia	Moderate	CALM3
+chr19	46601073	46610782	long QT syndrome	Definitive	CALM3
+chr19	46746056	46758575	myopathy caused by variation in FKRP	Definitive	FKRP
+chr19	48296461	48321971	primary ciliary dyskinesia 20	Definitive	ODAD1
+chr19	48393667	48444931	complex neurodevelopmental disorder	Definitive	GRIN2D
+chr19	48795063	48811029	hypervalinemia and hyperleucine-isoleucinemia	Definitive	BCAT2
+chr19	49061127	49065035	glaucoma 1, open angle, O	Disputed	NTF4
+chr19	49157791	49211836	Brugada syndrome	Disputed	TRPM4
+chr19	49635291	49640143	Noonan syndrome	Limited	RRAS
+chr19	49690847	49713731	hereditary spastic paraplegia	Limited	CPT1C
+chr19	49818288	49840384	Charcot-Marie-Tooth disease type 2B2	Disputed	MED25
+chr19	49861203	49867576	microcephaly, seizures, and developmental delay	Definitive	PNKP
+chr19	49906824	49929504	Leigh syndrome	Disputed	NUP62
+chr19	50203621	50310540	nonsyndromic genetic hearing loss	Moderate	MYH14
+chr19	50384322	50418018	non-severe combined immunodeficiency due to polymerase delta deficiency	Limited	POLD1
+chr19	50384322	50418018	POLD1-related polyposis and colorectal cancer syndrome	Definitive	POLD1
+chr19	50819145	50823787	pulmonary arterial hypertension	Limited	KLK1
+chr19	51345168	51366388	multiple acyl-CoA dehydrogenase deficiency	Definitive	ETFB
+chr19	52190051	52229518	complex neurodevelopmental disorder	Definitive	PPP2R1A
+chr19	54115753	54131713	PRPF31-related retinopathy	Definitive	PRPF31
+chr19	54137761	54155681	complex neurodevelopmental disorder	Definitive	CNOT3
+chr19	55013704	55038264	platelet-type bleeding disorder 11	Definitive	GP6
+chr19	55132697	55149206	nemaline myopathy	Limited	TNNT1
+chr19	55132697	55149206	nemaline myopathy 5	Definitive	TNNT1
+chr19	55151766	55157732	arrhythmogenic right ventricular cardiomyopathy	No Known Disease Relationship	TNNI3
+chr19	55151766	55157732	dilated cardiomyopathy	Moderate	TNNI3
+chr19	55151766	55157732	hypertrophic cardiomyopathy	Definitive	TNNI3
+chr19	55158660	55166722	primary ciliary dyskinesia 2	Definitive	DNAAF3
+chr2	1631886	1744515	anterior segment dysgenesis 7	Definitive	PXDN
+chr2	1789112	2331275	syndromic intellectual disability	Definitive	MYT1L
+chr2	3531812	3558333	Leigh syndrome	Limited	RNASEH1
+chr2	9488485	9555830	congenital heart disease	Limited	ADAM17
+chr2	10043549	10054836	monogenic diabetes	Refuted	KLF11
+chr2	10056472	10080411	polycystic kidney disease	Moderate	CYS1
+chr2	11677543	11827409	myoglobinuria, acute recurrent, autosomal recessive	Definitive	LPIN1
+chr2	17753868	17788946	familial ovarian cancer	No Known Disease Relationship	GEN1
+chr2	17753868	17788946	hereditary breast carcinoma	Refuted	GEN1
+chr2	19910262	19990105	cranioectodermal dysplasia 2	Definitive	WDR35
+chr2	19910262	19990105	short-rib thoracic dysplasia 7 with or without polydactyly	Definitive	WDR35
+chr2	21001428	21044073	familial hypobetalipoproteinemia 1	Definitive	APOB
+chr2	21001428	21044073	hypercholesterolemia, autosomal dominant, type B	Definitive	APOB
+chr2	25227873	25342483	Heyn-Sproul-Jackson syndrome	Limited	DNMT3A
+chr2	25227873	25342483	Tatton-Brown-Rahman overgrowth syndrome	Definitive	DNMT3A
+chr2	25733752	25878487	syndromic intellectual disability	Definitive	ASXL2
+chr2	26190634	26244632	long chain 3-hydroxyacyl-CoA dehydrogenase deficiency	Definitive	HADHA
+chr2	26244938	26290465	mitochondrial trifunctional protein deficiency	Definitive	HADHB
+chr2	26457202	26558756	autosomal recessive nonsyndromic hearing loss 9	Definitive	OTOF
+chr2	26692721	26733420	pulmonary arterial hypertension	Definitive	KCNK3
+chr2	27309491	27323097	mitochondrial disease	Definitive	MPV17
+chr2	28751603	28802940	Noonan syndrome-like disorder with loose anagen hair	Definitive	PPP1CB
+chr2	29061694	29074523	PCARE-related retinopathy	Definitive	PCARE
+chr2	29192773	29921586	neuroblastoma, susceptibility to, 3	Definitive	ALK
+chr2	38666113	38734765	galactosemia 4	Strong	GALM
+chr2	38981548	39124868	cardiofaciocutaneous syndrome	Disputed	SOS1
+chr2	38981548	39124868	Costello syndrome	Disputed	SOS1
+chr2	38981548	39124868	Noonan syndrome	Definitive	SOS1
+chr2	42767088	42792583	vertebral, cardiac, renal, and limb defects syndrome 1	Definitive	HAAO
+chr2	43812471	43838839	sitosterolemia	Definitive	ABCG5
+chr2	43838970	43882988	sitosterolemia	Definitive	ABCG8
+chr2	43886223	43995989	Leigh syndrome	Definitive	LRPPRC
+chr2	44275479	44321494	cystinuria	Definitive	SLC3A1
+chr2	46901869	46941855	factor 5 and Factor VIII, combined deficiency of, 2	Definitive	MCFD2
+chr2	46915865	47076123	multiple intestinal atresia	Definitive	TTC7A
+chr2	47160083	47176936	catecholaminergic polymorphic ventricular tachycardia	Moderate	CALM2
+chr2	47160083	47176936	long QT syndrome	Definitive	CALM2
+chr2	47369310	47387020	hereditary breast carcinoma	Refuted	EPCAM
+chr2	47369310	47387020	Lynch syndrome	Definitive	EPCAM
+chr2	47403155	47709830	hereditary breast carcinoma	Refuted	MSH2
+chr2	47403155	47709830	Lynch syndrome	Definitive	MSH2
+chr2	47403155	47709830	mismatch repair cancer syndrome 1	Definitive	MSH2
+chr2	47783144	47810101	hereditary breast carcinoma	Disputed	MSH6
+chr2	47783144	47810101	Lynch syndrome	Definitive	MSH6
+chr2	47783144	47810101	mismatch repair cancer syndrome 1	Definitive	MSH6
+chr2	48440765	48515386	neurodevelopmental disorder with hypotonia, facial dysmorphism, and brain abnormalities	Strong	PPP1R21
+chr2	49918502	51032132	complex neurodevelopmental disorder	Definitive	NRXN1
+chr2	55634060	55693844	Leigh syndrome	Moderate	PNPT1
+chr2	55865966	55923782	Doyne honeycomb retinal dystrophy	Definitive	EFEMP1
+chr2	58159242	58241380	Fanconi anemia complementation group L	Definitive	FANCL
+chr2	60450519	60553654	Dias-Logan syndrome	Definitive	BCL11A
+chr2	60881573	60931612	immunodeficiency 92	Moderate	REL
+chr2	61017719	61051990	peroxisome biogenesis disorder	Definitive	PEX13
+chr2	64454161	64461381	amyotrophic lateral sclerosis	Limited	LGALSL
+chr2	64988478	65023865	spastic tetraplegia-thin corpus callosum-progressive postnatal microcephaly syndrome	Definitive	SLC1A4
+chr2	68860908	68871397	congenital heart disease	Limited	BMP10
+chr2	68860908	68871397	pulmonary arterial hypertension	Limited	BMP10
+chr2	70209443	70248793	amyotrophic lateral sclerosis 26 with or without frontotemporal dementia	Limited	TIA1
+chr2	70935899	70965431	renal tubular acidosis, distal, 2, with progressive sensorineural hearing loss	Definitive	ATP6V1B1
+chr2	71109686	71130229	methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency	Definitive	MCEE
+chr2	71453560	71686763	autosomal recessive limb-girdle muscular dystrophy	Definitive	DYSF
+chr2	72887407	72892158	dopa-responsive dystonia due to sepiapterin reductase deficiency	Definitive	SPR
+chr2	73385757	73609919	Alstrom syndrome	Definitive	ALMS1
+chr2	74361154	74391866	amyotrophic lateral sclerosis	Moderate	DCTN1
+chr2	74461056	74465382	MOGS-congenital disorder of glycosylation	Definitive	MOGS
+chr2	74529404	74533556	3-methylglutaconic aciduria type 8	Definitive	HTRA2
+chr2	84423527	84459280	Leigh syndrome	Moderate	SUCLG1
+chr2	85354768	85391748	nonsyndromic genetic hearing loss	Limited	ELMOD3
+chr2	85539167	85545281	familial thoracic aortic aneurysm and aortic dissection	Limited	MAT2A
+chr2	85544719	85561493	pulmonary arterial hypertension	Moderate	GGCX
+chr2	85544719	85561493	vitamin K-dependent clotting factors, combined deficiency of, type 1	Definitive	GGCX
+chr2	85837119	85888990	GM3 synthase deficiency	Definitive	ST3GAL5
+chr2	86106234	86142157	Leigh syndrome	Limited	PTCD3
+chr2	86784604	86808396	susceptibility to respiratory infections associated with CD8alpha chain mutation	Limited	CD8A
+chr2	96248513	96265997	hereditary pheochromocytoma-paraganglioma	Definitive	TMEM127
+chr2	96274337	96305546	SNRNP200-related dominant retinopathy	Definitive	SNRNP200
+chr2	96760901	96811874	Jalili syndrome	Definitive	CNNM4
+chr2	97713575	97739860	combined immunodeficiency due to ZAP70 deficiency	Definitive	ZAP70
+chr2	98346455	98398601	CNGA3-related retinopathy	Definitive	CNGA3
+chr2	99154966	99163137	Leigh syndrome	Moderate	LIPT1
+chr2	107986523	108013994	neuronopathy, distal hereditary motor, type 7A	Moderate	SLC5A7
+chr2	108719481	108785809	Leigh syndrome	Limited	RANBP2
+chr2	110123347	110205013	nephronophthisis 1	Definitive	NPHP1
+chr2	110637527	110678063	colorectal cancer	Limited	BUB1
+chr2	111898606	112029561	MERTK-related retinopathy	Definitive	MERTK
+chr2	119544448	119656661	primary ciliary dyskinesia	Moderate	CFAP221
+chr2	127048031	127107154	centronuclear myopathy	Definitive	BIN1
+chr2	127257289	127294144	xeroderma pigmentosum group B	Definitive	ERCC3
+chr2	127418426	127429242	hereditary thrombophilia due to congenital protein C deficiency	Definitive	PROC
+chr2	135052291	135170710	Warburg micro syndrome	Definitive	RAB3GAP1
+chr2	136114348	136118149	WHIM syndrome	Definitive	CXCR4
+chr2	142877663	143055833	vertebral, cardiac, renal, and limb defects syndrome 2	Definitive	KYNU
+chr2	144384080	144520119	Mowat-Wilson syndrome	Definitive	ZEB2
+chr2	147930395	148021551	Meier-Gorlin syndrome 2	Moderate	ORC4
+chr2	148021010	148516971	complex neurodevelopmental disorder	Definitive	MBD5
+chr2	148875226	149026759	complex cortical dysplasia with other brain malformations 2	Moderate	KIF5C
+chr2	149569636	149587775	inborn disorder of cobalamin metabolism and transport	Definitive	MMADHC
+chr2	151485338	151734476	nemaline myopathy 2	Definitive	NEB
+chr2	151832770	152099167	epilepsy	Refuted	CACNB4
+chr2	156324436	156332721	complex neurodevelopmental disorder	Definitive	NR4A2
+chr2	157736445	157876330	congenital heart disease	Limited	ACVR1
+chr2	159318978	159616601	complex neurodevelopmental disorder	Limited	BAZ2B
+chr2	161416296	161425870	complex neurodevelopmental disorder	Definitive	TBR1
+chr2	165087525	165204050	developmental and epileptic encephalopathy	Definitive	SCN3A
+chr2	165239413	165392304	complex neurodevelopmental disorder	Definitive	SCN2A
+chr2	165873361	165953776	nephronophthisis 12	Definitive	TTC21B
+chr2	165984640	166149161	developmental and epileptic encephalopathy	Strong	SCN1A
+chr2	165984640	166149161	Dravet syndrome	Definitive	SCN1A
+chr2	165984640	166149161	familial hemiplegic migraine	Moderate	SCN1A
+chr2	165984640	166149161	generalized epilepsy with febrile seizures plus	Definitive	SCN1A
+chr2	166195184	166375987	epilepsy	Refuted	SCN9A
+chr2	169509701	169526258	nemaline myopathy 9	Moderate	KLHL41
+chr2	170816886	170861151	obsolete early infantile epileptic encephalopathy	Definitive	GAD1
+chr2	171434225	171485052	Woodhouse-Sakati syndrome	Definitive	DCAF17
+chr2	173075845	173268015	myopathy, centronuclear, 6, with fiber-type disproportion	Moderate	MAP3K20
+chr2	173354871	173368997	immunodeficiency-centromeric instability-facial anomalies syndrome 3	Limited	CDCA7
+chr2	174559573	174682913	Wiskott-Aldrich syndrome 2	Definitive	WIPF1
+chr2	177392772	177543834	alkylglycerone-phosphate synthase deficiency	Definitive	AGPS
+chr2	178451377	178462102	nonsyndromic genetic hearing loss	Definitive	PJVK
+chr2	178525988	178807423	arrhythmogenic right ventricular cardiomyopathy	Limited	TTN
+chr2	178525988	178807423	dilated cardiomyopathy	Definitive	TTN
+chr2	178525988	178807423	hypertrophic cardiomyopathy	Limited	TTN
+chr2	178525988	178807423	myopathy, myofibrillar, 9, with early respiratory failure	Moderate	TTN
+chr2	178525988	178807423	tibial muscular dystrophy	Moderate	TTN
+chr2	178525988	178807423	TTN-related myopathy	Definitive	TTN
+chr2	181536671	181657105	CERKL-related retinopathy	Definitive	CERKL
+chr2	181668294	181680517	monogenic diabetes	Moderate	NEUROD1
+chr2	188974372	189012746	Ehlers-Danlos syndrome, vascular type	Definitive	COL3A1
+chr2	189031897	189179761	Ehlers-Danlos syndrome, classic type	Definitive	COL5A2
+chr2	189784449	189877629	Lynch syndrome	Refuted	PMS1
+chr2	190203919	190319826	3-hydroxyisobutyryl-CoA hydrolase deficiency	Definitive	HIBCH
+chr2	190203919	190319826	Leigh syndrome	Definitive	HIBCH
+chr2	190880820	190965552	glutaminase deficiency	Definitive	GLS
+chr2	190880820	190965552	infantile cataract, skin abnormalities, glutamate excess, and impaired intellectual development	Limited	GLS
+chr2	196194071	196593554	complex neurodevelopmental disorder	Definitive	HECW2
+chr2	197705368	197708395	mitochondrial disease	Definitive	MARS2
+chr2	199269504	199471266	SATB2 associated disorder	Definitive	SATB2
+chr2	201072000	201085750	mitochondrial disease	Definitive	NDUFB3
+chr2	201620185	201643503	Joubert syndrome 14	Definitive	TMEM237
+chr2	201700266	201780933	ALS2-related motor neuron disease	Definitive	ALS2
+chr2	202376326	202567749	congenital heart disease	Limited	BMPR2
+chr2	202376326	202567749	pulmonary arterial hypertension	Definitive	BMPR2
+chr2	203867770	203873965	autoimmune lymphoproliferative syndrome due to CTLA4 haploinsuffiency	Definitive	CTLA4
+chr2	203936762	203961577	common variable immunodeficiency	Definitive	ICOS
+chr2	206114816	206159444	Leigh syndrome	Definitive	NDUFS1
+chr2	206765605	206796189	mitochondrial disease	Definitive	FASTKD2
+chr2	209771831	209999296	hypotonia, infantile, with psychomotor retardation and characteristic facies 2	Definitive	UNC80
+chr2	210187922	210225447	long chain acyl-CoA dehydrogenase deficiency	Disputed	ACADL
+chr2	210290149	210315174	congenital myopathy	Limited	MYL1
+chr2	210477684	210679107	carbamoyl phosphate synthetase I deficiency disease	Definitive	CPS1
+chr2	211375716	212538802	amyotrophic lateral sclerosis type 19	Limited	ERBB4
+chr2	212999697	213152456	HELIOS deficiency	Moderate	IKZF2
+chr2	214725645	214809683	familial ovarian cancer	Limited	BARD1
+chr2	214725645	214809683	hereditary breast carcinoma	Definitive	BARD1
+chr2	214725645	214809683	hereditary nonpolyposis colon cancer	Limited	BARD1
+chr2	215360864	215436068	glomerulopathy with fibronectin deposits 2	Moderate	FN1
+chr2	216412483	216483053	Schimke immuno-osseous dysplasia	Definitive	SMARCAL1
+chr2	218659682	218663443	Bjornstad syndrome	Definitive	BCS1L
+chr2	218659682	218663443	Leigh syndrome	Limited	BCS1L
+chr2	218880851	218893928	ectodermal dysplasia WNT10A related	Definitive	WNT10A
+chr2	219069356	219160815	Cernunnos-XLF deficiency	Definitive	NHEJ1
+chr2	219249709	219254740	amyotrophic lateral sclerosis type 22	Moderate	TUBA4A
+chr2	219249709	219254740	autosomal dominant macrothrombocytopenia	Limited	TUBA4A
+chr2	219279365	219286895	Charcot-Marie-Tooth disease axonal type 2T	Definitive	DNAJB2
+chr2	219418376	219426734	arrhythmogenic right ventricular cardiomyopathy	Moderate	DES
+chr2	219418376	219426734	dilated cardiomyopathy	Definitive	DES
+chr2	219434842	219493629	myopathy, centronuclear, 5	Definitive	SPEG
+chr2	219498890	219506989	alacrima, achalasia, and intellectual disability syndrome	Definitive	GMPPA
+chr2	219627629	219641971	short QT syndrome	Moderate	SLC4A3
+chr2	222199886	222298998	Waardenburg syndrome	Definitive	PAX3
+chr2	223957462	223967714	mitochondrial disease	Definitive	MRPL44
+chr2	224470149	224585363	complex neurodevelopmental disorder	Definitive	CUL3
+chr2	224470149	224585363	pseudohypoaldosteronism type 2E	Definitive	CUL3
+chr2	227002713	227164205	Alport syndrome	Definitive	COL4A4
+chr2	227164623	227314792	Alport syndrome	Definitive	COL4A3
+chr2	227325250	227357833	encephalopathy due to mitochondrial and peroxisomal fission defect	Moderate	MFF
+chr2	227325250	227357833	Leigh syndrome	Moderate	MFF
+chr2	227683762	227718028	Leigh syndrome	Definitive	SLC19A3
+chr2	229763836	229922009	complex neurodevelopmental disorder	Definitive	TRIP12
+chr2	230165185	230225636	hepatic veno-occlusive disease-immunodeficiency syndrome	Definitive	SP110
+chr2	231198630	231376848	Joubert syndrome 30	Definitive	ARMC9
+chr2	231961712	232344350	Perlman syndrome	Definitive	DIS3L2
+chr2	232539691	232548115	CHRNG-associated hypo-akinesia disorder of prenatal onset	Definitive	CHRNG
+chr2	237324017	237414164	collagen 6-related myopathy	Definitive	COL6A3
+chr2	237324017	237414164	dystonia 27	Limited	COL6A3
+chr2	239892441	240025342	Leigh syndrome	Limited	NDUFA10
+chr2	240713766	240821403	syndromic intellectual disability	Definitive	KIF1A
+chr2	240868823	240880500	alanine glyoxylate aminotransferase deficiency	Definitive	AGXT
+chr20	472497	543790	syndromic intellectual disability	Definitive	CSNK2A1
+chr20	760079	775985	Brown-Vialetto-van Laere syndrome 1	Definitive	SLC52A3
+chr20	2658394	2664216	IDH3B-related retinopathy	Moderate	IDH3B
+chr20	5299217	5316954	hypogonadotropic hypogonadism 3 with or without anosmia	Definitive	PROKR2
+chr20	8132265	8884900	developmental and epileptic encephalopathy	Definitive	PLCB1
+chr20	9068677	9480808	auriculocondylar syndrome 2	Definitive	PLCB4
+chr20	10218829	10307418	developmental and epileptic encephalopathy	Definitive	SNAP25
+chr20	13785027	13821580	Leigh syndrome	Definitive	NDUFAF5
+chr20	18137862	18143169	Leigh syndrome	Limited	PET117
+chr20	19758257	20002456	RIN2 syndrome	Definitive	RIN2
+chr20	21125974	21246622	inherited retinal dystrophy	Definitive	KIZ
+chr20	22580997	22585490	combined pituitary hormone deficiencies, genetic form	Moderate	FOXA2
+chr20	23045632	23049672	thrombomodulin-related bleeding disorder	Moderate	THBD
+chr20	25294742	25390835	PHARC syndrome	Definitive	ABHD12
+chr20	31819355	31834684	hypertrophic cardiomyopathy	Disputed	MYLK2
+chr20	32358330	32439319	Bohring-Opitz syndrome	Definitive	ASXL1
+chr20	32762384	32809356	immunodeficiency-centromeric instability-facial anomalies syndrome 1	Strong	DNMT3B
+chr20	33407956	33443763	long QT syndrome	Disputed	SNTA1
+chr20	34280267	34311802	hypermethioninemia with deficiency of S-adenosylhomocysteine hydrolase	Moderate	AHCY
+chr20	34560541	34677092	glycosylphosphatidylinositol biosynthesis defect 21	Limited	PIGU
+chr20	34928432	34956027	inherited glutathione synthetase deficiency	Definitive	GSS
+chr20	36091413	36232799	complex neurodevelopmental disorder	Limited	EPB41L1
+chr20	37344698	37406050	thrombocytopenia 6	Moderate	SRC
+chr20	37694029	37872118	common variable immunodeficiency	Limited	CTNNBL1
+chr20	44106589	44187188	dilated cardiomyopathy	Moderate	JPH2
+chr20	44106589	44187188	hypertrophic cardiomyopathy	Moderate	JPH2
+chr20	44302839	44311202	Siddiqi syndrome	Definitive	FITM2
+chr20	44355698	44434596	monogenic diabetes	Definitive	HNF4A
+chr20	44619521	44651699	severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency	Definitive	ADA
+chr20	44966511	45080021	combined immunodeficiency due to STK4 deficiency	Definitive	STK4
+chr20	45823213	45827312	hypertrophic cardiomyopathy	No Known Disease Relationship	TNNC2
+chr20	45891334	45898820	galactosialidosis	Definitive	CTSA
+chr20	46021685	46060150	developmental and epileptic encephalopathy	Limited	SLC12A5
+chr20	46118313	46129858	hyper-IgM syndrome type 3	Definitive	CD40
+chr20	46709648	46736347	familial thoracic aortic aneurysm and aortic dissection	Limited	SLC2A10
+chr20	49363876	49482668	complex neurodevelopmental disorder	Definitive	KCNB1
+chr20	50888917	50931437	ADNP-related multiple congenital anomalies - intellectual disability - autism spectrum disorder	Definitive	ADNP
+chr20	50934854	50958564	congenital disorder of glycosylation type 1E	Definitive	DPM1
+chr20	58389228	58451101	amyotrophic lateral sclerosis type 8	Definitive	VAPB
+chr20	59019428	59026654	macrothrombocytopenia, isolated, 1, autosomal dominant	Definitive	TUBB1
+chr20	59300610	59325992	Waardenburg syndrome type 4B	Moderate	EDN3
+chr20	62143768	62182514	amyotrophic lateral sclerosis	Limited	SS18L1
+chr20	62238520	62296183	nonsyndromic genetic hearing loss	Moderate	OSBPL2
+chr20	62817049	62841159	Stickler syndrome	Moderate	COL9A3
+chr20	63343222	63361349	sleep-related hypermotor epilepsy	Definitive	CHRNA4
+chr20	63400207	63472655	complex neurodevelopmental disorder	Definitive	KCNQ2
+chr20	63400207	63472655	neonatal encephalopathy with non-epileptic myoclonus	Definitive	KCNQ2
+chr20	63400207	63472655	neonatal-onset developmental and epileptic encephalopathy	Definitive	KCNQ2
+chr20	63488013	63499083	complex neurodevelopmental disorder	Definitive	EEF1A2
+chr20	63895125	63936011	adult neuronal ceroid lipofuscinosis	Moderate	DNAJC5
+chr21	31659692	31668931	amyotrophic lateral sclerosis type 1	Definitive	SOD1
+chr21	32599353	32612377	primary ciliary dyskinesia 26	Moderate	CFAP298
+chr21	32628762	32728394	developmental and epileptic encephalopathy	Definitive	SYNJ1
+chr21	33543037	33577481	ZTTK syndrome	Definitive	SON
+chr21	34364005	34371381	long QT syndrome	Disputed	KCNE2
+chr21	34446689	34512210	long QT syndrome 5	Limited	KCNE1
+chr21	34787800	35049302	hereditary thrombocytopenia and hematologic cancer predisposition syndrome	Definitive	RUNX1
+chr21	36460620	36576569	nonsyndromic genetic hearing loss	Definitive	CLDN14
+chr21	36748625	36990211	holocarboxylase synthetase deficiency	Definitive	HLCS
+chr21	37365572	37526358	complex neurodevelopmental disorder	Definitive	DYRK1A
+chr21	39184175	39313632	agammaglobulinemia	Limited	BRWD1
+chr21	39184175	39313632	primary ciliary dyskinesia	Disputed	BRWD1
+chr21	42371889	42396052	nonsyndromic genetic hearing loss	Definitive	TMPRSS3
+chr21	42472485	42496224	primary ciliary dyskinesia 24	Definitive	RSPH1
+chr21	43053190	43076873	classic homocystinuria	Definitive	CBS
+chr21	43773949	43776308	developmental and epileptic encephalopathy	Moderate	CSTB
+chr21	43773949	43776308	Unverricht-Lundborg syndrome	Definitive	CSTB
+chr21	44222990	44240943	combined immunodeficiency	Moderate	ICOSLG
+chr21	44497892	44711572	nonsyndromic genetic hearing loss	Disputed	TSPEAR
+chr21	45405164	45513720	Knobloch syndrome 1	Definitive	COL18A1
+chr21	45981769	46005048	collagen 6-related myopathy	Definitive	COL6A1
+chr21	46098111	46132848	collagen 6-related myopathy	Definitive	COL6A2
+chr21	46235132	46285611	peripheral neuropathy, autosomal recessive, with or without impaired intellectual development	Definitive	MCM3AP
+chr22	17178789	17221848	deficiency of adenosine deaminase 2	Definitive	ADA2
+chr22	18077989	18105396	peroxisome biogenesis disorder	Definitive	PEX26
+chr22	18912780	18936553	hyperprolinemia type 1	Definitive	PRODH
+chr22	19479465	19520608	Meier-Gorlin syndrome 7	Definitive	CDC45
+chr22	19723538	19724771	Bernard-Soulier syndrome	Definitive	GP1BB
+chr22	20774112	20787720	heparin cofactor 2 deficiency	Definitive	SERPIND1
+chr22	20982296	20999032	Noonan syndrome	Definitive	LZTR1
+chr22	23573124	23580290	agammaglobulinemia 2, autosomal recessive	Moderate	IGLL1
+chr22	23765833	23767972	frontotemporal dementia and/or amyotrophic lateral sclerosis 2	Moderate	CHCHD10
+chr22	23786965	23838009	rhabdoid tumor predisposition syndrome 1	Definitive	SMARCB1
+chr22	25742187	26031045	Klippel-Feil anomaly-myopathy-facial dysmorphism syndrome	Moderate	MYO18B
+chr22	26443108	26483863	Hermansky-Pudlak syndrome 4	Definitive	HPS4
+chr22	28687742	28741834	familial ovarian cancer	Disputed	CHEK2
+chr22	28687742	28741834	hereditary breast carcinoma	Definitive	CHEK2
+chr22	28687742	28741834	hereditary nonpolyposis colon cancer	Limited	CHEK2
+chr22	29268267	29300521	amyotrophic lateral sclerosis	Disputed	EWSR1
+chr22	29480217	29491390	amyotrophic lateral sclerosis	Limited	NEFH
+chr22	29480217	29491390	Charcot-Marie-Tooth disease axonal type 2CC	Definitive	NEFH
+chr22	29603555	29698600	neurofibromatosis type 2	Definitive	NF2
+chr22	30925129	30968774	Charcot-Marie-Tooth disease axonal type 2Z	Definitive	MORC2
+chr22	30925129	30968774	Leigh syndrome	Limited	MORC2
+chr22	31753967	31908033	focal epilepsy	Definitive	DEPDC5
+chr22	32801704	32863041	Sorsby fundus dystrophy	Definitive	TIMP3
+chr22	35381095	35394207	heme oxygenase 1 deficiency	Strong	HMOX1
+chr22	36253132	36267525	focal segmental glomerulosclerosis 4, susceptibility to	Definitive	APOL1
+chr22	36281279	36387967	macrothrombocytopenia and granulocyte inclusions with or without nephritis or sensorineural hearing loss	Definitive	MYH9
+chr22	36560856	36703752	complex neurodevelopmental disorder	Limited	CACNG2
+chr22	37019741	37029815	encephalopathy due to beta-mercaptolactate-cysteine disulfiduria	No Known Disease Relationship	MPST
+chr22	37225269	37244269	immunodeficiency 73b with defective neutrophil chemotaxis and lymphopenia	Strong	RAC2
+chr22	37225269	37244269	immunodeficiency 73c with defective neutrophil chemotaxis and hypogammaglobulinemia	Moderate	RAC2
+chr22	37225269	37244269	neutrophil immunodeficiency syndrome	Moderate	RAC2
+chr22	37697047	37776556	hearing loss, autosomal recessive	Definitive	TRIOBP
+chr22	37972311	37984555	Waardenburg syndrome type 4C	Definitive	SOX10
+chr22	40044833	40335808	complex neurodevelopmental disorder	Definitive	TNRC6B
+chr22	40346499	40387527	adenylosuccinate lyase deficiency	Definitive	ADSL
+chr22	40857147	40932815	nephronophthisis-like nephropathy 1	Moderate	XPNPEP3
+chr22	41092591	41180077	Rubinstein-Taybi syndrome due to EP300 haploinsufficiency	Definitive	EP300
+chr22	41922031	41926806	immunodeficiency, common variable, 4	Limited	TNFRSF13C
+chr22	42058333	42070842	alpha-N-acetylgalactosaminidase deficiency	Definitive	NAGA
+chr22	42160012	42283927	developmental delay with variable intellectual impairment and behavioral abnormalities	Definitive	TCF20
+chr22	45284948	45295874	congenital anomaly of kidney and urinary tract	Disputed	UPK3A
+chr22	46335713	46357340	Leigh syndrome	Moderate	TRMU
+chr22	49900228	49918438	ALG12-congenital disorder of glycosylation	Definitive	ALG12
+chr22	50217693	50245023	microcephaly and chorioretinopathy 1	Definitive	TUBGCP6
+chr22	50444999	50475035	Charcot-Marie-Tooth disease type 4B3	Moderate	SBF1
+chr22	50523567	50526442	Leigh syndrome	Definitive	SCO2
+chr22	50568860	50578612	inherited fatty acid metabolism disorder	No Known Disease Relationship	CPT1B
+chr22	50622753	50628152	metachromatic leukodystrophy	Definitive	ARSA
+chr22	50672822	50733212	Phelan-McDermid syndrome	Definitive	SHANK3
+chr3	1093023	1404217	complex neurodevelopmental disorder	Disputed	CNTN6
+chr3	2098865	3057959	complex neurodevelopmental disorder	Limited	CNTN4
+chr3	3126939	3153435	congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome	Definitive	TRNT1
+chr3	3149632	3179717	intellectual disability	Moderate	CRBN
+chr3	4361145	4467269	mucosulfatidosis	Definitive	SUMF1
+chr3	4493347	4847506	aniridia-cerebellar ataxia-intellectual disability syndrome	Definitive	ITPR1
+chr3	4493347	4847506	spinocerebellar ataxia type 29	Definitive	ITPR1
+chr3	8733801	8746758	caveolinopathy	Definitive	CAV3
+chr3	8733801	8746758	long QT syndrome	Limited	CAV3
+chr3	9397614	9478154	syndromic complex neurodevelopmental disorder	Definitive	SETD5
+chr3	9933833	9945406	congenital heart disease	Limited	CRELD1
+chr3	10026436	10101932	Fanconi anemia complementation group D2	Definitive	FANCD2
+chr3	10141777	10153667	von Hippel-Lindau disease	Definitive	VHL
+chr3	11272396	11564652	spinocerebellar ataxia, autosomal recessive 31	Strong	ATG7
+chr3	12583600	12664117	cardiofaciocutaneous syndrome	Disputed	RAF1
+chr3	12583600	12664117	Costello syndrome	Disputed	RAF1
+chr3	12583600	12664117	Noonan syndrome	Definitive	RAF1
+chr3	12583600	12664117	Noonan syndrome with multiple lentigines	Limited	RAF1
+chr3	13549124	13638404	pulmonary arterial hypertension	Limited	FBLN2
+chr3	14125051	14143680	arrhythmogenic right ventricular dysplasia 5	Definitive	TMEM43
+chr3	14145146	14178601	xeroderma pigmentosum group C	Definitive	XPC
+chr3	14402575	14489349	hypotaurinemic retinal degeneration and cardiomyopathy	Limited	SLC6A6
+chr3	15601744	15722516	biotinidase deficiency	Definitive	BTD
+chr3	15601744	15722516	Leigh syndrome	Moderate	BTD
+chr3	24829320	25597932	microphthalmia, syndromic 12	Definitive	RARB
+chr3	25597983	25664907	B-cell immunodeficiency, distal limb anomalies, and urogenital malformations	Moderate	TOP2B
+chr3	25718943	25790039	congenital disorder of deglycosylation 1	Definitive	NGLY1
+chr3	27106483	27369383	primary ciliary dyskinesia	Strong	NEK10
+chr3	30606355	30694142	familial thoracic aortic aneurysm and aortic dissection	Definitive	TGFBR2
+chr3	30606355	30694142	Loeys-Dietz syndrome 2	Definitive	TGFBR2
+chr3	32106619	32168709	Brugada syndrome 1	Disputed	GPD1L
+chr3	35638852	35794486	amyotrophic lateral sclerosis	Limited	ARPP21
+chr3	36993517	37050846	hereditary breast carcinoma	Refuted	MLH1
+chr3	36993517	37050846	Lynch syndrome	Definitive	MLH1
+chr3	36993517	37050846	mismatch repair cancer syndrome 1	Definitive	MLH1
+chr3	38548061	38649687	arrhythmogenic right ventricular cardiomyopathy	Limited	SCN5A
+chr3	38548061	38649687	Brugada syndrome	Definitive	SCN5A
+chr3	38548061	38649687	catecholaminergic polymorphic ventricular tachycardia	Disputed	SCN5A
+chr3	38548061	38649687	dilated cardiomyopathy	Definitive	SCN5A
+chr3	38548061	38649687	familial long QT syndrome	Definitive	SCN5A
+chr3	38548061	38649687	short QT syndrome	Disputed	SCN5A
+chr3	38696806	38816217	Brugada syndrome 1	Disputed	SCN10A
+chr3	38845763	39051944	autosomal dominant hereditary sensory and autonomic neuropathy	Definitive	SCN11A
+chr3	41199504	41240443	severe intellectual disability-progressive spastic diplegia syndrome	Definitive	CTNNB1
+chr3	42685536	42692544	nemaline myopathy 8	Definitive	KLHL40
+chr3	43079233	43106079	myopathy caused by variation in POMGNT2	Definitive	POMGNT2
+chr3	43690937	43734371	Dorfman-Chanarin disease	Definitive	ABHD5
+chr3	45388575	45549407	Perrault syndrome	Strong	LARS2
+chr3	46693777	46710886	nonsyndromic genetic hearing loss	Definitive	TMIE
+chr3	46857871	46882182	arrhythmogenic right ventricular cardiomyopathy	Limited	MYL3
+chr3	46857871	46882182	dilated cardiomyopathy	Disputed	MYL3
+chr3	46857871	46882182	hypertrophic cardiomyopathy	Definitive	MYL3
+chr3	46979665	47009701	gray platelet syndrome	Definitive	NBEAL2
+chr3	47585268	47781893	SMARCC1-associated developmental dysgenesis syndrome	Definitive	SMARCC1
+chr3	48564072	48595329	recessive dystrophic epidermolysis bullosa	Definitive	COL7A1
+chr3	48856925	48898882	carnitine-acylcarnitine translocase deficiency	Definitive	SLC25A20
+chr3	49029706	49094373	syndromic intellectual disability	Definitive	QRICH1
+chr3	49095931	49104757	diffuse cerebral and cerebellar atrophy - intractable seizures - progressive microcephaly syndrome	Definitive	QARS1
+chr3	49416777	49422473	glycine encephalopathy	Definitive	AMT
+chr3	49719915	49723951	myopathy caused by variation in GMPPB	Definitive	GMPPB
+chr3	50299892	50312381	mucopolysaccharidosis type 9	Moderate	HYAL1
+chr3	50341111	50345732	primary ciliary dyskinesia 22	Definitive	ZMYND10
+chr3	50347329	50350775	focal epilepsy	Definitive	NPRL2
+chr3	50362612	50504244	complex neurodevelopmental disorder	Moderate	CACNA2D2
+chr3	51983534	51989197	aminoacylase 1 deficiency	Definitive	ACY1
+chr3	52316318	52400492	ciliary dyskinesia, primary, 37	Limited	DNAH1
+chr3	52316318	52400492	spermatogenic failure 18	Definitive	DNAH1
+chr3	52401007	52410008	BAP1-related tumor predisposition syndrome	Definitive	BAP1
+chr3	52451099	52454041	arrhythmogenic right ventricular cardiomyopathy	No Known Disease Relationship	TNNC1
+chr3	52451099	52454041	dilated cardiomyopathy	Definitive	TNNC1
+chr3	52451099	52454041	hypertrophic cardiomyopathy	Definitive	TNNC1
+chr3	52694485	52705791	familial amyotrophic lateral sclerosis	Limited	GLT8D1
+chr3	53088482	53130435	RFT1-congenital disorder of glycosylation	Moderate	RFT1
+chr3	53494610	53813733	sinoatrial node dysfunction and deafness	Moderate	CACNA1D
+chr3	55465714	55487306	autosomal dominant Robinow syndrome	Moderate	WNT5A
+chr3	57227728	57273471	monogenic diabetes	Limited	APPL1
+chr3	57756308	57930003	Brugada syndrome	Disputed	SLMAP
+chr3	58427629	58433832	Leigh syndrome	Moderate	PDHB
+chr3	58505135	58537190	congenital bile acid synthesis defect 6	Moderate	ACOX2
+chr3	64092235	64268173	complex neurodevelopmental disorder	Limited	PRICKLE2
+chr3	64515653	64688000	ciliopathy	Limited	ADAMTS9
+chr3	69106064	69122595	nemaline myopathy 10	Definitive	LMOD3
+chr3	69739463	69968332	Waardenburg syndrome type 2	Definitive	MITF
+chr3	70954707	71583978	intellectual disability-severe speech delay-mild dysmorphism syndrome	Definitive	FOXP1
+chr3	71771654	71785148	hypogonadotropic hypogonadism 4 with or without anosmia	Definitive	PROK2
+chr3	81489702	81761645	glycogen storage disease due to glycogen branching enzyme deficiency	Definitive	GBE1
+chr3	87227308	87255556	frontotemporal dementia and/or amyotrophic lateral sclerosis 7	Definitive	CHMP2B
+chr3	93873050	93973896	hereditary thrombophilia due to congenital protein S deficiency	Definitive	PROS1
+chr3	93980154	94055678	Joubert syndrome	Definitive	ARL13B
+chr3	98579445	98593611	CPOX-related hereditary coproporphyria	Definitive	CPOX
+chr3	101222545	101320575	inherited retinal dystrophy	Definitive	IMPG2
+chr3	101561867	101566446	mitochondrial disease	Moderate	TRMT10C
+chr3	101827989	101861022	hereditary nonpolyposis colon cancer	Limited	NFKBIZ
+chr3	119468962	119494708	autosomal recessive limb-girdle muscular dystrophy	Definitive	POGLUT1
+chr3	119498546	119525090	Leigh syndrome	Limited	TIMMDC1
+chr3	120628171	120682239	alkaptonuria	Definitive	HGD
+chr3	121987322	122022247	nonsyndromic genetic hearing loss	Definitive	ILDR1
+chr3	122183667	122291629	autosomal dominant hypocalcemia 1	Definitive	CASR
+chr3	122183667	122291629	epilepsy	Disputed	CASR
+chr3	122183667	122291629	familial hypocalciuric hypercalcemia 1	Definitive	CASR
+chr3	122183667	122291629	neonatal severe primary hyperparathyroidism	Definitive	CASR
+chr3	123610048	123884332	familial thoracic aortic aneurysm and aortic dissection	Strong	MYLK
+chr3	126481165	126517773	urocanic aciduria	Limited	UROC1
+chr3	127598410	127622436	nonsyndromic genetic hearing loss	Limited	MCM2
+chr3	128051640	128071683	SEC61A1 deficiency	Moderate	SEC61A1
+chr3	128479426	128493201	GATA2 deficiency with susceptibility to MDS/AML	Definitive	GATA2
+chr3	128726182	128814798	Charcot-Marie-Tooth disease type 2	Definitive	RAB7A
+chr3	128879619	128913114	acyl-CoA dehydrogenase 9 deficiency	Definitive	ACAD9
+chr3	129060778	129062406	Bernard-Soulier syndrome	Definitive	GP9
+chr3	129440223	129520507	cranioectodermal dysplasia 1	Definitive	IFT122
+chr3	131462211	131502971	mitochondrial disease	Moderate	MRPL3
+chr3	132680608	132722409	nephronophthisis	Definitive	NPHP3
+chr3	133600237	133661941	pulmonary arterial hypertension	No Known Disease Relationship	TOPBP1
+chr3	136250339	136330169	propionic acidemia	Definitive	PCCB
+chr3	136336235	136752378	complex neurodevelopmental disorder	Definitive	STAG1
+chr3	138061989	138115608	autosomal recessive polycystic kidney disease	Strong	DZIP1L
+chr3	138347647	138405535	Noonan syndrome	Moderate	MRAS
+chr3	139343993	139357140	mitochondrial disease	Definitive	MRPS22
+chr3	141487026	141615344	Noonan syndrome	Limited	RASA2
+chr3	143265221	143848468	autism spectrum disorder	Disputed	SLC9A9
+chr3	148991539	149031775	polyglucosan body myopathy type 2	Definitive	GYG1
+chr3	149129637	149173732	Hermansky-Pudlak syndrome 3	Definitive	HPS3
+chr3	150926566	150972999	Usher syndrome type 3	Definitive	CLRN1
+chr3	151336842	151384753	platelet-type bleeding disorder 8	Moderate	P2RY12
+chr3	155024201	155183704	Charcot-Marie-Tooth disease axonal type 2T	Definitive	MME
+chr3	158644526	158695581	Leigh syndrome	Moderate	GFM1
+chr3	167735720	167825569	progressive myoclonus epilepsy	Definitive	SERPINI1
+chr3	169083506	169663712	MECOM-associated syndrome	Definitive	MECOM
+chr3	177019343	177197482	complex neurodevelopmental disorder	Definitive	TBL1XR1
+chr3	179148356	179240093	familial ovarian cancer	No Known Disease Relationship	PIK3CA
+chr3	179148356	179240093	hereditary breast carcinoma	Refuted	PIK3CA
+chr3	179148356	179240093	overgrowth syndrome and/or cerebral malformations due to abnormalities in MTOR pathway genes	Definitive	PIK3CA
+chr3	179396087	179451470	Charcot-Marie-Tooth disease	Moderate	GNB4
+chr3	179562925	179588407	ACTL6A-related BAFopathy	Moderate	ACTL6A
+chr3	180614007	180679489	primary ciliary dyskinesia 14	Definitive	CCDC39
+chr3	180983708	180989838	3-methylglutaconic aciduria type 5	Definitive	DNAJC19
+chr3	183015217	183099587	3-methylcrotonyl-CoA carboxylase deficiency	Definitive	MCCC1
+chr3	183635622	183684519	hypertrophic cardiomyopathy	Moderate	KLHL24
+chr3	184242328	184249525	ALG3-congenital disorder of glycosylation	Definitive	ALG3
+chr3	184346184	184361605	epilepsy	Refuted	CLCN2
+chr3	184371934	184379688	congenital amegakaryocytic thrombocytopenia	Moderate	THPO
+chr3	184371934	184379688	thrombocythemia 1	Moderate	THPO
+chr3	184812165	185052604	arthrogryposis multiplex congenita	Limited	VPS8
+chr3	185190623	185254049	Fanconi renotubular syndrome 3	Limited	EHHADH
+chr3	186570719	186585793	ciliopathy	Limited	DNAJB11
+chr3	186570719	186585793	polycystic kidney disease 6 with or without polycystic liver disease	Strong	DNAJB11
+chr3	186666013	186678234	hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency	Moderate	HRG
+chr3	186717358	186744410	congenital high-molecular-weight kininogen deficiency	Definitive	KNG1
+chr3	191329393	191398659	nonsyndromic genetic hearing loss	Limited	CCDC50
+chr3	192139389	192727541	developmental and epileptic encephalopathy	Definitive	FGF12
+chr3	193593207	193697811	Leigh syndrome	Moderate	OPA1
+chr3	193593207	193697811	OPA1-related optic atrophy with or without extraocular features	Definitive	OPA1
+chr3	194402676	194487002	pulmonary arterial hypertension	Definitive	ATP13A3
+chr3	196049283	196082090	TFRC-related combined immunodeficiency	Moderate	TFRC
+chr3	196234367	196287726	spondylometaphyseal dysplasia-cone-rod dystrophy syndrome	Definitive	PCYT1A
+chr3	196468782	196503768	RIDDLE syndrome	Definitive	RNF168
+chr3	196639693	196662004	seizures, early-onset, with neurodegeneration and brain calcifications	Definitive	NRROS
+chr4	986996	1004557	mucopolysaccharidosis type 1	Definitive	IDUA
+chr4	1793292	1808867	Achondroplasia	Definitive	FGFR3
+chr4	1793292	1808867	camptodactyly-tall stature-scoliosis-hearing loss syndrome	Moderate	FGFR3
+chr4	1793292	1808867	Crouzon syndrome-acanthosis nigricans syndrome	Definitive	FGFR3
+chr4	1793292	1808867	hypochondroplasia	Definitive	FGFR3
+chr4	1793292	1808867	Muenke syndrome	Definitive	FGFR3
+chr4	1793292	1808867	severe achondroplasia-developmental delay-acanthosis nigricans syndrome	Moderate	FGFR3
+chr4	1793292	1808867	thanatophoric dysplasia type 1	Definitive	FGFR3
+chr4	1793292	1808867	thanatophoric dysplasia type 2	Definitive	FGFR3
+chr4	1871392	1982192	syndromic intellectual disability	Definitive	NSD2
+chr4	2059326	2069089	N-acetylaspartate deficiency	Limited	NAT8L
+chr4	3074680	3243960	Huntington disease	Definitive	HTT
+chr4	6269849	6303265	Wolfram syndrome	Definitive	WFS1
+chr4	6269849	6303265	Wolfram-like syndrome	Definitive	WFS1
+chr4	8846075	8871839	oculoauricular syndrome	Definitive	HMX1
+chr4	13367723	13484340	RAB28-related retinopathy	Definitive	RAB28
+chr4	15469864	15601557	ciliopathy	Definitive	CC2D2A
+chr4	17486394	17512090	dihydropteridine reductase deficiency	Definitive	QDPR
+chr4	39182528	39285810	ciliopathy	Definitive	WDR19
+chr4	39459055	39479506	Leigh syndrome	Limited	LIAS
+chr4	40191079	40246967	epidermodysplasia verruciformis, susceptibility to, 4	Limited	RHOH
+chr4	41744081	41748725	central hypoventilation syndrome, congenital, 1, with or without Hirschsprung disease	Definitive	PHOX2B
+chr4	41744081	41748725	Haddad syndrome	Definitive	PHOX2B
+chr4	42892712	43030658	nonsyndromic genetic hearing loss	Definitive	GRXCR1
+chr4	47935976	48016681	CNGA1-related retinopathy	Definitive	CNGA1
+chr4	52020705	52038299	autosomal recessive limb-girdle muscular dystrophy	Definitive	SGCB
+chr4	54100162	54102498	diencephalic-mesencephalic junction dysplasia syndrome 2	Limited	GSX2
+chr4	54229292	54298245	gastrointestinal stromal tumor	Definitive	PDGFRA
+chr4	54657956	54740715	gastrointestinal stromal tumor	Definitive	KIT
+chr4	55078480	55125595	pulmonary arterial hypertension	Definitive	KDR
+chr4	64276297	64409460	catecholaminergic polymorphic ventricular tachycardia	Definitive	TECRL
+chr4	73073375	73258798	syndromic intellectual disability	Strong	ANKRD17
+chr4	76158736	76213824	progressive myoclonus epilepsy	Definitive	SCARB2
+chr4	78057322	78544269	Fraser syndrome	Definitive	FRAS1
+chr4	79901145	80073472	hyaline fibromatosis syndrome	Definitive	ANTXR2
+chr4	82422568	82430462	muscular dystrophy, limb-girdle, autosomal dominant	Moderate	HNRNPDL
+chr4	83263823	83285134	mitochondrial disease	Definitive	COQ2
+chr4	84669596	84966690	syndromic intellectual disability	Definitive	WDFY3
+chr4	87608528	87616873	dentinogenesis imperfecta	Definitive	DSPP
+chr4	88007634	88077777	autosomal dominant polycystic kidney disease	Definitive	PKD2
+chr4	88257619	88284561	maple syrup urine disease, mild variant	Moderate	PPM1K
+chr4	89724098	89838304	Parkinson disease	Definitive	SNCA
+chr4	94757954	95158448	pulmonary arterial hypertension	Disputed	BMPR1B
+chr4	102251040	102345253	Leigh syndrome	Limited	SLC39A8
+chr4	102501358	102617302	immunodeficiency, common variable, 12	Definitive	NFKB1
+chr4	102630769	102760968	beta-mannosidosis	Definitive	MANBA
+chr4	102868991	102892807	Wolfram syndrome	Strong	CISD2
+chr4	105146875	105279803	pulmonary arterial hypertension	Moderate	TET2
+chr4	107931548	107953461	hereditary spastic paraplegia	Definitive	CYP2U1
+chr4	107989888	108035171	obsolete hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency	Definitive	HADH
+chr4	109730981	109801999	atypical hemolytic-uremic syndrome	Definitive	CFI
+chr4	112705621	113383736	Brugada syndrome	Disputed	ANK2
+chr4	112705621	113383736	catecholaminergic polymorphic ventricular tachycardia	Disputed	ANK2
+chr4	112705621	113383736	complex neurodevelopmental disorder	Definitive	ANK2
+chr4	112705621	113383736	long QT syndrome	Disputed	ANK2
+chr4	118280037	118353003	non-syndromic intellectual disability	Limited	PRSS12
+chr4	119135831	119187789	hypertrophic cardiomyopathy	Disputed	MYOZ2
+chr4	121824328	121870474	ciliopathy	Definitive	BBS7
+chr4	122610107	122621066	common variable immunodeficiency	Limited	IL21
+chr4	127917804	127965963	neuronal ceroid lipofuscinosis	Definitive	MFSD8
+chr4	139301504	139391384	syndromic intellectual disability	Definitive	NAA15
+chr4	145481305	145559176	pulmonary arterial hypertension	Disputed	SMAD1
+chr4	145619384	145660033	methylmalonic aciduria, cblA type	Definitive	MMAA
+chr4	148078763	148444698	autosomal dominant pseudohypoaldosteronism type 1	Definitive	NR3C2
+chr4	148078763	148444698	pseudohyperaldosteronism type 2	Limited	NR3C2
+chr4	150264434	151015727	combined immunodeficiency due to LRBA deficiency	Definitive	LRBA
+chr4	150582150	150584693	colobomatous microphthalmia-rhizomelic dysplasia syndrome	Definitive	MAB21L2
+chr4	154563010	154572807	congenital fibrinogen deficiency	Definitive	FGB
+chr4	154583125	154590742	congenital fibrinogen deficiency	Definitive	FGA
+chr4	154604135	154612656	congenital fibrinogen deficiency	Definitive	FGG
+chr4	155903695	155920406	familial hypertryptophanemia	Limited	TDO2
+chr4	157220119	157366075	neurodevelopmental disorder with language impairment and behavioral abnormalities	Definitive	GRIA2
+chr4	158672295	158709623	multiple acyl-CoA dehydrogenase deficiency	Definitive	ETFDH
+chr4	169392808	169612583	amyotrophic lateral sclerosis, susceptibility to, 24	Definitive	NEK1
+chr4	177430773	177442437	aspartylglucosaminuria	Definitive	AGA
+chr4	183659292	183713589	autosomal recessive limb-girdle muscular dystrophy	Definitive	TRAPPC11
+chr4	185143265	185150382	Leigh syndrome	Limited	SLC25A4
+chr4	185143265	185150382	mitochondrial DNA depletion syndrome 12B (cardiomyopathic type), autosomal recessive	Definitive	SLC25A4
+chr4	185500659	185535507	dilated cardiomyopathy	Disputed	PDLIM3
+chr4	185500659	185535507	hypertrophic cardiomyopathy	Limited	PDLIM3
+chr4	186191566	186213463	Bietti crystalline corneoretinal dystrophy	Definitive	CYP4V2
+chr4	186227506	186258471	inherited prekallikrein deficiency	Definitive	KLKB1
+chr4	186266188	186289681	congenital factor XI deficiency	Definitive	F11
+chr5	218319	257082	hereditary pheochromocytoma-paraganglioma	Definitive	SDHA
+chr5	218319	257082	Leigh syndrome	Moderate	SDHA
+chr5	1201594	1225111	Hartnup disease	Definitive	SLC6A19
+chr5	1253166	1295068	dyskeratosis congenita, autosomal dominant 2	Definitive	TERT
+chr5	1392793	1445440	SLC6A3-related dopamine transporter deficiency syndrome	Definitive	SLC6A3
+chr5	1801406	1816048	mitochondrial disease	Definitive	NDUFS6
+chr5	6599238	6633044	RASopathy	Disputed	NSUN2
+chr5	7869147	7901113	methylcobalamin deficiency type cblE	Definitive	MTRR
+chr5	13690327	13944688	primary ciliary dyskinesia 3	Definitive	DNAH5
+chr5	14143341	14510204	syndromic intellectual disability	Definitive	TRIO
+chr5	33986164	34008050	alpha-methylacyl-CoA racemase deficiency	Moderate	AMACR
+chr5	35856890	35879603	immunodeficiency 104	Definitive	IL7R
+chr5	36192588	36242279	progressive encephalopathy with leukodystrophy due to DECR deficiency	Moderate	NADK2
+chr5	36606605	36688334	episodic ataxia type 6	Definitive	SLC1A3
+chr5	37106234	37249376	Joubert syndrome 17	Definitive	CPLANE1
+chr5	38474667	38595405	obsolete Stüve-Wiedemann syndrome	Definitive	LIFR
+chr5	39105251	39270649	thrombocytopenia 3	Moderate	FYB1
+chr5	45254947	45696380	generalized epilepsy with febrile seizures plus	Definitive	HCN1
+chr5	53095678	53109757	sulfite oxidase deficiency due to molybdenum cofactor deficiency type B	Definitive	MOCS2
+chr5	53560638	53683338	Leigh syndrome	Definitive	NDUFS4
+chr5	55219563	55227315	ciliary dyskinesia, primary, 42	Definitive	MCIDAS
+chr5	55231151	55233608	primary ciliary dyskinesia 29	Definitive	CCNO
+chr5	55625844	55712335	lysosomal storage disease	No Known Disease Relationship	SLC38A9
+chr5	60866453	60945070	Cockayne syndrome type 1	Definitive	ERCC8
+chr5	60945204	61153026	Leigh syndrome	Definitive	NDUFAF2
+chr5	68215755	68301821	agammaglobulinemia 7, autosomal recessive	Limited	PIK3R1
+chr5	68215755	68301821	immunodeficiency 36	Definitive	PIK3R1
+chr5	68215755	68301821	SHORT syndrome	Definitive	PIK3R1
+chr5	69415115	69444330	nonsyndromic genetic hearing loss	Definitive	MARVELD2
+chr5	71455650	71567820	nonsyndromic genetic hearing loss	Limited	BDP1
+chr5	71587339	71658706	3-methylcrotonyl-CoA carboxylase deficiency	Definitive	MCCC2
+chr5	74640022	74721288	Sandhoff disease	Definitive	HEXB
+chr5	74721205	74767117	Leigh syndrome	Moderate	GFM2
+chr5	78000521	78294698	Hermansky-Pudlak syndrome 2	Definitive	AP3B1
+chr5	78777208	78985310	mucopolysaccharidosis type 6	Definitive	ARSB
+chr5	78997563	79069674	dimethylglycine dehydrogenase deficiency	Limited	DMGDH
+chr5	80654651	80876815	hereditary nonpolyposis colon cancer	Limited	MSH3
+chr5	80654651	80876815	MSH3-related attenuated familial adenomatous polyposis	Moderate	MSH3
+chr5	83077546	83353760	hereditary nonpolyposis colon cancer	Limited	XRCC4
+chr5	83471743	83582302	Wagner disease	Definitive	VCAN
+chr5	87267882	87391916	Noonan syndrome	Disputed	RASA1
+chr5	88718240	88904105	complex neurodevelopmental disorder	Definitive	MEF2C
+chr5	90558796	91164437	nonsyndromic genetic hearing loss	Disputed	ADGRV1
+chr5	90558796	91164437	Usher syndrome type 2	Definitive	ADGRV1
+chr5	93583221	93594611	Bosch-Boonstra-Schaaf optic atrophy syndrome	Definitive	NR2F1
+chr5	110738144	110765157	Leigh syndrome	Limited	SLC25A46
+chr5	110738144	110765157	neuropathy, hereditary motor and sensory, type 6B	Definitive	SLC25A46
+chr5	111092347	111130502	obsolete glaucoma 1, open angle, G	Disputed	WDR36
+chr5	112707497	112846239	classic or attenuated familial adenomatous polyposis	Definitive	APC
+chr5	112707497	112846239	gastric adenocarcinoma and proximal polyposis of the stomach	Definitive	APC
+chr5	119452496	119542332	d-bifunctional protein deficiency	Definitive	HSD17B4
+chr5	119452496	119542332	Perrault syndrome	Definitive	HSD17B4
+chr5	122063194	122078259	familial thoracic aortic aneurysm and aortic dissection	Strong	LOX
+chr5	126541840	126595219	pyridoxine-dependent epilepsy	Definitive	ALDH7A1
+chr5	127290795	127461222	MEGF10-related myopathy	Definitive	MEGF10
+chr5	128257908	128538245	familial thoracic aortic aneurysm and aortic dissection	Limited	FBN2
+chr5	131159026	131165256	Charcot-Marie-Tooth disease	Definitive	HINT1
+chr5	131170943	131205428	mitochondrial disease	Definitive	LYRM7
+chr5	131641713	131797017	FNIP1-associated syndrome	Strong	FNIP1
+chr5	132369709	132395612	short QT syndrome	Disputed	SLC22A5
+chr5	132369709	132395612	systemic primary carnitine deficiency disease	Definitive	SLC22A5
+chr5	132556976	132646349	familial ovarian cancer	Disputed	RAD50
+chr5	132556976	132646349	hereditary breast carcinoma	Refuted	RAD50
+chr5	132866641	132868847	Leigh syndrome	Limited	UQCRQ
+chr5	138753424	138935034	CTNNA1-related diffuse gastric and lobular breast cancer syndrome	Definitive	CTNNA1
+chr5	138753424	138935034	hereditary nonpolyposis colon cancer	No Known Disease Relationship	CTNNA1
+chr5	138946723	139198368	Marinesco-Sjogren syndrome	Definitive	SIL1
+chr5	139274100	139331677	amyotrophic lateral sclerosis type 21	Moderate	MATR3
+chr5	140114108	140125619	complex neurodevelopmental disorder	Definitive	PURA
+chr5	140645284	140647630	Leigh syndrome	Moderate	NDUFA2
+chr5	140673904	140691370	Usher syndrome type 3	Refuted	HARS1
+chr5	140691454	140699305	Perrault syndrome 2	Limited	HARS2
+chr5	141515020	141619000	diaph1-related sensorineural hearing loss-thrombocytopenia syndrome	Definitive	DIAPH1
+chr5	145858520	145873014	nonsyndromic genetic hearing loss	Moderate	GRXCR2
+chr5	146338838	146341728	nonsyndromic genetic hearing loss	Definitive	POU4F3
+chr5	148383957	148442836	distal hereditary motor neuropathy	Moderate	FBXO38
+chr5	148982149	149063062	autosomal recessive hereditary demyelinating motor and sensory neuropathy	Definitive	SH3TC2
+chr5	149857952	149944793	inherited retinal dystrophy	Definitive	PDE6A
+chr5	149960757	149987400	achondrogenesis type IB	Definitive	SLC26A2
+chr5	149960757	149987400	atelosteogenesis type II	Definitive	SLC26A2
+chr5	149960757	149987400	diastrophic dysplasia	Definitive	SLC26A2
+chr5	149960757	149987400	multiple epiphyseal dysplasia	Definitive	SLC26A2
+chr5	150357696	150400293	Treacher-Collins syndrome	Definitive	TCOF1
+chr5	151253184	151270440	Tay-Sachs disease AB variant	Definitive	GM2A
+chr5	151314971	151347559	iminoglycinuria	Limited	SLC36A2
+chr5	154474971	154478227	congenital heart disease	Moderate	HAND1
+chr5	156327163	156767788	autosomal recessive limb-girdle muscular dystrophy	Definitive	SGCD
+chr5	156327163	156767788	dilated cardiomyopathy	Limited	SGCD
+chr5	157180839	157255185	lymphoproliferative syndrome 1	Definitive	ITK
+chr5	161847190	161899959	developmental and epileptic encephalopathy	Definitive	GABRA1
+chr5	162067464	162155526	epilepsy	Definitive	GABRG2
+chr5	169637274	170083382	DOCK2 deficiency	Definitive	DOCK2
+chr5	170105896	170109737	enlarged vestibular aqueduct syndrome	Disputed	FOXI1
+chr5	170105896	170109737	hearing loss disorder	Limited	FOXI1
+chr5	172325180	172454525	Frank-Ter Haar syndrome	Definitive	SH3PXD2B
+chr5	173232108	173235206	dilated cardiomyopathy	Limited	NKX2-5
+chr5	173232108	173235206	NKX2.5-related congenital, conduction and myopathic heart disease	Definitive	NKX2-5
+chr5	174724581	174730896	craniosynostosis 2	Definitive	MSX2
+chr5	174724581	174730896	parietal foramina	Definitive	MSX2
+chr5	177131797	177300213	Sotos syndrome	Definitive	NSD1
+chr5	177384433	177398848	Fanconi renotubular syndrome 2	Disputed	SLC34A1
+chr5	177384433	177398848	hypercalcemia, infantile, 2	Definitive	SLC34A1
+chr5	177402140	177409564	congenital factor XII deficiency	Definitive	F12
+chr5	177402140	177409564	hereditary angioedema type 3	Moderate	F12
+chr5	177511576	177516961	DDX41-related hematologic malignancy predisposition syndrome	Definitive	DDX41
+chr5	178149462	178153885	dyskeratosis congenita	Limited	NHP2
+chr5	178208473	178232822	phosphohydroxylysinuria	Limited	PHYKPL
+chr5	178978326	178995320	GRM6-related retinopathy	Definitive	GRM6
+chr5	179806392	179838078	frontotemporal dementia and/or amyotrophic lateral sclerosis 3	Moderate	SQSTM1
+chr5	180601505	180649600	congenital heart defects, multiple types, 7	Definitive	FLT4
+chr5	180601505	180649600	lymphatic malformation 1	Definitive	FLT4
+chr6	485153	693139	complex neurodevelopmental disorder	Limited	EXOC2
+chr6	1609914	1613897	anterior segment dysgenesis 3	Definitive	FOXC1
+chr6	2948158	2971793	nonsyndromic genetic hearing loss	Moderate	SERPINB6
+chr6	3153665	3157544	tubulinopathy	Definitive	TUBB2A
+chr6	3224276	3227653	complex cortical dysplasia with other brain malformations	Definitive	TUBB2B
+chr6	5261006	5771583	Leigh syndrome	Moderate	FARS2
+chr6	6144083	6320662	factor XIII, A subunit, deficiency of	Definitive	F13A1
+chr6	7541670	7586714	arrhythmogenic cardiomyopathy with woolly hair and keratoderma	Definitive	DSP
+chr6	7541670	7586714	hypertrophic cardiomyopathy	Disputed	DSP
+chr6	10762722	10838539	inherited retinal dystrophy	Definitive	MAK
+chr6	15522806	15663028	Hermansky-Pudlak syndrome 7	Definitive	DTNBP1
+chr6	18120439	18122677	Lafora disease	Definitive	NHLRC1
+chr6	24171754	24383292	ciliopathy	Definitive	DCDC2
+chr6	24171754	24383292	nonsyndromic genetic hearing loss	Limited	DCDC2
+chr6	24494968	24537207	succinic semialdehyde dehydrogenase deficiency	Definitive	ALDH5A1
+chr6	24839343	25042168	nonsyndromic genetic hearing loss	Moderate	RIPOR2
+chr6	26156328	26157115	syndromic intellectual disability	Definitive	H1-4
+chr6	30914237	30926459	mitochondrial disease	Definitive	VARS2
+chr6	31666079	31670067	Poirier-Bienvenu neurodevelopmental syndrome	Definitive	CSNK2B
+chr6	31723372	31726714	thrombocytopenia, anemia, and myelofibrosis	Definitive	MPIG6B
+chr6	31857658	31862821	sialidosis	Definitive	NEU1
+chr6	31863191	31878997	nonsyndromic genetic hearing loss	Limited	SLC44A4
+chr6	31946094	31952084	atypical hemolytic-uremic syndrome with B factor anomaly	Moderate	CFB
+chr6	32845208	32853704	MHC class I deficiency	Definitive	TAP1
+chr6	33162693	33193137	nonsyndromic genetic hearing loss	Moderate	COL11A2
+chr6	33162693	33193137	otospondylomegaepiphyseal dysplasia	Definitive	COL11A2
+chr6	33200866	33204437	agammaglobulinemia	Moderate	SLC39A7
+chr6	33299693	33314078	MHC class I deficiency	Moderate	TAPBP
+chr6	33420064	33453689	complex neurodevelopmental disorder	Definitive	SYNGAP1
+chr6	34417453	34426069	Diamond-Blackfan anemia	Definitive	RPS10
+chr6	35452337	35467102	Fanconi anemia complementation group E	Definitive	FANCE
+chr6	35805351	35824070	nonsyndromic genetic hearing loss	Definitive	LHFPL5
+chr6	38715310	39030792	primary ciliary dyskinesia	Disputed	DNAH8
+chr6	38715310	39030792	spermatogenic failure 46	Strong	DNAH8
+chr6	39904169	39934462	sulfite oxidase deficiency due to molybdenum cofactor deficiency type A	Definitive	MOCS1
+chr6	42960753	42963880	glycine N-methyltransferase deficiency	Limited	GNMT
+chr6	42963864	42979181	peroxisome biogenesis disorder	Definitive	PEX6
+chr6	42984569	43012342	syndromic intellectual disability	Definitive	PPP2R5D
+chr6	43576184	43620523	xeroderma pigmentosum variant type	Definitive	POLH
+chr6	43645035	43672600	primary ciliary dyskinesia 12	Definitive	RSPH9
+chr6	44298730	44313347	mitochondrial disease	Definitive	AARS2
+chr6	49430359	49463253	methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency	Definitive	MMUT
+chr6	51615298	52087613	autosomal recessive polycystic kidney disease	Definitive	PKHD1
+chr6	56457995	56954830	hereditary sensory and autonomic neuropathy type 6	Definitive	DST
+chr6	57186991	57222307	RAB23-related Carpenter syndrome	Definitive	RAB23
+chr6	63719979	65707226	EYS-related retinopathy	Definitive	EYS
+chr6	69674009	69797010	methylmalonic aciduria and homocystinuria type cblF	Definitive	LMBRD1
+chr6	70216125	70303084	Stickler syndrome	Limited	COL9A1
+chr6	73593378	73653992	free sialic acid storage disease, infantile form	Definitive	SLC17A5
+chr6	75749238	75919537	nonsyndromic genetic hearing loss	Definitive	MYO6
+chr6	75921113	76072662	inherited retinal dystrophy	Definitive	IMPG1
+chr6	75921113	76072662	vitelliform macular dystrophy 4	Definitive	IMPG1
+chr6	78934418	79078254	PHIP-related behavioral problems-intellectual disability-obesity-dysmorphic features syndrome	Definitive	PHIP
+chr6	79484990	79537430	LCA5-related retinopathy	Definitive	LCA5
+chr6	79914813	79947553	Stargardt disease 3	Definitive	ELOVL4
+chr6	80106670	80463223	maple syrup urine disease type 1B	Definitive	BCKDHB
+chr6	87155564	87265943	complex neurodevelopmental disorder	Definitive	ZNF292
+chr6	87513937	87589987	mitochondrial disease	Definitive	RARS2
+chr6	89926527	90296843	immunodeficiency 60	Moderate	BACH2
+chr6	96889314	96897891	Leigh syndrome	Limited	NDUFAF4
+chr6	98868534	98947946	Leigh syndrome	Definitive	FBXL4
+chr6	101393707	102070083	complex neurodevelopmental disorder	Definitive	GRIK2
+chr6	105096821	105137157	autosomal recessive limb-girdle muscular dystrophy	Definitive	BVES
+chr6	106184475	106325760	spinocerebellar ataxia, autosomal recessive 25	Limited	ATG5
+chr6	107152561	107459564	Leigh syndrome	Moderate	PDSS2
+chr6	107490116	107661306	syndromic intellectual disability	Limited	SOBP
+chr6	107867755	107958208	polycystic liver disease 2	Definitive	SEC63
+chr6	108848421	108974476	spermatogenic failure 38	Definitive	ARMC2
+chr6	109366513	109382467	autosomal dominant nonsyndromic hearing loss	Limited	CD164
+chr6	109691295	109825426	amyotrophic lateral sclerosis type 11	Limited	FIG4
+chr6	109691295	109825426	Charcot-Marie-Tooth disease	Definitive	FIG4
+chr6	112107930	112254567	dilated cardiomyopathy	Limited	LAMA4
+chr6	116616478	116632985	primary ciliary dyskinesia 11	Definitive	RSPH4A
+chr6	118548295	118561716	arrhythmogenic right ventricular cardiomyopathy	Moderate	PLN
+chr6	118548295	118561716	intrinsic cardiomyopathy	Definitive	PLN
+chr6	121435645	121449727	nonsyndromic genetic hearing loss	Disputed	GJA1
+chr6	123216338	123636950	catecholaminergic polymorphic ventricular tachycardia	Definitive	TRDN
+chr6	123216338	123636950	long QT syndrome	Strong	TRDN
+chr6	128883137	129516566	LAMA2-related muscular dystrophy	Definitive	LAMA2
+chr6	131573225	131584329	hyperargininemia	Definitive	ARG1
+chr6	131573965	131628242	syndromic intellectual disability	Moderate	MED23
+chr6	133241356	133532128	dilated cardiomyopathy 1J	Limited	EYA4
+chr6	133241356	133532128	nonsyndromic genetic hearing loss	Definitive	EYA4
+chr6	135283531	135497740	Joubert syndrome 3	Definitive	AHI1
+chr6	136822591	136913934	peroxisome biogenesis disorder	Definitive	PEX7
+chr6	143450804	143490616	peroxisome biogenesis disorder	Definitive	PEX3
+chr6	144150516	144191939	familial hemophagocytic lymphohistiocytosis 4	Definitive	STX11
+chr6	145625304	145736023	Lafora disease	Definitive	EPM2A
+chr6	151404761	151452126	mitochondrial disease	Definitive	RMND1
+chr6	156776025	157210779	Coffin-Siris syndrome	Definitive	ARID1B
+chr6	158109518	158168262	Leigh syndrome	Definitive	SERAC1
+chr6	159762044	159779112	acetyl-CoA acetyltransferase-2 deficiency	No Known Disease Relationship	ACAT2
+chr6	160702243	160754097	hypoplasminogenemia	Definitive	PLG
+chr6	161347416	162727766	Parkinson disease	Definitive	PRKN
+chr7	2537809	2555524	neonatal-onset encephalopathy with rigidity and seizures	Definitive	BRAT1
+chr7	2537809	2555524	neurodevelopmental disorder with cerebellar atrophy and with or without seizures	Definitive	BRAT1
+chr7	2906141	3043867	BENTA disease	Definitive	CARD11
+chr7	2906141	3043867	immunodeficiency 11b with atopic dermatitis	Definitive	CARD11
+chr7	2906141	3043867	severe combined immunodeficiency due to CARD11 deficiency	Definitive	CARD11
+chr7	4775622	4794397	hereditary spastic paraplegia	Definitive	AP5Z1
+chr7	5527147	5530601	ACTB-associated syndromic thrombocytopenia	Moderate	ACTB
+chr7	5527147	5530601	Baraitser-Winter cerebrofrontofacial syndrome	Definitive	ACTB
+chr7	5970924	6009106	hereditary breast carcinoma	Disputed	PMS2
+chr7	5970924	6009106	Lynch syndrome	Definitive	PMS2
+chr7	5970924	6009106	mismatch repair cancer syndrome 1	Definitive	PMS2
+chr7	10931942	10940153	Leigh syndrome	Limited	NDUFA4
+chr7	16087524	16421538	autosomal recessive limb-girdle muscular dystrophy	Definitive	CRPPA
+chr7	19113046	19117636	Saethre-Chotzen syndrome	Definitive	TWIST1
+chr7	19113046	19117636	Sweeney-Cox syndrome	Limited	TWIST1
+chr7	19113046	19117636	TWIST1-related craniosynostosis	Moderate	TWIST1
+chr7	21543038	21901839	primary ciliary dyskinesia 7	Definitive	DNAH11
+chr7	24698354	24757939	autosomal dominant nonsyndromic hearing loss	Definitive	GSDME
+chr7	25118655	25125260	thrombocytopenia 4	Limited	CYCS
+chr7	26189926	26200746	amyotrophic lateral sclerosis	Limited	HNRNPA2B1
+chr7	27092992	27096000	syndromic intellectual disability	Definitive	HOXA1
+chr7	27181156	27185232	radioulnar synostosis with amegakaryocytic thrombocytopenia 1	Limited	HOXA11
+chr7	27525441	27662883	3-hydroxyisobutyric aciduria	Limited	HIBADH
+chr7	30594734	30634033	Charcot-Marie-Tooth disease type 2D	Definitive	GARS1
+chr7	30911852	30925516	pulmonary arterial hypertension	Limited	AQP1
+chr7	33129539	33635767	ciliopathy	Definitive	BBS9
+chr7	35202429	35254100	dilated cardiomyopathy	Limited	TBX20
+chr7	37848596	37900397	primary ciliary dyskinesia 6	Limited	NME8
+chr7	39950255	40099580	syndromic intellectual disability	Definitive	CDK13
+chr7	40135004	40860763	glutaric acidemia type 3	Moderate	SUGCT
+chr7	44114679	44123548	non-severe combined immunodeficiency due to polymerase delta deficiency	Limited	POLD2
+chr7	44143212	44189439	monogenic diabetes	Definitive	GCK
+chr7	45574367	45723116	hearing loss, autosomal recessive	Limited	ADCY1
+chr7	50304063	50405101	autoimmune disease	Moderate	IKZF1
+chr7	50304063	50405101	pancytopenia due to IKZF1 mutations	Definitive	IKZF1
+chr7	50458441	50565405	aromatic L-amino acid decarboxylase deficiency	Definitive	DDC
+chr7	55019016	55211628	non-small cell lung carcinoma	Definitive	EGFR
+chr7	56011063	56051444	neurometabolic disorder due to serine deficiency	Moderate	PSPH
+chr7	65960683	65982213	mucopolysaccharidosis type 7	Definitive	GUSB
+chr7	66075818	66093576	argininosuccinic aciduria	Definitive	ASL
+chr7	66628880	66643229	progressive myoclonus epilepsy	Definitive	KCTD7
+chr7	66987679	66995586	Shwachman-Diamond syndrome	Definitive	SBDS
+chr7	69598474	70793506	syndromic intellectual disability	Definitive	AUTS2
+chr7	75915154	75986855	Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis	Definitive	POR
+chr7	76302672	76304292	Charcot-Marie-Tooth disease axonal type 2F	Definitive	HSPB1
+chr7	78017054	79453667	epilepsy	Refuted	MAGI2
+chr7	80134830	80226181	complex neurodevelopmental disorder	Definitive	GNAI1
+chr7	81699009	81770047	nonsyndromic genetic hearing loss	Moderate	HGF
+chr7	81946443	82443956	Brugada syndrome 1	Disputed	CACNA2D1
+chr7	81946443	82443956	short QT syndrome	Disputed	CACNA2D1
+chr7	87401695	87475680	progressive familial intrahepatic cholestasis type 3	Definitive	ABCB4
+chr7	91940861	92110673	long QT syndrome	Disputed	AKAP9
+chr7	92447481	92460075	dilated cardiomyopathy	Limited	GATAD1
+chr7	92487024	92528520	peroxisome biogenesis disorder	Definitive	PEX1
+chr7	94394894	94431227	combined osteogenesis imperfecta and Ehlers-Danlos syndrome 2	Moderate	COL1A2
+chr7	94394894	94431227	Ehlers-Danlos syndrome, arthrochalasis type	Definitive	COL1A2
+chr7	94394894	94431227	Ehlers-Danlos syndrome, cardiac valvular type	Definitive	COL1A2
+chr7	94394894	94431227	osteogenesis imperfecta type 1	Definitive	COL1A2
+chr7	94394894	94431227	osteogenesis imperfecta type 2	Definitive	COL1A2
+chr7	94394894	94431227	osteogenesis imperfecta type 3	Definitive	COL1A2
+chr7	94394894	94431227	osteogenesis imperfecta type 4	Definitive	COL1A2
+chr7	96120219	96322098	citrin deficiency	Definitive	SLC25A13
+chr7	97851676	97928441	congenital microcephaly - severe encephalopathy - progressive cerebral atrophy syndrome	Definitive	ASNS
+chr7	98878531	99013241	complex neurodevelopmental disorder with or without congenital anomalies	Definitive	TRRAP
+chr7	99374729	99394816	platelet abnormalities with eosinophilia and immune-mediated inflammatory disease	Definitive	ARPC1B
+chr7	100101642	100109039	AP-4 deficiency syndrome	Definitive	AP4M1
+chr7	100802564	100827523	EPHB4-associated vascular malformation spectrum	Definitive	EPHB4
+chr7	101127103	101139247	congenital plasminogen activator inhibitor type 1 deficiency	Moderate	SERPINE1
+chr7	101154475	101161276	MEDNIK syndrome	Definitive	AP1S1
+chr7	103352729	103446207	nonsyndromic genetic hearing loss	Limited	SLC26A5
+chr7	103471788	103989658	complex neurodevelopmental disorder	Disputed	RELN
+chr7	103471788	103989658	lissencephaly with cerebellar hypoplasia	Definitive	RELN
+chr7	105014204	105115019	complex neurodevelopmental disorder	Definitive	KMT2E
+chr7	105532200	105567677	familial ovarian cancer	No Known Disease Relationship	RINT1
+chr7	105532200	105567677	hereditary breast carcinoma	Refuted	RINT1
+chr7	106865281	106908980	immunodeficiency 97 with autoinflammation	Moderate	PIK3CG
+chr7	107660827	107717809	Pendred syndrome	Definitive	SLC26A4
+chr7	107891106	107921198	Leigh syndrome	Definitive	DLD
+chr7	107891106	107921198	pyruvate dehydrogenase E3 deficiency	Definitive	DLD
+chr7	107923798	108003161	cobblestone lissencephaly without muscular or ocular involvement	Moderate	LAMB1
+chr7	114086326	114693765	specific language disorder	Definitive	FOXP2
+chr7	116499737	116508541	amyotrophic lateral sclerosis	Limited	CAV2
+chr7	116525008	116561185	amyotrophic lateral sclerosis	Limited	CAV1
+chr7	116525008	116561185	pulmonary arterial hypertension	Definitive	CAV1
+chr7	116672195	116798377	complex neurodevelopmental disorder	Disputed	MET
+chr7	116672195	116798377	nonsyndromic genetic hearing loss	Limited	MET
+chr7	116672195	116798377	papillary renal cell carcinoma	Definitive	MET
+chr7	120787319	120858144	TSPAN12-related vitreoretinopathy	Definitive	TSPAN12
+chr7	122073548	122144249	hyperlysinemia	Definitive	AASS
+chr7	127610291	127618142	monogenic diabetes	Refuted	PAX4
+chr7	128830405	128859272	dilated cardiomyopathy	Definitive	FLNC
+chr7	128830405	128859272	myofibrillar myopathy 5	Definitive	FLNC
+chr7	129188632	129213545	congenital hypothalamic hamartoma syndrome	Moderate	SMO
+chr7	129774691	129774769	nonsyndromic genetic hearing loss	Moderate	MIR96
+chr7	139778241	140020293	ghosal hematodiaphyseal dysplasia	Moderate	TBXAS1
+chr7	140713327	140924929	cardiofaciocutaneous syndrome	Definitive	BRAF
+chr7	140713327	140924929	Costello syndrome	Disputed	BRAF
+chr7	140713327	140924929	Noonan syndrome	Moderate	BRAF
+chr7	140713327	140924929	Noonan syndrome with multiple lentigines	Limited	BRAF
+chr7	141738320	141750488	Leigh syndrome	Limited	SSBP1
+chr7	141738320	141750488	optic atrophy 13 with retinal and foveal abnormalities	Strong	SSBP1
+chr7	142749471	142753072	hereditary chronic pancreatitis	Definitive	PRSS1
+chr7	144451940	144836053	Leigh syndrome	Moderate	TPK1
+chr7	146116800	148420998	complex neurodevelopmental disorder	Definitive	CNTNAP2
+chr7	148807382	148884291	Weaver syndrome	Definitive	EZH2
+chr7	150944960	150978321	Brugada syndrome	Disputed	KCNH2
+chr7	150944960	150978321	long QT syndrome	Definitive	KCNH2
+chr7	150944960	150978321	short QT syndrome	Definitive	KCNH2
+chr7	151175697	151187792	obsolete glaucoma 1, open angle, F	Limited	ASB10
+chr7	151556126	151877115	hypertrophic cardiomyopathy	Definitive	PRKAG2
+chr7	152134924	152436003	syndromic intellectual disability	Definitive	KMT2C
+chr7	152644775	152676141	familial ovarian cancer	No Known Disease Relationship	XRCC2
+chr7	152644775	152676141	hereditary breast carcinoma	Refuted	XRCC2
+chr7	153748132	154894285	complex neurodevelopmental disorder	Disputed	DPP6
+chr7	155458128	155464831	complex neurodevelopmental disorder	Disputed	EN2
+chr7	157337003	157417439	muscular dystrophy, limb-girdle, autosomal dominant	Definitive	DNAJB6
+chr7	158631168	158704804	Khan-Khan-Katsanis syndrome	Limited	NCAPG2
+chr8	737627	1708476	complex neurodevelopmental disorder	Limited	DLGAP2
+chr8	1763788	1786570	neuronal ceroid lipofuscinosis	Definitive	CLN8
+chr8	1823925	1958641	autosomal dominant slowed nerve conduction velocity	Limited	ARHGEF10
+chr8	6406626	6648508	familial ovarian cancer	No Known Disease Relationship	MCPH1
+chr8	6406626	6648508	hereditary breast carcinoma	Limited	MCPH1
+chr8	6406626	6648508	microcephaly with intellectual disability	Definitive	MCPH1
+chr8	11494386	11564599	monogenic diabetes	Refuted	BLK
+chr8	11676934	11760002	structural congenital heart disease, multiple types - GATA4	Definitive	GATA4
+chr8	15417187	15767552	intellectual disability	Definitive	TUSC3
+chr8	18527302	19084805	antecubital pterygium syndrome	Limited	PSD3
+chr8	24950954	24956612	Charcot-Marie-Tooth disease	Definitive	NEFL
+chr8	24950954	24956612	Charcot-Marie-Tooth disease type 2	Definitive	NEFL
+chr8	27459755	27479261	benign familial infantile epilepsy	Disputed	CHRNA2
+chr8	27459755	27479261	sleep-related hypermotor epilepsy	Limited	CHRNA2
+chr8	27774553	27805316	Roberts-SC phocomelia syndrome	Definitive	ESCO2
+chr8	31033809	31176138	Werner syndrome	Definitive	WRN
+chr8	38411142	38468635	Hartsfield-Bixler-Demyer syndrome	Moderate	FGFR1
+chr8	38411142	38468635	osteoglophonic dwarfism	Limited	FGFR1
+chr8	38411142	38468635	Pfeiffer syndrome type 1	Definitive	FGFR1
+chr8	38996972	39105261	ADAM9-related retinopathy	Definitive	ADAM9
+chr8	41653224	41896741	hereditary spherocytosis	Definitive	ANK1
+chr8	41929478	42051987	syndromic intellectual disability	Definitive	KAT6A
+chr8	42174717	42207565	thrombophilia, familial, due to decreased release of tissue plasminogen activator	Disputed	PLAT
+chr8	42271301	42332460	severe combined immunodeficiency due to IKK2 deficiency	Definitive	IKBKB
+chr8	43140463	43202855	mucopolysaccharidosis type 3C	Definitive	HGSNAT
+chr8	47773110	47960136	severe combined immunodeficiency due to DNA-PKcs deficiency	Definitive	PRKDC
+chr8	47960940	47978160	primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency	Moderate	MCM4
+chr8	48917597	48921429	Waardenburg syndrome	Limited	SNAI2
+chr8	54457934	54460892	pulmonary arterial hypertension	Definitive	SOX17
+chr8	54559184	54871234	RP1-related dominant retinopathy	Definitive	RP1
+chr8	54559184	54871234	RP1-related recessive retinopathy	Definitive	RP1
+chr8	56067253	56074506	hereditary nonpolyposis colon cancer	Limited	RPS20
+chr8	60678739	60868028	CHARGE syndrome	Definitive	CHD7
+chr8	66176375	66178464	epilepsy	Refuted	CRH
+chr8	67064367	67196614	Joubert syndrome 21	Definitive	CSPP1
+chr8	67422037	67746360	epilepsy	Disputed	CPA6
+chr8	71197432	71548094	branchio-oto-renal syndrome	Definitive	EYA1
+chr8	73976194	73982783	mitochondrial disease	Definitive	TMEM70
+chr8	74350402	74488872	Charcot-Marie-Tooth disease	Definitive	GDAP1
+chr8	76980257	77001044	peroxisome biogenesis disorder	Definitive	PEX2
+chr8	81440325	81447439	Charcot-Marie-Tooth disease	Limited	PMP2
+chr8	86574178	86743634	CNGB3-related retinopathy	Definitive	CNGB3
+chr8	89933330	89984667	hereditary breast carcinoma	Refuted	NBN
+chr8	89933330	89984667	Nijmegen breakage syndrome	Definitive	NBN
+chr8	90001476	90053633	progressive encephalopathy with leukodystrophy due to DECR deficiency	No Known Disease Relationship	DECR1
+chr8	93754893	93819238	ciliopathy	Definitive	TMEM67
+chr8	94895798	95076813	Leigh syndrome	Definitive	NDUFAF6
+chr8	99013273	99877580	Cohen syndrome	Definitive	VPS13B
+chr8	100158037	100241904	primary ciliary dyskinesia 28	Definitive	SPAG1
+chr8	101492438	101669726	nonsyndromic genetic hearing loss	Strong	GRHL2
+chr8	102648783	102655725	hypertrophic cardiomyopathy	Limited	KLF10
+chr8	116845933	116874776	Cornelia de Lange syndrome	Definitive	RAD21
+chr8	117794489	118111826	exostoses, multiple, type 1	Definitive	EXT1
+chr8	125024259	125091792	hereditary spastic paraplegia 8	Moderate	WASHC5
+chr8	125024259	125091792	Ritscher-Schinzel syndrome 1	Limited	WASHC5
+chr8	132570415	132675545	primary ciliary dyskinesia 19	Definitive	DNAAF11
+chr8	139727724	140458579	intellectual disability-obesity-brain malformations-facial dysmorphism syndrome	Definitive	TRAPPC9
+chr8	140520155	140635633	Lessel-Kreienkamp syndrome	Definitive	AGO2
+chr8	142910558	142917843	familial hyperreninemic hypoaldosteronism type 2	Definitive	CYP11B2
+chr8	143816343	143829315	syndromic intellectual disability	Definitive	PUF60
+chr8	143915152	143976745	autosomal recessive limb-girdle muscular dystrophy	Moderate	PLEC
+chr8	144082633	144086216	glycosylphosphatidylinositol biosynthesis defect 15	Strong	GPAA1
+chr8	144095075	144097525	mitochondrial disease	Moderate	CYC1
+chr8	144358551	144361272	brown-Vialetto-van Laere syndrome 2	Definitive	SLC52A2
+chr8	144511287	144517833	Rothmund-Thomson syndrome	Definitive	RECQL4
+chr9	214864	465255	combined immunodeficiency due to DOCK8 deficiency	Definitive	DOCK8
+chr9	2015346	2193620	intellectual disability-sparse hair-brachydactyly syndrome	Definitive	SMARCA2
+chr9	2621786	2660056	cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 1	Definitive	VLDLR
+chr9	4490467	4587469	dicarboxylic aminoaciduria	Limited	SLC1A1
+chr9	6532466	6645729	glycine encephalopathy	Definitive	GLDC
+chr9	21802635	21941115	diaphyseal medullary stenosis-bone malignancy syndrome	Moderate	MTAP
+chr9	21967751	21995324	melanoma-pancreatic cancer syndrome	Definitive	CDKN2A
+chr9	27109140	27230178	TEK-related primary glaucoma	Definitive	TEK
+chr9	27546545	27573866	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	Definitive	C9orf72
+chr9	32540543	32552586	inherited retinal dystrophy	Definitive	TOPORS
+chr9	34458804	34520984	primary ciliary dyskinesia 1	Definitive	DNAI1
+chr9	34646674	34651035	galactosemia	Definitive	GALT
+chr9	35056063	35072625	inclusion body myopathy with Paget disease of bone and frontotemporal dementia	Definitive	VCP
+chr9	35073838	35079942	Fanconi anemia complementation group G	Definitive	FANCG
+chr9	35088687	35096591	complex neurodevelopmental disorder	Definitive	PIGO
+chr9	35657749	35658019	cartilage-hair hypoplasia	Definitive	RMRP
+chr9	35681992	35690056	TPM2-related myopathy	Definitive	TPM2
+chr9	36214440	36276978	macrothrombocytopenia, isolated	Moderate	GNE
+chr9	36833268	37034268	PAX5-related B lymphopenia and autism spectrum disorder	Moderate	PAX5
+chr9	69035751	69079076	Friedreich ataxia	Definitive	FXN
+chr9	69121263	69255208	nonsyndromic genetic hearing loss	Limited	TJP2
+chr9	72521607	72838297	autosomal recessive nonsyndromic hearing loss 7	Definitive	TMC1
+chr9	72521607	72838297	nonsyndromic genetic hearing loss	Definitive	TMC1
+chr9	74497334	74693177	epilepsy	Moderate	RORB
+chr9	78236074	78279690	cone-rod dystrophy and hearing loss	Strong	CEP78
+chr9	78297124	78330093	neurometabolic disorder due to serine deficiency	Definitive	PSAT1
+chr9	83968082	83980615	neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome	Definitive	HNRNPK
+chr9	86944361	86947506	holoprosencephaly	Limited	GAS1
+chr9	91213822	91361918	3-methylglutaconic aciduria type 1	Definitive	AUH
+chr9	95099053	95317709	Fanconi anemia complementation group C	Definitive	FANCC
+chr9	95442979	95516971	nevoid basal cell carcinoma syndrome	Definitive	PTCH1
+chr9	97674908	97697340	xeroderma pigmentosum group A	Definitive	XPA
+chr9	98732008	98796555	nephronophthisis 16	Definitive	ANKS6
+chr9	98807669	98850081	colorectal cancer, susceptibility to, 1	Limited	GALNT12
+chr9	99103646	99154192	familial thoracic aortic aneurysm and aortic dissection	Definitive	TGFBR1
+chr9	99103646	99154192	Loeys-Dietz syndrome	Definitive	TGFBR1
+chr9	99103646	99154192	multiple self-healing squamous epithelioma	Definitive	TGFBR1
+chr9	99216424	99221942	ALG2-congenital disorder of glycosylation	Strong	ALG2
+chr9	99222281	99230615	SEC61B-related polycystic liver disease	Limited	SEC61B
+chr9	100099242	100302175	nephronophthisis 2	Definitive	INVS
+chr9	101360416	101385006	bile acid CoA:amino acid N-acyltransferase deficiency	Moderate	BAAT
+chr9	105558129	105641118	myopathy caused by variation in FKTN	Definitive	FKTN
+chr9	106863165	107013634	weiss-kruszka syndrome	Definitive	ZNF462
+chr9	113386311	113401284	porphyria due to ALA dehydratase deficiency	Moderate	ALAD
+chr9	114402079	114505473	nonsyndromic genetic hearing loss	Moderate	WHRN
+chr9	114402079	114505473	Usher syndrome type 2D	Definitive	WHRN
+chr9	115019574	115118157	nonsyndromic genetic hearing loss	Limited	TNC
+chr9	116687304	116701299	autosomal recessive limb-girdle muscular dystrophy	Definitive	TRIM32
+chr9	120388874	120580167	autosomal recessive primary microcephaly	Definitive	CDK5RAP2
+chr9	122370532	122395703	platelet-type bleeding disorder 12	Limited	PTGS1
+chr9	123356196	123378753	focal segmental glomerulosclerosis 9	Definitive	CRB2
+chr9	126613927	126701032	nail-patella syndrome	Definitive	LMX1B
+chr9	127451485	127503501	Charcot-Marie-Tooth disease axonal type 2P	Definitive	LRSAM1
+chr9	127612276	127696029	developmental and epileptic encephalopathy	Definitive	STXBP1
+chr9	127815015	127854658	juvenile polyposis syndrome	Limited	ENG
+chr9	127815015	127854658	telangiectasia, hereditary hemorrhagic, type 1	Definitive	ENG
+chr9	128203378	128255244	developmental and epileptic encephalopathy	Definitive	DNM1
+chr9	128322838	128334072	mitochondrial disease	Definitive	COQ4
+chr9	128504718	128542288	amyotrophic lateral sclerosis	Limited	GLE1
+chr9	128552586	128633662	developmental and epileptic encephalopathy	Definitive	SPTAN1
+chr9	128683423	128696396	intellectual disability	Definitive	SET
+chr9	130444706	130501274	citrullinemia type I	Definitive	ASS1
+chr9	131009173	131094473	complex neurodevelopmental disorder	Disputed	LAMC3
+chr9	131502917	131523799	myopathy caused by variation in POMT1	Definitive	POMT1
+chr9	132261355	132354986	distal hereditary motor neuropathy	Definitive	SETX
+chr9	132891348	132944616	tuberous sclerosis	Definitive	TSC1
+chr9	132945530	132991687	platelet-type bleeding disorder 17	Definitive	GFI1B
+chr9	133061980	133071861	maturity-onset diabetes of the young type 8	Moderate	CEL
+chr9	133351757	133356487	Leigh syndrome	Definitive	SURF1
+chr9	133414336	133459386	congenital thrombotic thrombocytopenic purpura	Definitive	ADAMTS13
+chr9	133514585	133524959	obsolete Carey-Fineman-Ziter syndrome	Definitive	MYMK
+chr9	133663559	133739955	sarcosinemia	Limited	SARDH
+chr9	134641802	134844843	Ehlers-Danlos syndrome, classic type	Definitive	COL5A1
+chr9	135702184	135795502	childhood-onset epilepsy syndrome	Definitive	KCNT1
+chr9	136428618	136439845	Joubert syndrome 1	Definitive	INPP5E
+chr9	136428618	136439845	MORM syndrome	Moderate	INPP5E
+chr9	136494432	136546048	familial thoracic aortic aneurysm and aortic dissection	Limited	NOTCH1
+chr9	137086984	137109183	MAN1B1-congenital disorder of glycosylation	Definitive	MAN1B1
+chr9	137139153	137168756	complex neurodevelopmental disorder	Definitive	GRIN1
+chr9	137191618	137200741	nonsyndromic genetic hearing loss	Definitive	TPRN
+chr9	137241286	137243707	Leber congenital amaurosis with early-onset deafness	Moderate	TUBB4B
+chr9	137619004	137836127	Kleefstra syndrome	Definitive	EHMT1
+chr9	137877781	138124619	complex neurodevelopmental disorder with motor features	Moderate	CACNA1B
+chrX	2934809	2968245	X-linked chondrodysplasia punctata 1	Definitive	ARSL
+chrX	5890041	6228867	X-linked complex neurodevelopmental disorder	Definitive	NLGN4X
+chrX	8528873	8732137	hypogonadotropic hypogonadism 1 with or without anosmia	Definitive	ANOS1
+chrX	9725345	9765847	inherited retinal dystrophy	Definitive	GPR143
+chrX	10156974	10237660	non-syndromic X-linked intellectual disability	Definitive	CLCN4
+chrX	10445309	10833683	X-linked Opitz G/BBB syndrome	Definitive	MID1
+chrX	11758158	11775753	Basilicata-Akhtar syndrome	Definitive	MSL3
+chrX	11822438	12724523	X-linked complex neurodevelopmental disorder	Definitive	FRMPD4
+chrX	13734747	13769357	ciliopathy	Definitive	OFD1
+chrX	14795627	14873069	Fanconi anemia complementation group B	Definitive	FANCB
+chrX	15319450	15335554	developmental and epileptic encephalopathy	Moderate	PIGA
+chrX	15825805	15854813	X-linked syndromic intellectual disability	Definitive	AP1S2
+chrX	17375199	17735994	Nance-Horan syndrome	Definitive	NHS
+chrX	18425607	18653629	CDKL5 disorder	Definitive	CDKL5
+chrX	18639687	18672108	X-linked retinoschisis	Definitive	RS1
+chrX	19343926	19361718	Leigh syndrome	Definitive	PDHA1
+chrX	19533976	19887600	immunodeficiency 61	Limited	SH3KBP1
+chrX	20149910	20266909	Coffin-Lowry syndrome	Definitive	RPS6KA3
+chrX	21374417	21654689	X-linked complex neurodevelopmental disorder	Definitive	CNKSR2
+chrX	21705977	21758116	nonsyndromic genetic hearing loss	Definitive	SMPX
+chrX	21839616	21885423	IFAP syndrome with or without BRESHECK syndrome	Definitive	MBTPS2
+chrX	21940708	21994837	syndromic X-linked intellectual disability Snyder type	Definitive	SMS
+chrX	23334848	23404374	non-syndromic X-linked intellectual disability	Definitive	PTCHD1
+chrX	24054955	24078810	MEHMO syndrome	Definitive	EIF2S3
+chrX	25003693	25015965	developmental and epileptic encephalopathy	Definitive	ARX
+chrX	25003693	25015965	X-linked complex neurodevelopmental disorder	Definitive	ARX
+chrX	28587445	29956718	non-syndromic X-linked intellectual disability	Definitive	IL1RAPL1
+chrX	30653422	30731462	inborn glycerol kinase deficiency	Definitive	GK
+chrX	31119221	33339388	progressive muscular dystrophy	Definitive	DMD
+chrX	35919733	36385317	spermatogenic failure, X-linked, 3	Limited	CFAP47
+chrX	38269162	38327509	RPGR-related retinopathy	Definitive	RPGR
+chrX	38327683	38422928	ornithine carbamoyltransferase deficiency	Definitive	OTC
+chrX	38561541	38688918	non-syndromic X-linked intellectual disability	Moderate	TSPAN7
+chrX	40051245	40177329	microphthalmia, syndromic 2	Definitive	BCOR
+chrX	40580969	40606848	ATP6AP2-related disorder	Definitive	ATP6AP2
+chrX	41085444	41236579	X-linked syndromic intellectual disability	Definitive	USP9X
+chrX	41333307	41364472	X-linked syndromic intellectual disability	Definitive	DDX3X
+chrX	41447342	41475652	NYX-related retinopathy	Definitive	NYX
+chrX	41514933	41923554	X-linked syndromic intellectual disability	Definitive	CASK
+chrX	43655005	43746817	Brunner syndrome	Definitive	MAOA
+chrX	43948775	43973390	Norrie disease	Definitive	NDP
+chrX	44873187	45112779	Kabuki syndrome 2	Definitive	KDM6A
+chrX	46497724	46545421	X-linked intellectual disability	Disputed	ZNF674
+chrX	46837042	46882358	RP2-related retinopathy	Definitive	RP2
+chrX	47142215	47145491	mitochondrial disease	Definitive	NDUFB11
+chrX	47218302	47229997	X-linked complex neurodevelopmental disorder	Limited	CDK16
+chrX	47445177	47483222	non-syndromic X-linked intellectual disability	Disputed	ZNF41
+chrX	47571900	47619857	X-linked complex neurodevelopmental disorder	Definitive	SYN1
+chrX	47836901	47925627	X-linked intellectual disability	Disputed	ZNF81
+chrX	48476020	48486364	X-linked complex neurodevelopmental disorder	Definitive	FTSJ1
+chrX	48508991	48520808	focal dermal hypoplasia	Definitive	PORCN
+chrX	48521807	48528716	MEND syndrome	Definitive	EBP
+chrX	48683798	48691427	Wiskott-Aldrich syndrome	Definitive	WAS
+chrX	48683798	48691427	X-linked severe congenital neutropenia	Definitive	WAS
+chrX	48786589	48794311	GATA1-Related X-Linked Cytopenia	Definitive	GATA1
+chrX	48897929	48903143	Renpenning syndrome	Definitive	PQBP1
+chrX	48903182	48911646	X-linked complex neurodevelopmental disorder	Definitive	SLC35A2
+chrX	49074441	49101178	X-linked complex neurodevelopmental disorder	Definitive	WDR45
+chrX	49187814	49200193	non-syndromic X-linked intellectual disability	Moderate	SYP
+chrX	49205062	49233340	inherited retinal dystrophy	Definitive	CACNA1F
+chrX	49235469	49250520	Ritscher-Schinzel syndrome 2	Moderate	CCDC22
+chrX	49879483	49882558	X-linked intellectual disability	Limited	USP27X
+chrX	50586795	50814194	X-linked complex neurodevelopmental disorder	Disputed	SHROOM4
+chrX	53176276	53225207	X-linked syndromic intellectual disability	Definitive	KDM5C
+chrX	53232875	53321350	X-linked complex neurodevelopmental disorder	Definitive	IQSEC2
+chrX	53374148	53422728	X-linked complex neurodevelopmental disorder	Definitive	SMC1A
+chrX	53431257	53434376	HSD10 mitochondrial disease	Definitive	HSD17B10
+chrX	53532095	53686719	non-syndromic X-linked intellectual disability	Definitive	HUWE1
+chrX	53936679	54045136	syndromic X-linked intellectual disability Siderius type	Definitive	PHF8
+chrX	54445453	54496234	Aarskog-Scott syndrome, X-linked	Definitive	FGD1
+chrX	55009054	55030977	X-linked erythropoietic protoporphyria	Definitive	ALAS2
+chrX	56563626	56567868	amyotrophic lateral sclerosis type 15	Definitive	UBQLN2
+chrX	63634966	63785214	X-linked complex neurodevelopmental disorder	Moderate	ARHGEF9
+chrX	64915806	65034741	X-linked syndromic intellectual disability	Definitive	ZC4H2
+chrX	65512581	65534787	X-linked syndromic intellectual disability	Limited	LAS1L
+chrX	65667653	65741931	combined immunodeficiency due to moesin deficiency	Definitive	MSN
+chrX	67544020	67730619	Kennedy disease	Definitive	AR
+chrX	68042343	68433495	X-linked intellectual disability-cerebellar hypoplasia syndrome	Definitive	OPHN1
+chrX	68829020	68842160	craniofrontonasal syndrome	Definitive	EFNB1
+chrX	70133446	70166324	corpus callosum agenesis-intellectual disability-coloboma-micrognathia syndrome	Disputed	IGBP1
+chrX	70444834	70505490	non-syndromic X-linked intellectual disability	Definitive	DLG3
+chrX	71107403	71111577	T-B+ severe combined immunodeficiency due to gamma chain deficiency	Definitive	IL2RG
+chrX	71118595	71142450	MED12-related intellectual disability syndrome	Definitive	MED12
+chrX	71144840	71171201	X-linked complex neurodevelopmental disorder	Moderate	NLGN3
+chrX	71215238	71225516	Charcot-Marie-Tooth disease X-linked dominant 1	Definitive	GJB1
+chrX	71283634	71301168	X-linked syndromic intellectual disability	Definitive	NONO
+chrX	71533103	71575892	intellectual disability, X-linked 106	Moderate	OGT
+chrX	72329515	72572843	Cornelia de Lange syndrome	Definitive	HDAC8
+chrX	74421492	74533916	Allan-Herndon-Dudley syndrome	Definitive	SLC16A2
+chrX	74732855	74925452	X-linked complex neurodevelopmental disorder	Definitive	NEXMIF
+chrX	75368426	75523037	X-linked complex neurodevelopmental disorder	Disputed	ZDHHC15
+chrX	77504879	77786216	ATR-X-related syndrome	Definitive	ATRX
+chrX	77825746	77895435	X-linked intellectual disability	Disputed	MAGT1
+chrX	77910692	78050395	Menkes disease	Definitive	ATP7A
+chrX	77910692	78050395	X-linked distal spinal muscular atrophy type 3	Moderate	ATP7A
+chrX	80669502	80809877	X-linked syndromic intellectual disability	Definitive	BRWD3
+chrX	83508289	83512127	nonsyndromic genetic hearing loss	Definitive	POU3F4
+chrX	85243990	85273357	X-linked complex neurodevelopmental disorder	Definitive	ZNF711
+chrX	85861179	86047558	choroideremia	Definitive	CHM
+chrX	100291643	100410273	X-linked complex neurodevelopmental disorder	Definitive	PCDH19
+chrX	101345660	101348742	deafness dystonia syndrome	Definitive	TIMM8A
+chrX	101349449	101390796	Bruton-type agammaglobulinemia	Definitive	BTK
+chrX	101349449	101390796	isolated growth hormone deficiency type III	Disputed	BTK
+chrX	101397802	101407925	Fabry disease	Definitive	GLA
+chrX	102937271	102938300	X-linked syndromic intellectual disability	Refuted	RAB40AL
+chrX	103776505	103792619	Pelizaeus-Merzbacher disease	Definitive	PLP1
+chrX	107628509	107651026	phosphoribosylpyrophosphate synthetase superactivity	Limited	PRPS1
+chrX	107628509	107651026	PRPS1 deficiency disorder	Definitive	PRPS1
+chrX	108155613	108439458	hearing loss, X-linked 6	Limited	COL4A6
+chrX	108439837	108697545	Alport syndrome	Definitive	COL4A5
+chrX	109623699	109625172	Brugada syndrome	Disputed	KCNE5
+chrX	109641334	109733257	non-syndromic X-linked intellectual disability	Definitive	ACSL4
+chrX	110944396	111227361	X-linked syndromic intellectual disability	Definitive	PAK3
+chrX	111293778	111412192	lissencephaly spectrum disorders	Definitive	DCX
+chrX	111681169	111760649	developmental and epileptic encephalopathy	Definitive	ALG13
+chrX	116170743	116174974	X-linked complex neurodevelopmental disorder	Disputed	AGTR2
+chrX	119574562	119584423	syndromic X-linked intellectual disability Nascimento type	Definitive	UBE2A
+chrX	119834021	119852963	X-linked complex neurodevelopmental disorder	Definitive	UPF3B
+chrX	119871831	119876662	Leigh syndrome	Moderate	NDUFA1
+chrX	120426147	120469349	Danon disease	Definitive	LAMP2
+chrX	120523857	120575532	X-linked intellectual disability, Cabezas type	Definitive	CUL4B
+chrX	123184277	123490915	X-linked complex neurodevelopmental disorder	Definitive	GRIA3
+chrX	129446505	129523490	X-linked intellectual disability	Limited	SMARCA1
+chrX	129540258	129592556	oculocerebrorenal syndrome	Definitive	OCRL
+chrX	129779948	129795201	combined immunodeficiency, X-linked	Strong	SASH3
+chrX	129803287	129843886	syndromic X-linked intellectual disability Raymond type	Definitive	ZDHHC9
+chrX	130129361	130165841	Leigh syndrome	Moderate	AIFM1
+chrX	130129361	130165841	X-linked hereditary sensory and autonomic neuropathy with hearing loss	Definitive	AIFM1
+chrX	133535744	133985594	Simpson-Golabi-Behmel syndrome	Definitive	GPC3
+chrX	134373311	134428790	Borjeson-Forssman-Lehmann syndrome	Definitive	PHF6
+chrX	134460164	134500668	Lesch-Nyhan syndrome	Definitive	HPRT1
+chrX	135973836	136047269	Christianson syndrome	Definitive	SLC9A6
+chrX	136648157	136660390	hyper-IgM syndrome type 1	Definitive	CD40LG
+chrX	136665549	136780932	non-syndromic X-linked intellectual disability	Disputed	ARHGEF6
+chrX	139530738	139563459	hemophilia B	Definitive	F9
+chrX	139530738	139563459	thrombophilia, X-linked, due to factor 9 defect	Limited	F9
+chrX	147911918	147951125	fragile X syndrome	Definitive	FMR1
+chrX	148500616	149000663	non-syndromic X-linked intellectual disability	Definitive	AFF2
+chrX	149476987	149505306	mucopolysaccharidosis type 2	Definitive	IDS
+chrX	150568620	150673143	X-linked centronuclear myopathy	Definitive	MTM1
+chrX	152831062	152869729	CK syndrome	Moderate	NSDHL
+chrX	153494979	153509546	familial thoracic aortic aneurysm and aortic dissection	Limited	BGN
+chrX	153687925	153696588	creatine transporter deficiency	Definitive	SLC6A8
+chrX	153700491	153724387	severe motor and intellectual disabilities-sensorineural deafness-dystonia syndrome	Definitive	BCAP31
+chrX	153724855	153744755	adrenoleukodystrophy	Definitive	ABCD1
+chrX	153861515	153886173	L1 syndrome	Definitive	L1CAM
+chrX	153929224	153935037	NAA10-related syndrome	Definitive	NAA10
+chrX	153947556	153971818	X-linked intellectual disability	Definitive	HCFC1
+chrX	154021572	154097717	Rett syndrome	Definitive	MECP2
+chrX	154348530	154374634	familial thoracic aortic aneurysm and aortic dissection	Limited	FLNA
+chrX	154348530	154374634	periventricular nodular heterotopia	Definitive	FLNA
+chrX	154398064	154402339	X-linked syndromic intellectual disability	Moderate	RPL10
+chrX	154411538	154421726	Barth syndrome	Definitive	TAFAZZIN
+chrX	154428676	154436516	congenital disorder of glycosylation type II	Limited	ATP6AP1
+chrX	154437153	154443467	non-syndromic X-linked intellectual disability	Moderate	GDI1
+chrX	154531390	154547569	anemia, nonspherocytic hemolytic, due to G6PD deficiency	Definitive	G6PD
+chrX	154531390	154547569	G6PD deficiency	Definitive	G6PD
+chrX	154541237	154565046	IKBKG-related immunodeficiency with or without ectodermal dysplasia	Definitive	IKBKG
+chrX	154541237	154565046	incontinentia pigmenti	Definitive	IKBKG
+chrX	154762863	154777689	DKC1-related disorder	Definitive	DKC1
+chrX	154762863	154777689	dyskeratosis congenita, X-linked	Definitive	DKC1
+chrX	154835791	155022723	hemophilia A	Definitive	F8
+chrX	155258234	155264491	early-onset parkinsonism-intellectual disability syndrome	Definitive	RAB39B
+chrX	155276210	155334614	X-linked complex neurodevelopmental disorder	Disputed	CLIC2
+chrX	155489010	155612952	autism spectrum disorder	Disputed	TMLHE
